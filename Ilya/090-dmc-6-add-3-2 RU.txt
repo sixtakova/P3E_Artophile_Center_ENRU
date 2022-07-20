@@ -1,0 +1,9 @@
+
+u: Didi, the map doesn't seem right to me.
+u: Some of those elements are inside the building and some of them are outside, but your map shows them all in one place, which is confusing.
+
+
+j-dmc-6-add-3-2-no: Tell Azar that it's fine and we're just supposed to create a list of deliverables.
+j-dmc-6-add-3-2-yes: Divide the items into two groups.
+
+

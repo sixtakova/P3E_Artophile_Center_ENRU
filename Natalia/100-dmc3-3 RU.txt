@@ -1,0 +1,17 @@
+
+s: You've got a new email!
+q: Oh, I've got an email from Eris!
+
+e---
+Hi Didi,
+We have a new group of interns in the company. Each of them is appointed to a department related to their field, but there's one person, Mirai, who's a Master's student in project management, with an emphasis on scheduling, and we don't have a project management department. Would you like to have Mirai on your team?
+
+Regards,
+Eris
+---e
+
+
+j-dmc3-4-yes: Yes
+j-dmc3-4-no: No
+
+

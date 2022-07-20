@@ -1,0 +1,13 @@
+
+u: OK, I've only been to a few of the board meetings related to this project, and I've heard a little more from Anan.
+u: So, I can give you some information, but I also need to show the Project Description to the decision-makers and ask for their approval.
+i: Makes sense.
+i: Alright.
+u: Based on my understanding, the most important expectation is to promote our company. Out of 10 points, I'd give it a 6.
+u: Then helping the community gets 2 points.
+u: The other two get 1 point each.
+
+
+j-bl-pd3: Update the Project Description.
+
+

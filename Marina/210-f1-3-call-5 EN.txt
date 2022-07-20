@@ -1,0 +1,13 @@
+
+s: 2 hours later
+i: Oh, Anan, hi!
+u: Didi, what's wrong?!
+i: Nothing, I just wanted to talk to you.
+u: Is it urgent?
+i: No.
+u: Have you heard of this new technology called email?!
+
+
+j-f1-3-email: "Alright, I'll send you an email instead!"
+
+

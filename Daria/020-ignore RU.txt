@@ -1,0 +1,10 @@
+
+q: OK, that's another email done... four more to go.
+s: Someone is knocking at the door.
+q: Is that Eris knocking on my door?!
+
+
+j-your-office-a1: "Yes?"
+j-your-office-a1: "Come in."
+
+

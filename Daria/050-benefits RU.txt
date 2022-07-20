@@ -1,0 +1,11 @@
+
+q: OK, I think I've changed my mind about a few of them!
+q: Creating a monumental work of art may be a good idea because it will help promote the company's future, but it's not a benefit - it's just one way of achieving a benefit. So, that one is out.
+q: Using internal resources: I don't know why I added it to my list; it's not a benefit, but just the way we want to work. I mean, we don't really run the project as a way of using up internal resources, do we?
+q: The other four are all benefits. We want to have this convention center to use for our events and also to rent it out to other businesses, which generates direct money and also helps promote our name. We also want to make it available to artistic, cultural, and not-for-profit events for free, which benefits the community and promotes our company.
+
+
+j-benefits-2: OK, I guess we're done with the benefits.
+j-benefits-2: What else should I do with the expected benefits?
+
+

@@ -1,0 +1,17 @@
+
+
+e---
+Hi Didi,
+It's very early in the project and I can't approve it because a lot of things may change. Let's approve it when it's completely fixed.
+
+Regards,
+Anan
+---e
+
+q: As usual... everyone panics when you ask them to approve something!
+
+
+j-pd-approval-s3a: Accept it as it is.
+j-pd-approval-s3b: Explain why approval is necessary.
+
+

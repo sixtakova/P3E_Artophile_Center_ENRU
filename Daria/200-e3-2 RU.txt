@@ -1,0 +1,23 @@
+
+u: Didi!
+i: Who's there?
+u: It's Berty.
+i: Oh, OK.
+u: I wanted to let you know that today is my last day at work; I'm going to retire.
+i: Wow...
+i: So, no more time travel?
+u: Well, I do have a replacement, but each time-travel agent has their own list of supported project managers, and you may or may not end up on their list.
+i: Hmm...
+i: Let's see, then.
+u: Yeah.
+u: So, before I go, I'm going to send you to another point in time, for the last time!
+i: But I don't want to!
+i: I'm having a goo...
+s: A loud noise!
+q: I'm a little dizzy.
+q: Have I moved forward in time?
+
+
+j-f1-1: "Hello? Anybody out there?"
+
+

@@ -1,0 +1,15 @@
+
+i: Azar, we're just listing the deliverables here.
+i: It's fine.
+u: But what *is* a deliverable?
+u: Do you consider different sections of the building as deliverables, but not the whole building?
+i: Oh, yes, the whole building can be seen as a deliverable as well.
+u: But you don't have it in your map.
+i: I see what you mean.
+i: Right. I'm going to add two main elements for the building and its surroundings, and then divide the existing elements between the two of them.
+i: That's logical, and it also makes the map easier to read, in my opinion.
+
+
+j-dmc-6-add-3-2-yes: Redraw the map.
+
+

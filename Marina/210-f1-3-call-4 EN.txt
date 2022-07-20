@@ -1,0 +1,9 @@
+
+s: 45 minutes later
+q: Hmm... no answer, once again.
+
+
+j-f1-3-call-5: Wait and call again.
+j-f1-3-email: Send an email instead.
+
+

@@ -1,0 +1,7 @@
+
+q: OK, Anan didn't answer the phone.
+
+
+j-f1-3-call-2: Wait and call again.
+j-f1-3-email: Send an email instead.
+

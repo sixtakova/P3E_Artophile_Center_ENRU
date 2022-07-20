@@ -1,0 +1,13 @@
+
+i: OK, we have a list of ideas, and now we can vote to see which one is the best according to the team.
+u: Wait, Didi...
+i: Yes, Celes.
+u: I'm not sure whether the idea I suggested is clear enough in the list.
+u: I have good reasons for that, and if I don't explain them to the team, the idea may not get as many votes as it deserves.
+u: On the other hand, there may be downsides to it that only some team members think of, but most others miss and so vote for it; whereas if they were to hear about that downside, they won't vote for it anymore.
+u: Isn't it a good idea to discuss the ideas before voting?
+
+
+j-e2-3-round2-discuss: Yes
+
+

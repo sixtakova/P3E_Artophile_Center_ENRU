@@ -1,0 +1,9 @@
+
+q: OK, now I just need to send it to Eris for approval.
+q: Although... why Eris?!
+q: I should ask the sponsor to approve it.
+
+
+j-pd-approval-anan: Send it to Anan for approval.
+
+

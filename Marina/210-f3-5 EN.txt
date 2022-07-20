@@ -1,0 +1,23 @@
+
+u: I see that you've been evaluating stakeholder satisfaction every month, and I like the way you've designed follow-up actions for improving things.
+i: Thanks.
+i: We had workshops and asked the team members to design and select those actions.
+u: That's great.
+u: However, I don't see those follow-up actions for your last evaluation.
+i: Hmm...
+i: But that's the last one, and we can't make any more improvements.
+u: If that's the case, why are you evaluating stakeholder satisfaction?
+i: I think it could be useful for future projects.
+u: That's correct; it can be very useful for future projects.
+u: However, it's a lot more useful if you design follow-up actions for them as well.
+u: Those can be closed follow-up actions, meaning that there's nothing you would do about them, but they're still analyzed and stored.
+u: They're basically what some people call lessons learned.
+i: I see.
+i: Interesting.
+i: Maybe I can have another workshop with the team to create those items.
+u: Perfect.
+
+
+j-f3-6: "Do you have any other comments?"
+j-f3-6: "Anything else?"
+

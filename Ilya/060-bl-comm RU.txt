@@ -1,0 +1,38 @@
+
+u: OK, Didi, the first thing I want to talk about is the budget.
+u: What the board has decided is actually 800 artopools as the target, which can go up to 1,000 artopools if it's justified.
+u: So, 1,000 is the maximum, not the target.
+i: I see.
+i: Let me fix that.
+i: I've also noticed that I need to add you to the list of stakeholders.
+
+d---
+**Project Description V0.3 (draft)**
+Artophile Center
+
+**Purpose and expected benefits:**
+* Promoting the company
+* Helping the community
+* Earning money (directly)
+* Having a convenient place for our own events
+
+**Expected cost and duration:**
+* 12 months
+* 800 artopools (+200 artopools as management reserve)
+
+**Requirements and quality expectations:**
+* (to be defined)
+
+**Stakeholders:**
+* Eris: CEO
+* Anan: project sponsor, director of the sales and marketing department
+* Didi: project manager
+* Imani: director of the design department
+* Sasha: team member, sales and marketing department staff
+---d
+
+
+j-bl-more: "Anything else?"
+j-bl-more: "How about the benefits? Are they OK?"
+
+

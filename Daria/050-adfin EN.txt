@@ -1,0 +1,29 @@
+
+s: Back in Didi's office
+q: OK, while I'm waiting for the initial team members, maybe I can start preparing a draft of the Project Description.
+q: When they join, we can refine it together.
+q: So, according to A04, the first element in the Project Description is the purpose and expected benefits.
+q: OK, that's everything I can think of...
+
+n---
+**Benefits:**
+1. Promoting the company
+2. Helping the community
+3. Creating a monumental work of art
+4. Earning money (directly)
+5. Using internal resources
+6. Having a convenient place for our own events
+---n
+
+q: Which ones are the real benefits in our project?
+
+
+j-benefits: 4
+j-benefits: 4,1
+j-benefits: 1
+j-benefits: 1,3,5
+j-benefits: 1,2,4,6
+j-benefits: All
+j-benefits: ?
+
+

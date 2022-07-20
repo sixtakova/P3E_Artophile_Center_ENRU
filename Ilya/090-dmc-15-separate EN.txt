@@ -1,0 +1,46 @@
+
+i: I'll add them for the building as a whole...
+
+t---
+start-textree
+= Artophile Center
+== Site mobilization
+== Demolition of the warehouse
+== The building
+=== Earthwork
+=== Foundation
+=== Main hall
+==== Walls …
+==== Ceiling
+==== Floor
+=== Information room
+=== Storage room
+=== Conference room #3
+=== WC #2
+=== Utility room
+=== IT room
+=== Conference room #2
+=== Administration room
+=== Conference room #1
+=== WC #1
+=== Meeting room #1
+=== Meeting room #2
+=== Security room
+== Surroundings
+=== Parking lot
+=== Driveways and walkways
+=== Gardens
+end-textree
+---t
+
+i: Hmm... what do you think about it, Azar?
+u: Well... I do see an issue.
+u: While everything under 'the building' is deliverable-based, they still have two different natures: Some of them are areas in the building, and some are general deliverables.
+u: Is that the correct way of doing it?
+
+
+j-dmc-16-separate-right: Yes
+j-dmc-16-separate-wrong: No
+j-dmc-16-separate-maybe: "It's not wrong, but not great."
+
+

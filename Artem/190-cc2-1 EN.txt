@@ -1,0 +1,54 @@
+
+s: The next Monday
+q: OK, based on Mirai's progress data, this is our simple report for this week...
+
+d---
+**Artophile Center Project**
+Weekly progress report #1, 2021-08-23
+
+**Progress:**
+
+start-progrext
+1
+1
+end-progrext
+
+Planned progress: 0.8%
+Actual progress: 0.8%
+
+**Forecasts:**
+Duration → NA
+Cost → 965 artopools (plan) + 2 artopools (deviation)
+(We use the Earned Schedule method to forecast the completion date, which is only useable when progress is above 15%.)
+
+**Deliverables:**
+
+Finished this week:
+* Permissions
+* Insurance
+
+In-progress this week:
+* Mobilization contract
+
+**Comments:**
+We don't have any complicated issues at the moment.
+---d
+
+i: That bullet graph showing progress doesn't look very good right now...
+i: Our progress is too low.
+i: I wish I could travel in time to the middle of the project and see our report then!
+u: Hi Didi!
+i: Hello!
+i: Who's there?
+i: Where are you?
+u: I'm Berty.
+u: You can't see me.
+u: I help project managers travel through time.
+u: Blink if you want to travel through time!
+
+
+j-tt1-1: Blink!
+j-tt1-1: Try not to blink!
+j-tt1-1: It's surely a joke by one of the colleagues, so try to look smart!
+
+

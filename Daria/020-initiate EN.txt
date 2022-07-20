@@ -1,0 +1,10 @@
+
+u: Yes, yes... there is.
+u: We're going to initiate the project and see whether it's a good idea to execute it.
+
+
+j-proposal: "So, how can I help with this project?"
+j-proposal: Wait for Eris to continue.
+
+
+

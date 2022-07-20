@@ -1,0 +1,75 @@
+
+i: Mirai, let's look at the schedule together.
+u: Sure. Here you are...
+
+g---
+start-ganttext
+= Artophile Center ---
+== Site mobilization            @2-4
+== Demolition of the warehouse  @4-7
+== The building ---
+=== Main hall                   @7-57
+=== Information room            @22-38
+=== Storage room                @17-40
+=== Conference room #3          @11-50
+=== WC #2                       @32-43
+=== Utility room                @23-57
+=== IT room                     @39-55
+=== Conference room #2          @17-57
+=== Administration room         @30-37
+=== Conference room #1          @23-49
+=== WC #1                       @36-53
+=== Meeting room #1             @21-47
+=== Meeting room #2             @21-45
+=== Security room               @26-39
+== Surroundings ---
+=== Parking lot                 @52-62
+=== Driveways and walkways      @57-70
+=== Gardens                     @70-73
+end-ganttext
+---g
+
+i: Can you highlight it until the end of the cycle?
+i: Remember that it's until the end of the next month.
+u: Sure.
+
+g---
+start-ganttext
+h3
+H5
+= Artophile Center ---
+== Site mobilization            @2-4
+== Demolition of the warehouse  @4-7
+== The building ---
+=== Main hall                   @7-57
+=== Information room            @22-38
+=== Storage room                @17-40
+=== Conference room #3          @11-50
+=== WC #2                       @32-43
+=== Utility room                @23-57
+=== IT room                     @39-55
+=== Conference room #2          @17-57
+=== Administration room         @30-37
+=== Conference room #1          @23-49
+=== WC #1                       @36-53
+=== Meeting room #1             @21-47
+=== Meeting room #2             @21-45
+=== Security room               @26-39
+== Surroundings ---
+=== Parking lot                 @52-62
+=== Driveways and walkways      @57-70
+=== Gardens                     @70-73
+end-ganttext
+---g
+
+i: So, we're supposed to be working on site mobilization and demolition of the warehouse, and both of them are supposed to be finished by the end of the month.
+u: OK.
+u: What's the next step?
+
+
+j-b1-6: Let the teams know what they're supposed to do.
+j-b1-6: Ask the team leaders for a meeting to refine the plan.
+
+
+# just testing comments
+

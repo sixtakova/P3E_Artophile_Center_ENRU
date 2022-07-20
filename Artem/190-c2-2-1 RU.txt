@@ -1,0 +1,23 @@
+
+i: So, we forecast that we'll be 5 artopools over budget and half a month late at completion.
+i: We need to find a way to recover from those deviations.
+u: Didi, we checked it with the team yesterday!
+i: What was the result?
+u: Are you sure you don't remember?
+i: Just assume that I've traveled through time and don't know what happened yesterday.
+u: Hmm...
+u: OK.
+u: So, the idea is that we can recover the delay by increasing the speed of finishing of conference room #2 and the main hall, but that increases our costs by 2 artopools.
+i: So, there's no way we can recover from both deviations?
+u: No.
+i: Did we check every possibility?
+u: Yes.
+i: OK.
+i: Then we should communicate it to Anan when initiating the next month and ask for an increase in budgeted time and cost.
+u: So, do we only raise these issues in the monthly initiation?
+
+
+j-c2-2-1b: Yes
+j-c2-2-1b: No
+
+

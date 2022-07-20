@@ -1,0 +1,25 @@
+
+u: Hello, Karabo speaking.
+i: Hi Karabo, this is Didi.
+u: Didi, how are you? Long time no see.
+i: I'm fine.
+i: Guess what...
+u: What?
+i: I've become the project manager for building a convention center.
+u: Wow, congratulations!
+u: I was once the project manager of a convention center too!
+i: I know.
+i: That's why I called you.
+i: Shall we meet up some evening and talk about your experience in that project over a drink?
+u: Sure, why not?
+u: How about this Friday at 6 pm in Gitan?
+i: Sounds great. See you then.
+u: See you. Bye.
+q: Great.
+q: It's really good to have a wide network.
+s: You have a new email.
+
+
+j-next-5: Open the email.
+
+

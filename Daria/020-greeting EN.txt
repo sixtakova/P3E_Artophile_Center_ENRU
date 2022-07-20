@@ -1,0 +1,12 @@
+
+s: On the phone
+u: I'm fine, thanks.
+u: Didi, can you come here for a moment?
+u: I need to talk to you.
+q: Oh... that doesn't sound good.
+
+
+j-eris-office: "Sure, I'm on my way."
+j-later: "Can we meet later? I have to answer a few emails."
+
+

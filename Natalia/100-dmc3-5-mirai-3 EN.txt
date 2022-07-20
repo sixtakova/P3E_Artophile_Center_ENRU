@@ -1,0 +1,9 @@
+
+i: Alright, Mirai, you have a copy of the Project Description and the Deliverables Map.
+i: Please take some time and study them.
+
+
+j-dmc3-6: "I also have a mission for you: scheduling the project!" 
+j-dmc3-6: "How do you feel about being responsible for scheduling the project?"
+
+

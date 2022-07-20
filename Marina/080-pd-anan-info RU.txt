@@ -1,0 +1,10 @@
+
+q: OK, the Project Description is finalized, and I can send it to Anan, so Anan has a copy of it.
+q: Although... wait... The Project Description is a fundamental, strategic document.
+q: I think it's best if it's officially approved. Also, Anan should have a say in it.
+
+
+j-pd-anan-check: Send the Project Description to Anan to check and approve.
+j-pd-sasha: Ask Sasha whether Anan has checked the Project Description
+
+

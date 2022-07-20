@@ -1,0 +1,28 @@
+
+u: Here's a copy of the design...
+
+svg: building-plan
+
+u: These are like bubbles in water, depicting the temporary nature of life and its endeavors, calmness, and beauty.
+u: The fact that there are no straight lines helps make it a more neutral environment.
+i: Interesting!
+u: The main hall is the biggest because it can be used for different purposes. It connects everything together and is the place where people meet each other... they unite every once in a while, before spreading into other rooms. It's a contrast between having a single goal and having different needs.
+u: This is a perspective of the exterior...
+
+svg: building-perspective
+
+u: Noor calls it 'the jungle'.
+u: It's basically a statement - a reminder of what we're doing with the jungles and with the environment in general.
+u: It resembles cut trees, in case you didn't notice.
+i: Wow, Azar, it's amazing!
+u: How many floors does it have?
+i: Just one.
+
+
+j-dmc-4-azar: Ask Azar to tell you how to draw the initial Deliverables Map.
+j-dmc-4-self: Draw a simple Deliverables Map based on the existing information.
+
+
+#%40
+
+

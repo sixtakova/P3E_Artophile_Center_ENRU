@@ -1,0 +1,14 @@
+
+q: OK, congratulations to me!
+q: Let's get to work.
+
+
+j-plan2: Plan the project.
+j-pd2: Prepare the Project Description.
+j-meet-anan: Meet Anan.
+j-team2: Form the initial team.
+
+
+#%15
+
+

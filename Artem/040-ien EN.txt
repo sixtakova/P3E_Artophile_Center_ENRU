@@ -1,0 +1,13 @@
+
+i: Can you tell me more about it?
+u: You see, we share resources across multiple projects, and there's always competition among them.
+u: When the project is external, we want to keep the client satisfied, whereas when it's internal, we don't have such a constraint.
+u: As a result, the risk is that whenever this project competes with another one, there's always the possibility that the other project may win.
+i: Interesting.
+i: Let me write it down... Soon we need to start identifying risks, which will be useful.
+
+
+j-team3: "I understand. Shall we talk about the project team?"
+j-noteam3: Say nothing and wait for Anan to continue.
+
+

@@ -1,0 +1,25 @@
+
+s: The next day
+u: So, Didi, everything seems fine to me.
+u: Your documents are very well structured, and I like the way you managed the trends in your project's health.
+i: Thanks.
+u: I assume you've handed over the product already, haven't you?
+i: Yes, I have.
+i: They appointed Kyung, and we spent 5 days on the hand-over.
+i: It's all done without any issues.
+u: So, has the whole product been accepted?
+i: Yes.
+u: Where are the hand-over and acceptance documented?
+i: Hmm...
+i: We did it orally.
+u: You need to ask for written approval.
+u: Think of it like this: What if something goes wrong in 5 years, and Kyung is long retired and uncontactable.
+u: How would you show that you've done your work properly?
+i: You're right.
+i: I'll do that.
+
+
+j-f3-5: "Any other comments?"
+j-f3-5: "Anything else?"
+
+

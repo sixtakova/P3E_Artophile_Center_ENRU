@@ -1,0 +1,44 @@
+
+i: Sure.
+i: Here you are...
+i: I've also collapsed the 'floor' for now, to simplify the map.
+
+t---
+start-textree
+= Artophile Center
+== Site mobilization
+== Demolition of the warehouse
+== The building
+=== Main hall
+==== Floor …
+==== Walls …
+==== Ceiling
+==== Furniture
+=== Information room
+=== Storage room
+=== Conference room #3
+=== WC #2
+=== Utility room
+=== IT room
+=== Conference room #2
+=== Administration room
+=== Conference room #1
+=== WC #1
+=== Meeting room #1
+=== Meeting room #2
+=== Security room
+== Surroundings
+=== Parking lot
+=== Driveways and walkways
+=== Gardens
+end-textree
+---t
+
+u: Great.
+u: Thanks, Didi.
+
+
+j-dmc-19: "Is there anything else we should add?"
+j-dmc-19: "Are there any other deliverables?"
+
+

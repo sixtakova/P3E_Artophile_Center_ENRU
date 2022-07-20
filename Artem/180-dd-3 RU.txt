@@ -1,0 +1,36 @@
+
+q: OK, these permits are really dry, boring, and hard to understand.
+q: However, I could understand two important things from reading it: It's valid for 18 months, and after that, we have to ask for another permit, and extensions to the permit are not cheap...
+q: We'll have to pay 1 artopool per month.
+q: Let me add it to the Follow-Up Register...
+
+f---
+**Cause:**      Our construction permit is valid for 18 months.
+**Effect:**     If we can't finish the project in 18 months, we will have to ask for an extension for the permit.
+**Impact:**     The extension will cost 1 artopool per month.
+**Response:**   When making decisions that impact the duration, we should consider the impact of such delays besides other impacts.
+**Custodian:**  NA
+**Status:**     open
+---f
+
+q: So, that was the first item.
+q: The second thing I see here in the permit is that because of proximity to the residential area, we're not allowed to make noise after 6 pm and at weekends.
+q: Let's add this as well...
+
+f---
+**Cause:**      We are close to the residential areas.
+**Effect:**     The construction permit that we have from the city doesn't allow us to work after 6 pm and during weekends.
+**Impact:**     We will be limited in regard to overtime working, if it's needed.
+**Response:**   Don't rely on overtime work for recovering from deviations, unless it's for quiet activities such as painting.
+**Custodian:**  NA
+**Status:**     open
+---f
+
+q: Alright...
+q: I'll discuss these with the team in our next weekly meeting, to let them know about these limitations, to see if they have any other responses in mind, and of course, to assign the custodians.
+
+
+j-dd-4: Get a cup of tea.
+j-dd-4: Get a cup of coffee.
+
+

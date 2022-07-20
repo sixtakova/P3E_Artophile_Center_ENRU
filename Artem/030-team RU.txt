@@ -1,0 +1,11 @@
+
+q: The first thing I want to do is form a team - that makes sense. Although now that I think about it again, how am I supposed to source people from different departments for the project? I don't have enough organizational power to negotiate it with the directors!
+q: There's something else I need to do first. 
+
+
+j-plan: Plan.
+j-pd: Prepare the Project Description.
+j-sponsor: Make sure there's a sponsor.
+j-noidea: Ask Eris what to do first.
+
+

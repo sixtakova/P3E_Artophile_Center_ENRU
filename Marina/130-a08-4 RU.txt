@@ -1,0 +1,10 @@
+
+q: OK, now the team members know the good news.
+q: I wonder how many people there will be in the final team!
+q: By the way, I just remembered the new time and duration we've set for the project...
+
+
+j-a08-5n: Update the Project Description. 
+j-a08-5n: Don't update the Project Description because it has been finalized.
+
+

@@ -1,0 +1,16 @@
+
+e---
+Hi Didi,
+Your mechanical engineer is Kim. But make sure you minimize the amount of time you expect from Kim, because their department has a deadline in 3 weeks and everyone has to work hard on that.
+Your electrical engineer is Monet.
+Monet works in the electrical engineering department and their director is Darci.
+
+Good luck!
+Anan
+---e
+
+
+j-dmc2-5-contact: Contact Kim and Monet.
+j-dmc2-4-update: Update the list of stakeholders.
+
+

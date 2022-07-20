@@ -1,0 +1,15 @@
+
+u: Didi, we're finished with the banner, and it's in the lobby now.
+i: Great, thanks, Mirai.
+i: We take it down in a couple of weeks.
+u: OK.
+u: So, what's next?
+
+
+j-b1-2-permission: Getting permission for the first monthly cycle.
+j-b1-2-plan: Revising and refining the plans.
+j-b1-2-kick: Monthly kick off.
+
+
+#%80
+

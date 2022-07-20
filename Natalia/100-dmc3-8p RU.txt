@@ -1,0 +1,10 @@
+
+q: Is it a good idea to use a priority-based schedule?
+q: Hmm...
+q: I don't think so...
+q: There are many dependencies in a construction project.
+
+
+j-dmc3-8d: Reply
+
+

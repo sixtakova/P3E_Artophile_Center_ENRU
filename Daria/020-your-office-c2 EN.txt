@@ -1,0 +1,10 @@
+
+u: Never mind.
+u: I want to talk to you about a new, important project we're about to launch.
+
+
+j-the-project: "Sounds interesting. What is it?"
+j-the-project: "I'm listening!"
+j-the-project: Say nothing and wait for Eris to continue.
+
+

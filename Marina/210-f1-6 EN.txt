@@ -1,0 +1,11 @@
+
+s: 5 days later
+u: OK, Didi, thanks for everything.
+u: I believe we're done.
+i: Thanks, Kyung.
+i: It was a pleasure working with you.
+
+
+j-f2-1: Go to F02.
+
+

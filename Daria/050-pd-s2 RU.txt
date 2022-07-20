@@ -1,0 +1,16 @@
+
+q: This one is simple: Eris mentioned that they expect it to be finished in 12 months, with a budget of 1,000 artopools.
+
+n---
+**Expected cost and duration:**
+* 12 months
+* 1,000 artopools
+---n
+
+q: I don't know how realistic their rough estimate is, but we'll know a lot more after project initiation.
+q: What's next for the Project Description?
+
+
+j-pd-s3: Requirements and quality expectations
+
+

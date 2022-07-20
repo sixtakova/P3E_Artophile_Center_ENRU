@@ -1,0 +1,27 @@
+
+q: OK, it's time for a focused communication...
+
+e---
+Hi everyone,
+Thanks to you, we were able to finish these deliverables this month:
+
+* Main hall › Ceiling › Cladding and insulation
+* Information room › Lighting
+* Conference room #3 › HVAC
+* WC #2 › Floor
+* WC #2 › Walls
+* Conference room #2 › Fire protection
+* Administration room
+* Security room › Computer network
+
+We've also decided to use non-technical language in our conversations with stakeholders outside the team, to improve effectiveness.
+We'll get together soon to initiate another monthly cycle. Looking forward to talking to you then!
+
+Regards,
+Didi
+---e
+
+
+j-e3-2: Send
+
+

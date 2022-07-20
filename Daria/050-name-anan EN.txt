@@ -1,0 +1,15 @@
+
+q: I'll send Anan an email...
+
+e---
+Hi Anan,
+Do we already have a name or a codename for the project?
+If not, shall we come up with one?
+
+Regards,
+Didi
+---e
+
+
+j-send-email-1: Send
+

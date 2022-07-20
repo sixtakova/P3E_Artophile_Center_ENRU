@@ -1,0 +1,9 @@
+
+u: I'm not joking!
+u: You really can't go on without taking notes.
+
+
+j-duration: "OK!"
+j-notes3: "Then why don't you add them to the bottom of the pages instead?"
+
+

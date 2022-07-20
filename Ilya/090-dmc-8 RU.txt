@@ -1,0 +1,41 @@
+
+i: Are there other preparation elements in the project?
+u: There are a few, but that would be too much detail for now.
+u: We could have a single 'site mobilization' item for all of them.
+u: Everyone in our industry knows what it means.
+i: OK, I'm adding it.
+
+t---
+start-textree
+= Artophile Center
+== Site mobilization
+== The building
+=== Main hall
+=== Information room
+=== Storage room
+=== Conference room #3
+=== WC #2
+=== Utility room
+=== IT room
+=== Conference room #2
+=== Administration room
+=== Conference room #1
+=== WC #1
+=== Meeting room #1
+=== Meeting room #2
+=== Security room
+== Surroundings
+=== Parking lot
+=== Driveways and walkways
+=== Gardens
+end-textree
+---t
+
+
+j-dmc-9: "Anything else?"
+j-dmc-9: "Are we done?"
+
+
+#%45
+
+

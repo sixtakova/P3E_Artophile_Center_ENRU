@@ -1,0 +1,41 @@
+
+i: OK, I've turned them into comments for the 'load-bearing walls' items...
+
+t---
+start-textree
+= Artophile Center
+== Site mobilization
+== Demolition of the warehouse
+== The building
+=== Main hall
+==== Walls
+===== Load-bearing walls ⓘ
+===== Acoustic treatment of the walls
+===== Doors
+===== Windows
+==== Ceiling
+==== Floor
+=== Information room
+=== Storage room
+=== Conference room #3
+=== WC #2
+=== Utility room
+=== IT room
+=== Conference room #2
+=== Administration room
+=== Conference room #1
+=== WC #1
+=== Meeting room #1
+=== Meeting room #2
+=== Security room
+== Surroundings
+=== Parking lot
+=== Driveways and walkways
+=== Gardens
+end-textree
+---t
+
+
+j-dmc-14: "Let's move on!"
+
+

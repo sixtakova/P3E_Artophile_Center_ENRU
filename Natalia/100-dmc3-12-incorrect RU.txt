@@ -1,0 +1,12 @@
+
+i: Mirai, I'm not sure if the amount of detail in the Deliverables Map is enough for scheduling.
+u: There were a few cases where we felt that having more detail would be helpful in scheduling, but overall, we were comfortable with it.
+u: I tried to follow your advice and focus on the high-level aspects, leaving the details to the monthly planning activities.
+i: Is everyone else in the team confident about this schedule?
+u: Yes.
+i: Then it's fine. Well done.
+
+
+j-dmc3-13: "Has the team also estimated the cost of the project?"
+
+

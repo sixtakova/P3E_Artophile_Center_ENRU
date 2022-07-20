@@ -1,0 +1,39 @@
+
+s: The next day
+u: Didi, we're done with refining the plans.
+i: Good, Mirai.
+i: Tell me about it.
+u: This is the detailed schedule for this cycle...
+
+g---
+start-ganttext
+O-18
+o100
+m400
+M4000
+= Artophile Center ---
+== Site preparation ---
+=== Insurance                   @20-23
+=== Permissions                 @20-25
+=== Mobilization contract       @21-26
+=== Mobilization                @27-40
+== Demolition of the warehouse ---
+=== Demolition contract         @27-32
+=== Demolition                  @41-70
+end-ganttext
+---g
+
+i: So, what have you done here?
+u: We broke down 'site mobilization' and 'demolition of the warehouse' into smaller items.
+u: Both of them will be done by external contractors, and so we have items for the contracts as well.
+u: We also changed the title of 'site mobilization' to 'site preparation', to contain both the mobilization and other things such as buying insurance and receiving permissions from authorities.
+i: Alright.
+i: Did you make any changes to the overall schedule?
+u: No.
+u: There were changes to the schedule for those two main deliverables, but they didn't impact anything else.
+
+
+j-b1-8: "Thanks."
+j-b1-8: "Well done."
+
+

@@ -1,0 +1,14 @@
+
+i: Hi Anan, this is Didi.
+u: Hi Didi.
+i: Any news about the new appointments?
+u: I've sent you an email about it.
+i: Oh, great, did it work?!
+u: Didi, I've already sent you an email about it, which should be in your mailbox.
+u: Do I also have to explain it over the phone?
+
+
+j-dmc2-4-email: "Not at all... I'll go read my email."
+j-dmc2-4-email: "I thought it might be faster over the phone, but I'll go read the email now."
+
+

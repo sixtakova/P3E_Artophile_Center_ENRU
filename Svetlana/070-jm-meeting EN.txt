@@ -1,0 +1,19 @@
+
+s: Meeting Azar in person
+i: Azar...
+i: How are you?
+u: Fine, Didi... fine.
+u: How are you?
+i: Great.
+u: I'm happy to be part of this project.
+u: Imani doesn't usually appoint us to projects, but only assigns tasks.
+u: I feel I belong somewhere ;)
+i: I know!
+i: I really don't like it that way.
+u: Alright, how can I help you?
+
+
+j-jm-pd: Show Azar the Project Description.
+j-jm-requirements: Ask Azar about the requirements of the project.
+
+

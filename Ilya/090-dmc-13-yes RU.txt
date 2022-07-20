@@ -1,0 +1,49 @@
+
+i: OK, here they are...
+
+t---
+start-textree
+= Artophile Center
+== Site mobilization
+== Demolition of the warehouse
+== The building
+=== Main hall
+==== Walls
+===== Load-bearing walls
+====== Isolated
+====== Colored
+====== Exposed
+===== Acoustic treatment of the walls
+===== Doors
+===== Windows
+==== Ceiling
+==== Floor
+=== Information room
+=== Storage room
+=== Conference room #3
+=== WC #2
+=== Utility room
+=== IT room
+=== Conference room #2
+=== Administration room
+=== Conference room #1
+=== WC #1
+=== Meeting room #1
+=== Meeting room #2
+=== Security room
+== Surroundings
+=== Parking lot
+=== Driveways and walkways
+=== Gardens
+end-textree
+---t
+
+u: I'm sorry, Didi, they just don't seem right!
+u: All the elements that we have in this map are deliverables, but these last 3 that I asked you to add are not deliverables, but characteristics of a deliverable, aren't they?
+i: Yes, it's not correct!
+
+
+j-dmc-13-yes-remove: Remove them from the map.
+j-dmc-13-comment: Turn them into comments for the 'load bearing walls' item.
+
+

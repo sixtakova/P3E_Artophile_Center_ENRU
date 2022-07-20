@@ -1,0 +1,7 @@
+
+u: Well, there are electrical and mechanical aspects as well, and I do know a little about them, but it's best to ask an expert about those.
+i: Sure, I'll do that.
+
+j-post-dmc1-1: End the meeting.
+
+

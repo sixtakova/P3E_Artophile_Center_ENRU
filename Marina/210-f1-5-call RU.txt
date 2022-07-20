@@ -1,0 +1,19 @@
+
+i: Hi Kyung, this is Didi.
+u: Hi Didi.
+i: You seem to be responsible for the product hand-over.
+i: Everything is ready for you, and we can start whenever you want.
+u: Good.
+u: Let's start tomorrow morning at 9.
+u: I think we need at least 3 days.
+i: OK.
+i: See you tomorrow.
+u: Didi, please send me a copy of your documents as well.
+i: Sure.
+i: I'll send you a copy of the Project Description and Deliverables Map.
+u: Thanks.
+
+
+j-f1-6: Hang up.
+
+

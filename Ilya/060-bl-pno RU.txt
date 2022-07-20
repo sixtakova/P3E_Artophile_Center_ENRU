@@ -1,0 +1,16 @@
+
+u: I presume you don't ask Anan to make every decision for you.
+u: How do you decide when to escalate them?
+i: You're right.
+i: Only the important decisions, and especially those that have an impact on benefits, will be escalated to the sponsor.
+u: So, if there's a decision with a limited impact on a low-priority benefit, you may not escalate it, but if it has a limited impact on a sensitive expected benefit, you will.
+u: Is that correct?
+i: I see what you mean.
+i: That's correct.
+i: We need to know the priorities to understand when something is important enough to be escalated.
+
+
+j-bl-priorities: "Can you tell me about the priorities?"
+j-bl-priorities: "What do you think about the priorities, then?"
+
+

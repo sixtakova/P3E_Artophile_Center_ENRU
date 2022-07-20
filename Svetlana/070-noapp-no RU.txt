@@ -1,0 +1,16 @@
+
+
+e---
+Hi Anan,
+I'm afraid that's not a great setup for us. When we don't have architects appointed to the project, but only assign tasks to them, they won't have a full sense of the project, which increases our risks, including the basic risk you mentioned in our first meeting.
+I'm hoping to have one architect appointed to this project for now. Can you help with that?
+
+Regards,
+Didi
+---e
+
+
+j-send5: Send
+j-send5: Obsessively read the email ten more times and make minor adjustments, and then send it.
+
+

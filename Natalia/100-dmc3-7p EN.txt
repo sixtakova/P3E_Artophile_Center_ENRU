@@ -1,0 +1,10 @@
+
+q: Hmm...
+q: I'm not sure how to answer...
+q: Is it only priority-based schedules?
+q: Although I've just remembered that it's explained in activity A05 that the schedule can be either of them!
+
+
+j-dmc3-7b: Answer Mirai
+
+

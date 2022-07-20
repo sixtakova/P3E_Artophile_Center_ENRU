@@ -1,0 +1,14 @@
+
+q: So, what's the first thing I want to do?
+q: Planning seems like a good option.
+q: Most projects are run without a real plan... they just carry on and see what happens - and what happens is not optimal.
+q: However, I'm not supposed to plan the project alone - such a plan wouldn't be effective.
+q: Yeah... there's something else I should do first!
+
+
+j-pd: Prepare the Project Description.
+j-sponsor: Make sure there's a sponsor.
+j-noidea: Ask Eris what to do first.
+j-team: Form the initial team.
+
+

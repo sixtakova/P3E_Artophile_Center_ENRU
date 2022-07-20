@@ -1,0 +1,34 @@
+
+s: The next day
+u: Didi, we have all the responses now, and they're recorded in the Health Register.
+u: Here's the aggregate...
+
+m---
+Team members:
+
+92%   How easy is it to interact with other team members?
+92%   How easy is it to interact with the project management team?
+87%   How easy is it to interact with external stakeholders?
+94%   Are your role and responsibilities clear enough?
+81%   Do you have a clear image of the project?
+87%   How realistic are the goals in this project?
+87%   How happy are you with the project management system?
+92%   Overall, how happy are you with your job?
+
+Other stakeholders:
+
+82%   Do you have a clear understanding of what happens in the project?
+77% × How easy is it to communicate with us?
+87%   Is our management process clear enough for you?
+87%   Is the project moving in the direction you expect it to?
+89%   Overall, how happy are you with this project?
+---m
+
+i: Thanks, Mirai.
+i: Please arrange a workshop with the team to go through the results, and also prepare a chart that shows the changes in the score for each of those items across time.
+u: I'm on it.
+
+
+j-e2-2: "Thanks."
+
+

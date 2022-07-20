@@ -1,0 +1,12 @@
+
+s: Phone is ringing
+u: Hi Didi, this is Jehan.
+i: Hi Jehan.
+u: I checked your documents, and I have a few questions.
+u: Can we meet to talk?
+
+
+j-b1-12: "Sure. I'll come to your office in a minute, if that suits."
+j-b1-12: "Sure. I'm available; feel free to come to my office whenever you want."
+
+

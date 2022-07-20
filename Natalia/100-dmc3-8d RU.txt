@@ -1,0 +1,17 @@
+
+i: There are many dependencies in a construction project, and those are the main criteria in deciding the order of items.
+i: As a result, we need to use a dependency-based schedule.
+u: Don't all projects have dependencies, Didi?
+i: It's a matter of degree.
+i: In an IT development project, for example, you can form your deliverables in a way that minimizes dependencies.
+i: Then you can develop them in any order you like.
+i: You will decide about a criterion or a set of criteria, and using them, you will prioritize and order those items.
+i: That's the case when you use a priority-based schedule, like those you see on task boards or Kanban boards.
+u: OK, I'll prepare a dependency-based schedule.
+u: Should it be high-level or detailed?
+
+
+j-dmc3-9h: High level
+j-dmc3-9d: Detailed
+
+

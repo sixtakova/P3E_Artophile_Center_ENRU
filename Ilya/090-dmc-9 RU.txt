@@ -1,0 +1,42 @@
+
+i: How about demolishing the old warehouse?
+i: I remember that's how Eris started explaining the project to me: We're going to demolish the old warehouse and...
+u: Oh, absolutely - and don't underestimate it.
+u: It's a lot of work.
+i: OK, let's add it then.
+
+t---
+start-textree
+= Artophile Center
+== Site mobilization
+== Demolition of the warehouse
+== The building
+=== Main hall
+=== Information room
+=== Storage room
+=== Conference room #3
+=== WC #2
+=== Utility room
+=== IT room
+=== Conference room #2
+=== Administration room
+=== Conference room #1
+=== WC #1
+=== Meeting room #1
+=== Meeting room #2
+=== Security room
+== Surroundings
+=== Parking lot
+=== Driveways and walkways
+=== Gardens
+end-textree
+---t
+
+u: Yes, Didi, demolition has to be done after site mobilization.
+u: These deliverables have to be ordered in the map, right?
+
+
+j-dmc-10-ordered: Yes
+j-dmc-10-unordered: No
+
+

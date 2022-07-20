@@ -1,0 +1,12 @@
+
+i: It's fine, Mirai.
+i: You don't have to break down the Deliverables Map at this point.
+i: Of course, that's if you find the level of detail in the map enough for scheduling. Sometimes, you need to break it down even further for a high-level plan.
+u: I understand.
+u: There were a few cases where we felt that having more detail may make scheduling easier, but overall, we were comfortable.
+i: OK; you've made a good decision then.
+
+
+j-dmc3-13: "Has the team also estimated the cost of the project?"
+
+

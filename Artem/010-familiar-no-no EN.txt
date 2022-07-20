@@ -1,0 +1,10 @@
+
+u: There's a link to the manual at the bottom of every page in the course.
+u: Do you see it?
+u: The manual is available in a few languages, and there's also a PDF version of it if you prefer to print it and use a hard copy.
+u: I'll be here waiting for you to read the manual and come back.
+
+
+j-notes: "I'm back!"
+
+

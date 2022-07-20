@@ -1,0 +1,15 @@
+
+q: Let's send Anan an email about it...
+
+e---
+Hi Anan,
+We seem to be at the point where I need to have mechanical and electrical engineers on the team. Could you help with that?
+
+Regards,
+Didi
+---e
+
+
+j-dmc2-2: Send
+
+

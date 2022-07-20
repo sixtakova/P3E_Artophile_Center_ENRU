@@ -1,0 +1,17 @@
+
+u: Shall I tell them what they're supposed to do?
+i: No, Mirai.
+i: Remember that B01 is about refining and revising the plan, not just extracting what was scheduled before and telling people what to do.
+u: I see.
+i: Please schedule a workshop with them to go through the plan.
+u: OK.
+u: Can you tell me what we should do in that meeting?
+i: Break down the Deliverables Map for those two deliverables, and add the details to the schedule.
+i: Double-check with the team to make sure it's realistic, and see if there are any impacts on the rest of the plan.
+u: I'm on it.
+
+
+j-b1-7: Get a cup of coffee.
+j-b1-7: Get a cup of tea.
+
+

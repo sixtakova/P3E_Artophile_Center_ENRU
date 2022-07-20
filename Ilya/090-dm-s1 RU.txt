@@ -1,0 +1,9 @@
+
+q: OK, we're done with activity A04, so we can now start working on A05, which is about mapping deliverables.
+
+
+j-dm-help-sasha: Ask Sasha for help.
+j-dm-help-azar: Ask Azar for help.
+j-dm-help-imani: Ask Imani for help.
+
+

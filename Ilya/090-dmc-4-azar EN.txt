@@ -1,0 +1,10 @@
+
+u: Well, Didi, I'm not sure how to prepare a Deliverables Map.
+i: It's a map of the building blocks of the project.
+u: Like the different areas in the building that we just saw together?
+
+
+j-dmc-4-self: Yes
+j-dmc-4-azar-no: No
+
+

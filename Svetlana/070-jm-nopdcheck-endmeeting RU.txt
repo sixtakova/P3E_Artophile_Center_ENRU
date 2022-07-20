@@ -1,0 +1,17 @@
+
+i: OK, Azar, thanks for your help.
+i: I think we're done for now... the Project Description seems fine to me.
+u: Sure.
+u: I hope Imani and the others agree with what I've told you :>
+i: Hmm... I thought everything you told me was aligned with Imani.
+u: I believe so, but there's no guarantee.
+i: So, just to be sure, I'm emailing you a copy of the document.
+i: Can you check it with Imani?
+u: Sure.
+i: OK, let me know, then.
+
+
+j-jm-endall: Alright, let's go back to the office. 
+j-jm-endall: Let's go to the corner café and have a nice espresso.
+
+

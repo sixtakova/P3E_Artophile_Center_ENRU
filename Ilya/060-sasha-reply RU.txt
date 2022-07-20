@@ -1,0 +1,13 @@
+
+e---
+See you in 30 minutes in the cafeteria.
+---e
+
+q: OK, I have 30 minutes before meeting Sasha...
+q: It may be helpful to know a little about Sasha.
+
+
+j-check-Sasha: Check Sasha's LinkedIn profile.
+j-check-Sasha: Call colleagues to ask about Sasha.
+
+

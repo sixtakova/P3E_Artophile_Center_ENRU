@@ -1,0 +1,11 @@
+
+u: OK, cut, cut!
+u: It's the author here...
+u: I'm trying hard to convince you to accept Mirai, but you keep resisting, and I don't understand why!
+u: Having a reject option creates a new branch in the story that is really different from the primary one, and that's A LOT of work for me! I've already been working on this course day and night for the last few months, and there's still a lot more to do.
+u: So, would you be more understanding and accept Mirai as your intern? I promise you won't regret this decision :')
+
+
+j-dmc3-4-yes: Accept Mirai!
+
+

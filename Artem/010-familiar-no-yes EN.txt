@@ -1,0 +1,9 @@
+
+u: Alright then!
+u: I'll be here waiting for you to read the manual and come back.
+u: No rush!
+
+
+j-notes: "I'm back!"
+
+

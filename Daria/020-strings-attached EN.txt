@@ -1,0 +1,10 @@
+
+u: Not at all.
+u: We've had grants before, and we've never experienced any problems.
+u: Don't worry about that.
+
+
+j-proposal: "Good. How can I help with this project?"
+j-proposal: "Interesting..."
+
+

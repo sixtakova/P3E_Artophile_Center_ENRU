@@ -1,0 +1,14 @@
+
+i: OK, seems like we're done with the meeting.
+i: Thanks for comi...
+u: Didi!
+i: Yes, Celes?
+u: How sure are we about the duration of mobilization?
+u: Have we finalized it with the selected contractor?
+u: I'm asking because we can't start demolishing the old warehouse until we've mobilized the site, and any delay in either of these two would impact the whole project.
+
+
+j-c3-7-self: Answer Celes.
+j-c3-7-cus: Ask the custodian of the mobilization contract to answer Celes.
+
+

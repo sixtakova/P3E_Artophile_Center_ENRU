@@ -1,0 +1,15 @@
+
+s: In your office
+q: Just five more emails and I'll have a zero inbox.
+q: That will be a glorious moment!
+s: The phone is ringing...
+q: And some people still call you instead of sending an email!
+
+
+j-answer: Answer the phone.
+j-your-office-b1: Ignore the phone and keep working on the emails.
+
+
+#%0
+
+

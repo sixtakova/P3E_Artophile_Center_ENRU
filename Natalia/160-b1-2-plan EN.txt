@@ -1,0 +1,10 @@
+
+i: So, Mirai, from now on, we're going to work in monthly cycles.
+i: At the beginning of each month, we'll detail the plan for the upcoming month and revise the rest if necessary, conduct a few extra activities, and then start executing that month's work.
+u: Do the cycles have to match calendar months and start at the beginning of the month, or can they start, for example, on the 20th of each month?
+
+
+j-b1-3: They should start at the beginning of each month.
+j-b1-3: They can start on any arbitrary date.
+
+

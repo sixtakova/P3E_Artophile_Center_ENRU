@@ -1,0 +1,18 @@
+
+i: Eris, The sponsor needs to have a good understanding of the benefits of the project.
+i: So I believe it's best to ask Anan to be the sponsor.
+i: We can ask Imani for help with the technical aspects of the project later.
+s: Eris is nodding
+u: You're right, Didi.
+u: Give me a minute.
+s: Eris starts calling someone on the phone
+u: OK, Anan is on board.
+u: You have a sponsor now!
+u: I have to go.
+u: Good luck with the project.
+
+
+j-post-sp: "Thanks!"
+j-post-sp: Just smile.
+
+

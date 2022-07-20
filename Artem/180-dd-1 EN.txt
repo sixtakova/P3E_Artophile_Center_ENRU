@@ -1,0 +1,16 @@
+
+s: Two days later
+
+e---
+Hi Didi,
+We've got the permit from the city. We're allowed to do construction work on the site now.
+
+Regards,
+Azar
+---e
+
+
+j-dd-2-nocopy: Thank Azar.
+j-dd-2-copy: Ask Azar for a copy of the permit.
+
+

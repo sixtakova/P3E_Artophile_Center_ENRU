@@ -1,0 +1,16 @@
+
+u: How can I help?
+i: I need to form the initial team as soon as possible.
+i: It requires negotiating with other departments, and you're the best person to do that.
+u: OK, who do you need for the project?
+i: I need someone from your department to help us with the business aspects of the project.
+i: We also need to talk to Imani, and get someone from their department to lead the architectural aspects.
+i: I don't really know who else we need right now. I'll know more after we start working.
+u: OK, Didi.
+u: I'll get back to you about all that.
+
+
+j-adfin: "Thanks. I won't take up any more of your time."
+j-adq: "Thanks. When do you think I'll have those two people?"
+
+

@@ -1,0 +1,18 @@
+
+u: Didi, are you OK?
+i: Yes, Mirai.
+i: Just another trip through time ;)
+u: Oh, of course.
+u: So, I have to explain everything as if you've been time traveling.
+i: Absolutely.
+u: Alright...
+u: We're in the middle of the month, and you've just accepted that last completed deliverable.
+i: Do you mean we're done?!
+u: Yes.
+q: Wow!
+q: That was a big jump!
+
+
+j-f1-2: Start F01.
+
+

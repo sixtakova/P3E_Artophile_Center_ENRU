@@ -1,0 +1,15 @@
+
+i: Mirai, it seems like we're done with the report.
+i: Please send it to the stakeholders who are supposed to receive it.
+i: We've probably marked them as such in the Project Description, haven't we?
+u: Yes, Didi, there's a column in front of the stakeholders names that shows who's supposed to receive the report.
+i: OK, good.
+i: Don't forget to ask them for feedback after a few days, to make sure the report works for them.
+u: I've already done that for the previous reports. Do I have to do it every week?
+
+
+j-c1-2-2-yes: Yes, every week.
+j-c1-2-2-no: No, once is enough.
+j-c1-2-2-maybe: Maybe!
+
+

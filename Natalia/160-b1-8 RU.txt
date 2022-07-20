@@ -1,0 +1,11 @@
+
+q: Seems like we're done with B01, and it's time for B02... peer-review.
+q: I can ask our best project manager, Tiam, to be the peer reviewer again.
+q: There are other options as well; for example, Jehan is a good project manager too.
+q: However, no one is as good as Tiam, ever!
+
+
+j-b1-9-tiam: Ask Tiam.
+j-b1-9-jehan: Ask Jehan.
+
+

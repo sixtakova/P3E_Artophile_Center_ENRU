@@ -1,0 +1,9 @@
+
+q: I'll just ask Eris.
+q: Although...
+q: going directly to the CEO instead of the sponsor may undermine the sponsor's authority and harm our relationship.
+
+
+j-name-Anan: Ask Anan whether the project already has a name.
+
+

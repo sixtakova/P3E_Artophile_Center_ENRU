@@ -1,0 +1,11 @@
+
+i: Mirai, the next step is F02.
+i: We need to evaluate stakeholder satisfaction for the last time.
+u: OK, I'll take care of it.
+u: By the way, shall I update the Project Description and add Kyung as well, even though the project is finished?
+
+
+j-f2-2-yes: Yes
+j-f2-2-no: No
+
+

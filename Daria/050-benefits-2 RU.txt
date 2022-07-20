@@ -1,0 +1,19 @@
+
+q: So, I have a list of four expected benefits for the project.
+
+d---
+**Benefits:**
+* Promoting the company
+* Helping the community
+* Earning money (directly)
+* Having a convenient place for our own events
+---d
+
+q: I'm almost done for now.
+q: When the Project Description is ready, I'll ask Anan to check it and discuss it with the board to check that it's OK.
+q: What's next for the Project Description?
+
+
+j-pd-s2: Expected cost and duration
+
+

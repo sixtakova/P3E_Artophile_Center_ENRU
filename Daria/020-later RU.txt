@@ -1,0 +1,12 @@
+
+s: On the phone
+u: It's important, Didi.
+u: Please come here now.
+s: Eris hangs up.
+q: I don't like it when people unilaterally decide to end a phone conversation!
+
+
+j-eris-office: Go to Eris's office.
+j-ignore: Ignore Eris and keep working on the emails.
+
+

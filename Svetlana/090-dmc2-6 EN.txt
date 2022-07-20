@@ -1,0 +1,26 @@
+
+e---
+Hi Didi,
+I'm glad to be part of this project. I don't have a busy day today, so we can meet any time you like.
+
+Regards,
+Monet
+---e
+
+q: Good... that makes it easy.
+q: Oh, here's Kim...
+
+e---
+Hi Didi,
+It's a little hectic in our department these days, but I think I can open up an hour at the end of today.
+
+Regards,
+Kim
+---e
+
+q: Alright, I can meet both of them today.
+
+
+j-dmc2-7: Reply to both emails.
+
+

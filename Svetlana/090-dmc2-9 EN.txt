@@ -1,0 +1,17 @@
+
+u: Sure, Didi.
+u: I've seen the building's design, but it would be helpful to have a copy of it here...
+i: I have a copy; here you are...
+
+svg: building-plan
+
+u: Good, thanks.
+u: So, they may need special things in this project later, but what we typically need to have is lighting, a computer network, and an audio system for the music and public address systems.
+
+
+j-dmc2-10: Add them to the map.
+
+
+#%55
+
+

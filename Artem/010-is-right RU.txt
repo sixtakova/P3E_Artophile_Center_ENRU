@@ -1,0 +1,10 @@
+
+i: Is this the right course for me?
+u: It could be, if you're already familiar with P3.express.
+u: Are you?
+
+
+j-familiar-yes: Yes
+j-familiar-no: No
+
+

@@ -1,0 +1,9 @@
+
+u: Sure.
+u: I'll do that.
+
+
+j-back1: "OK, it was nice meeting you, Sasha. Talk to you soon."
+j-back1: "I have to go now. Talk to you soon."
+
+

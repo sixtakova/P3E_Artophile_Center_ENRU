@@ -1,0 +1,51 @@
+
+i: OK, Monet, here are the items...
+
+t---
+start-textree
+= Artophile Center
+== Site mobilization
+== Demolition of the warehouse
+== The building
+=== Main hall
+==== Floor …
+==== Walls …
+==== Ceiling
+==== Lighting
+==== Computer network
+==== Music/PA system
+==== Furniture
+=== Information room
+=== Storage room
+=== Conference room #3
+=== WC #2
+=== Utility room
+=== IT room
+=== Conference room #2
+=== Administration room
+=== Conference room #1
+=== WC #1
+=== Meeting room #1
+=== Meeting room #2
+=== Security room
+== Surroundings
+=== Parking lot
+=== Driveways and walkways
+=== Gardens
+end-textree
+---t
+
+u: But these are not limited to the main hall; we have them everywhere.
+i: Yes, Monet; I'm just adding them for one area right now.
+i: I'll add them everywhere later on.
+u: OK.
+u: Some of those areas are slightly different, though.
+u: For example, we don't have the 'music/PA system' in the storage and utility room.
+i: I understand.
+i: I'll double-check them with you a little later.
+u: There are also things like air conditioning and fire protection that have both mechanical and electrical aspects. Maybe more mechanical... Kim can tell you more about them.
+
+
+j-dmc2-12: Add the items.
+
+

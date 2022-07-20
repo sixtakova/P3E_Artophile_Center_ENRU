@@ -1,0 +1,48 @@
+
+u: OK, I've been thinking...
+u: I asked you to add an item for the 'floor', and what I had in mind for it was insulation and finishing, but now we have the 'earthwork' and 'foundation' elements beside it, and I'm starting to think that we may be able to move them under the 'floor' item.
+i: Not a bad idea. Here we go...
+
+t---
+start-textree
+= Artophile Center
+== Site mobilization
+== Demolition of the warehouse
+== The building
+=== Main hall
+==== Walls …
+==== Ceiling
+==== Floor
+===== Earthwork
+===== Foundation
+===== Floor insulation
+===== Floor finishing
+==== Furniture
+=== Information room
+=== Storage room
+=== Conference room #3
+=== WC #2
+=== Utility room
+=== IT room
+=== Conference room #2
+=== Administration room
+=== Conference room #1
+=== WC #1
+=== Meeting room #1
+=== Meeting room #2
+=== Security room
+== Surroundings
+=== Parking lot
+=== Driveways and walkways
+=== Gardens
+end-textree
+---t
+
+u: I know you said there's no order among items in the map, but is it possible to move the 'floor' before the 'walls' and 'ceiling' items?
+u: It just makes it easier to read the map.
+
+
+j-dmc-18-order: Yes
+j-dmc-18-noorder: No
+
+

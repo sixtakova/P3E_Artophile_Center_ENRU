@@ -1,0 +1,43 @@
+
+i: Let me collapse the 'walls' item so we can see everything more easily...
+
+t---
+start-textree
+= Artophile Center
+== Site mobilization
+== Demolition of the warehouse
+== The building
+=== Main hall
+==== Walls …
+==== Ceiling
+==== Floor
+=== Information room
+=== Storage room
+=== Conference room #3
+=== WC #2
+=== Utility room
+=== IT room
+=== Conference room #2
+=== Administration room
+=== Conference room #1
+=== WC #1
+=== Meeting room #1
+=== Meeting room #2
+=== Security room
+== Surroundings
+=== Parking lot
+=== Driveways and walkways
+=== Gardens
+end-textree
+---t
+
+u: Didi, we also have the earthwork and foundations for the building.
+i: Is it one deliverable for the whole building, or is it something separate for each area of the building?
+u: It really depends on your perspective!
+u: On the one hand, they're done in one go and can be seen as a deliverable for the whole building, but on the other hand, we can still divide them into multiple sections as they're not small things, and those divisions can match the areas we already have.
+
+
+j-dmc-15-whole: Add them for the building as a whole.
+j-dmc-15-separate: Add them separately for each area.
+
+

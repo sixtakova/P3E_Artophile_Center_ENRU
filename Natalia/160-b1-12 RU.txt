@@ -1,0 +1,28 @@
+
+s: Meeting with Jehan
+u: Hey Didi!
+i: Hi Jehan.
+u: OK, I've seen your documents, and I have a few questions about your refined plans.
+i: Sure.
+u: It's all about the contracts you need to have in the future.
+u: First, I see the new items in your schedule, but I don't see any changes to your stakeholder list.
+u: You know that all contracts must be signed by the procurement department?
+i: Hmm...
+i: Not really.
+i: None of my previous projects needed external contracts.
+i: I thought I'd sign them myself.
+u: No.
+u: Contracts are sensitive, and a simple mistake can cause a lot of trouble for the company.
+u: In fact, we've had a case in the past where a project manager signed a simple contract for scaffolding and it turned out that a clause in that contract forced all our future projects to use that company for scaffolding for 5 years!
+i: Wow!
+i: That doesn't sound good.
+u: No.
+u: That's why we have this policy now, that only the procurements department can sign contracts.
+u: There are legal experts in that department who make sure it's done properly.
+
+
+j-b1-13: "I understand."
+j-b1-13: "Is there anything else I should know about contracts in Artophile?"
+j-b1-13: "Any other comments?"
+
+

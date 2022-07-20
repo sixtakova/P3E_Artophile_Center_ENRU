@@ -1,0 +1,10 @@
+
+i: Not really, Eris.
+i: The sponsor plays a real role in the project, and I need to have an active sponsor to succeed with my project.
+q: I need to help Eris find a suitable sponsor for the project!
+
+
+j-sp-next: "Is there someone high up in the organizational with lots of interest in this project who you can select as the sponsor?"
+j-sp-next: "Can you think of someone else capable of championing this project?"
+
+

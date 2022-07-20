@@ -1,0 +1,11 @@
+
+s: After the kick-off meeting
+q: OK, it was a fine kick-off meeting.
+q: Although, not as amazing as the one for project initiation.
+q: We have to be a little more creative.
+
+
+j-b5-email: Send an email to all team members about the cycle.
+j-b5-noemail: End the monthly initiation.
+
+

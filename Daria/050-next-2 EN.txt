@@ -1,0 +1,18 @@
+
+s: 15 minutes later
+q: Oh, here's the email!
+
+e---
+Hi Didi,
+Because of its promotional capacity, we want the center to be called after the company: the Artophile Center
+
+Regards,
+Anan
+---e
+
+q: OK, that's taken care of.
+
+
+j-next-3: Update the Project Description and add the name.
+
+

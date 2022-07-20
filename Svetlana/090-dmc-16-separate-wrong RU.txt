@@ -1,0 +1,10 @@
+
+i: No, it's not right.
+i: Well, I'm not saying it's wrong, but it's not really as good as it could be.
+u: Then what should we do about it?
+
+
+j-dmc-16-separate-divide: Add two root elements under 'the building' and divide the items between them.
+j-dmc-16-separate-break: Break up the earthwork and foundation items and move them into other areas.
+
+

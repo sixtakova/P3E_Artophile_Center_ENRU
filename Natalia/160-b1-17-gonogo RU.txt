@@ -1,0 +1,9 @@
+
+q: So, we're done with B02, and now it's time for B03... asking for a go/no-go decision.
+
+
+j-b1-18-anan: Ask Anan for a go/no go decision.
+j-b1-18-eris: Ask Eris for a go/no go decision.
+j-b1-18-board: Ask the board for a go/no go decision.
+
+

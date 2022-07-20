@@ -1,0 +1,10 @@
+
+q: I'll send the information to Eris and ask for a go/no-go decision.
+q: Wait, to Eris?
+q: Oh, I didn't mean Eris...
+q: I have to ask the sponsor for this!
+
+
+j-b1-18-anan: Ask Anan for a go/no-go decision.
+
+

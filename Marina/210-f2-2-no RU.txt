@@ -1,0 +1,17 @@
+
+i: No, you don't need to.
+u: So, Kyung isn't a stakeholder in our project?
+i: I didn't say that...
+i: Kyung is very much a stakeholder.
+u: Then, why shouldn't I add the name to the stakeholder list?
+i: Right...
+i: You should add it.
+u: Is it OK to add the name, even though the project is finished?
+i: Who said the project is finished?
+i: We're just done building the product, but the project is only finished after we close it.
+u: I see.
+
+
+j-f3-1: Go to F03.
+
+

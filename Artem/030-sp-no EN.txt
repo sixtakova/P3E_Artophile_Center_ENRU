@@ -1,0 +1,12 @@
+
+i: Eris, you're the CEO, and I think you're too busy to spend enough time on this project.
+i: It would be great to have someone else as the sponsor.
+u: I appreciate your directness, Didi.
+u: That's why I believe you're a good project manager!
+
+
+j-sp-next: Smile.
+j-sp-next: Nod.
+j-sp-next: Blush ;)
+
+

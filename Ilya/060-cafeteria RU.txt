@@ -1,0 +1,13 @@
+
+i: Hi Sasha, how are you?
+u: I'm fine, Didi, thanks.
+q: Sasha seems like a nice person.
+
+
+j-bl-small-talk: Start with small talk.
+j-bl-benefits: Discuss the benefits of the project.
+j-bl-pd: Discuss the Project Description.
+
+
+#%25
+

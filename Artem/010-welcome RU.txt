@@ -1,0 +1,68 @@
+
+u: Hello,
+u: and welcome to the course!
+u: This is an interactive project simulation that shows you how a P3.express project works.
+u: You will be playing the role of Didi, the main character in the story, who's the manager of the Artophile Center project in an imaginary land called Artopolis.
+
+
+j-is-right: "Is this even the right course for me?"
+
+
+# --- DO NOT TRANSLATE AFTER THIS LINE ---
+
+# Any like that starts with a "#" is a comment
+# and won't be included in the final output. 
+# The following are links to sample passages
+# that we should check before publishing any 
+# new translation. Therefore, you don't need 
+# to translate their text.
+
+#!test
+
+# j-call-karabo: multiple conversations 1
+# j-answer: multiple conversations 2
+# j-eris-office: multiple conversations 3
+# j-dm-help-imani: multiple conversations 4
+# j-a10-2: very long passage
+#
+# j-early-end1: early end 
+#
+# j-adfin: a simple note 
+# j-a07-11y: note mixture
+# j-pd-assemble: a simple document 
+# j-pd-approval-s5: long document
+#
+# j-next-2: email 
+# j-sasha-reply: mini email
+# j-pd-approval-s3b: long email
+# j-e3: email with a list
+#
+# j-dmc-6-add-3-2-yes: small tree
+# j-dmc-12: tree
+# j-dmc2-19: big tree
+# j-dmc-15-separate: troubling tree
+#
+# j-dmc3-11: Gantt 
+# j-b1-5-schedule: Gantt with progress
+# j-b1-7: Gantt with more progress
+#
+# j-tt1-1: progress report 1
+# j-tt1-2y: progress report 2
+#
+# j-e2-1: evaluation report
+#
+# j-r1-2: follow-up
+# j-r1-4: multiple follow-ups 1
+# j-a09-6: multiple follow-ups 2
+#
+# j-dmc-3: svg, double
+# j-dmc2-9: svg, single
+#
+# j-end-2: course sharing
+# j-end-3: announcement emails 
+# j-end-4: evaluation form for the learner
+
+
+#!st
+#%0
+

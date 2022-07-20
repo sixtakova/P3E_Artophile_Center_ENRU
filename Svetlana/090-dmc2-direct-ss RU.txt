@@ -1,0 +1,13 @@
+
+i: Eka, this project is not approved to be executed yet, but our initiation work has started, and the key team members are assigned at this point before the approval of the project.
+u: Well, not according to me, it's not.
+u: Call me when the project is approved.
+u: I have to go now; we're too busy at the moment.
+q: I just don't believe Eka hung up on me like that!
+q: What should I do?!
+
+
+j-dmc2-direct-nos-eris: Call Eris and ask for help.
+j-dmc2-anan: Call Anan and ask for help.
+
+

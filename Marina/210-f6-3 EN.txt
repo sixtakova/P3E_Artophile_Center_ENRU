@@ -1,0 +1,18 @@
+
+i: Mirai, there's one more thing I need to do.
+u: I thought F06 was the last activity :)
+i: Yes, it is...
+i: But this one is special.
+u: What is it?
+i: I'm just coming back from a meeting, where I told Eris what a great help you were during this project, and recommended that they hire you.
+i: There's a job offer waiting for you in Artophile if you're interested in joining us after you finish your studies.
+u: Wow, that's amazing!
+u: Thanks, Didi.
+u: I'd love to join Artophile!
+i: Great.
+i: Then I'll see you around :)
+
+
+j-g-1: Next
+
+

@@ -1,0 +1,20 @@
+
+s: Half an hour later
+q: OK, that's the last email sent.
+q: Now I have an empty inbox.
+s: You've got a new email.
+
+e---
+Hi Didi,
+The reason I wanted to talk to you today was to see whether we could have you as the project manager for this new project. However, what you said made me think twice. I don't think you're ready to manage such an important project yet, but I still see a bright future for you. Meanwhile, study more and gain more experience in your existing projects.
+
+Best regards,
+Eris
+---e
+
+q: Oh, that's a pity.
+
+
+j-early-end1: Next
+
+

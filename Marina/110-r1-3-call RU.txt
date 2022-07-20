@@ -1,0 +1,11 @@
+
+s: An hour later
+q: OK, I give up!
+q: This way of identifying risks is not effective.
+q: People can't come up with risks so easily.
+q: I need to facilitate it... Maybe if they hear about a few risks they'll warm up and identify more!
+
+
+j-r1-3-workshop: Use workshops instead
+
+

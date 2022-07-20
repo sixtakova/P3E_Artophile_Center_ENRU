@@ -1,0 +1,12 @@
+
+q: There's something special about Tetris... It's a good way of passing time.
+q: Although I'm not sure if it's the most productive choice.
+q: I can't help but wonder about convention centers.
+s: 10 minutes later
+q: OK, that's it. I'm tired of playing Tetris!
+
+
+j-research: Go online and read about convention centers.
+j-call-Karabo: Call your old friend, Karabo, who has experience with convention center projects.
+
+

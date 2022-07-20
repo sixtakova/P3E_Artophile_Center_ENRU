@@ -1,0 +1,9 @@
+
+u: Don't rush into it, Didi!
+u: I was about to tell you about the opportunities for its funding.
+
+
+j-funding: "Sure, please go on."
+j-no-interest: "I think I know enough about it already."
+
+

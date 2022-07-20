@@ -1,0 +1,50 @@
+
+i: Let me try something...
+i: What if we create two new root elements for the building and divide the items between them like this?
+
+t---
+start-textree
+= Artophile Center
+== Site mobilization
+== Demolition of the warehouse
+== The building
+=== General
+==== Earthwork
+==== Foundation
+=== Areas
+==== Main hall
+===== Walls …
+===== Ceiling
+===== Floor
+==== Information room
+==== Storage room
+==== Conference room #3
+==== WC #2
+==== Utility room
+==== IT room
+==== Conference room #2
+==== Administration room
+==== Conference room #1
+==== WC #1
+==== Meeting room #1
+==== Meeting room #2
+==== Security room
+== Surroundings
+=== Parking lot
+=== Driveways and walkways
+=== Gardens
+end-textree
+---t
+
+u: Are you happy with that, Didi?
+i: I don't know.
+i: 'General' and 'Areas' can be considered deliverables, but they're a little artificial.
+i: Also, the whole map is getting a little too crowded.
+u: I agree.
+u: What if instead of having earthwork and foundation for the whole building, we break them down into areas and add them under the existing areas?
+
+
+j-dmc-16-separate-divide-break: "Let me draw it and see it all together."
+j-dmc-16-separate-divide-break: "Good idea!"
+
+

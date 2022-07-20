@@ -1,0 +1,11 @@
+
+i: Sasha, shall we talk about the purpose and benefits of the project?
+u: Sure. What do you want to know?
+i: I've prepared a list of benefits.
+i: It would be helpful if you take a look and see whether anything is missing or if anything needs refinement.
+u: OK. Let's see the list.
+
+
+j-bl-show-pd: Present the Project Description.
+
+

@@ -1,0 +1,9 @@
+
+s: 10 minutes later
+q: Anan's phone is busy!
+
+
+j-f1-3-call-3: Wait and call again.
+j-f1-3-email: Send an email instead.
+
+

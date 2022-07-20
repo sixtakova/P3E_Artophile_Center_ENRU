@@ -1,0 +1,20 @@
+
+q: Alright, for the stakeholders, I've got these onces so far...
+
+n---
+**Stakeholders:**
+* Eris: CEO
+* Anan: project sponsor, director of the sales and marketing department
+* Didi: project manager
+* Imani: director of the design department
+---n
+
+q: I can imagine more people with the power to impact it who may have an interest in the project, but we can always add them later... It's fine for now.
+
+
+j-pd-assemble: Let's assemble a draft of the Project Description!
+
+
+#%20
+
+

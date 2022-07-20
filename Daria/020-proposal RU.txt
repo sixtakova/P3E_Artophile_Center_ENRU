@@ -1,0 +1,14 @@
+
+u: Didi, we were happy with the way you managed your previous project, and so we'd like you to be the project manager for this project.
+u: Although you should know that it's an important, strategic project for us, and we need you to do your best.
+u: Are you interested?
+
+
+j-yes: "Of course. I'll do my best."
+j-maybe: "I'm not sure whether I'm capable of managing such a sensitive project."
+j-no: "No, thanks!"
+
+
+#%10
+
+

@@ -1,0 +1,13 @@
+
+i: It's up to us.
+i: When there are multiple projects in the company with shared resources, it may be a good idea to have different cycle starts for them, so that their monthly initiations are not all at the same time.
+i: If that's not the case, though it's easier to start each cycle at the beginning of the month.
+u: So what is the case for us?
+i: I think it's best for us to start cycles at the beginning of each month.
+u: So, it's the 18th today; does that mean we should have just a small cycle until the end of this month?
+
+
+j-b1-4: Yes
+j-b1-4: No
+
+

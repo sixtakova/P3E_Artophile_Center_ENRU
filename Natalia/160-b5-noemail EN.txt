@@ -1,0 +1,9 @@
+
+q: So, we're done, and I can end the monthly initiation.
+q: Oh, no, I can't!
+q: I still have to conduct a focused communication!
+
+
+j-b5-email: Send an email to all team members about the cycle.
+
+

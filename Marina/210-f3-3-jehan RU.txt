@@ -1,0 +1,11 @@
+
+q: Jehan could be a good choice.
+q: No one pays more attention to detail than Jehan.
+q: Although, when it comes to the high-level and strategic aspects, Tiam is the best project manager.
+q: Maybe I should ask Tiam...
+q: After all, it is the last peer review in the project!
+
+
+j-f3-3-tiam: Ask Tiam.
+
+

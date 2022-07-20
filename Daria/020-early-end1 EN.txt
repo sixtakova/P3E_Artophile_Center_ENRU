@@ -1,0 +1,12 @@
+
+u: OK, that was an early finish for the simulation!
+u: Don't worry, though. Read the manual to learn more about P3.express, and then come back.
+u: We'll travel back in time, and you'll have another chance with Eris ;)
+
+s: ~~~ The End ~~~
+
+
+j-welcome: Restart
+
+#!nd
+

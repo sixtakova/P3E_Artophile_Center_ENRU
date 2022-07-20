@@ -1,0 +1,10 @@
+
+u: Given the usual duration of the course,
+u: you probably won't finish it in one go. 
+u: However, don't worry...
+u: Your current state is automatically saved in your browser (similar to a cookie) and you can always continue where you left off.
+u: Remember, though, it only works when you use the same device and browser.
+
+
+j-back-button: OK
+

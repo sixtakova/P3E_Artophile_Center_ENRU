@@ -1,0 +1,20 @@
+
+s: On the phone
+u: Hello, Eris speaking.
+i: Hi Eris, this is Didi.
+u: Hi Didi, how's it going?
+i: Fine, thanks. We're working on the project.
+i: In the meanwhile, I need a mechanical engineer for the project, and Eka doesn't seem at all cooperative.
+i: Is there anything you can do about it?
+u: Wasn't it you who told me that each project should have a sponsor and that one of the sponsor's responsibilities is to get resources for the project?
+i: Yes!
+u: And I found you a sponsor.
+u: So, why are you calling me for this?
+
+
+j-dmc2-direct-nos-eris-2: "Sorry, wrong number!"
+j-dmc2-direct-nos-eris-2: "There are too many names and I sometimes mix them up. I really meant to call the sponsor, Anan."
+j-dmc2-direct-nos-eris-2: "Sure, I'll call Anan right away."
+j-dmc2-direct-nos-eris-2: "You're right. I think I may be too tired right now. Sorry for bothering you."
+
+

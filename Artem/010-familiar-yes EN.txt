@@ -1,0 +1,10 @@
+
+u: OK, that's great.
+u: Still, keep the online manual open on a separate tab and look it up during the course.
+u: That would be helpful.
+
+
+j-notes: "OK... I will."
+j-notes: "I'll think about it."
+
+

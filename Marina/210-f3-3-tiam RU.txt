@@ -1,0 +1,14 @@
+
+i: Hi Tiam, this is Didi.
+u: Hi Didi.
+i: We're closing our project.
+i: I was wondering if you could be my peer-reviewer for the last time in this project.
+u: Sure. 
+u: I'd be happy to.
+u: Send me your documents, and let's meet in 2 hours.
+i: OK, great.
+
+
+j-f3-4: Send the documents.
+
+

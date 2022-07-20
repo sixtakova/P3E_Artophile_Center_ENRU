@@ -1,0 +1,21 @@
+
+u: Hello, this is Imani.
+i: Hi Imani, this is Didi.
+u: Hmm... Didi...
+i: I'm the project manager of the Artophile Center.
+u: Aha, yes.
+u: How can I help you?
+i: Can you help me map the deliverables of the project?
+u: I've already assigned Azar to help you with the project; why are you asking me for help instead of Azar?
+i: Well, I thought it might be handier.
+u: No, it's not.
+i: OK, sorry to bother you.
+i: I'll call Azar.
+q: Well... that wasn't nice.
+q: Imani may be right.
+q: I've asked to have an architect assigned to the project, and then I contact the director of the design department as if I don't have access to an architect!
+
+
+j-dm-help-azar: Ask Azar for help.
+
+

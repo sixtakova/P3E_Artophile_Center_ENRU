@@ -1,0 +1,41 @@
+
+i: I think it's best to have the earthwork and foundation items under the separate areas instead of the whole building.
+i: Something like this...
+
+t---
+start-textree
+= Artophile Center
+== Site mobilization
+== Demolition of the warehouse
+== The building
+=== Main hall
+==== Earthwork
+==== Foundation
+==== Walls …==== Ceiling
+==== Floor
+=== Information room
+=== Storage room
+=== Conference room #3
+=== WC #2
+=== Utility room
+=== IT room
+=== Conference room #2
+=== Administration room
+=== Conference room #1
+=== WC #1
+=== Meeting room #1
+=== Meeting room #2
+=== Security room
+== Surroundings
+=== Parking lot
+=== Driveways and walkways
+=== Gardens
+end-textree
+---t
+
+u: OK, Didi - seems fine to me.
+
+
+j-dmc-16: "So, what else do we have?"
+
+

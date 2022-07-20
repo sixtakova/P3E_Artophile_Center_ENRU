@@ -1,0 +1,8 @@
+
+u: We also have some electrical and mechanical work on the surroundings.
+u: Specifically, there's lighting in each of those three areas, and there's a watering system for the garden.
+
+
+j-dmc2-16: Add the new items.
+
+

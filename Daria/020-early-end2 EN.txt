@@ -1,0 +1,11 @@
+
+u: OK, so, that's it... game over :)
+
+s: ~~~ The End ~~~
+
+
+j-welcome: Restart
+
+
+#!nd
+

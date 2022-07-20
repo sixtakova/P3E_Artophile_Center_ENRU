@@ -1,0 +1,16 @@
+
+i: Mirai, I've archived all the project documents in this directory.
+i: It's read-only, and only the sysadmin has write access to it.
+i: Please double-check it to make sure nothing is missing.
+u: OK.
+u: But what should I do if something is missing?
+u: I can't copy it there... I don't have write access.
+i: Send it to Fede, the sysadmin, with instructions on where to store it.
+u: OK.
+i: Also ask Fede to add the link of the directory to the index of old projects.
+u: Alright.
+
+
+j-f5-1: Go to F05.
+
+

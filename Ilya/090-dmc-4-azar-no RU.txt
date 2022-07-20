@@ -1,0 +1,17 @@
+
+i: Not necessarily, but it's an option.
+u: Is it the best option?
+u: What other options are there?
+i: Well... most people break the project into various disciplines, like electrical, mechanical, and structural, and proceed from there.
+u: So, a breakdown based on disciplines instead of deliverables?
+i: You could say that.
+u: So why do you still call it a *deliverables* map?
+q: OK, that's a good question.
+q: I know that most people use disciplines, but those are not deliverables in the project - it's the way experts are organized based on their expertise into different departments in the company.
+q: I just remembered that P3.express calls it a "Deliverables Map" to emphasize the fact that it must be deliverable-based.
+
+
+j-dmc-4-azar-no-yes: Suggest using the building's areas in the map.
+j-dmc-4-azar-no-no: Start using disciplines in the map.
+
+

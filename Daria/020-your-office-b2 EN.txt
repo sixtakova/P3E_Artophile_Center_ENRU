@@ -1,0 +1,11 @@
+
+u: Didi, do you always ignore the phone to force people to come to your office instead?
+q: Is Eris angry?
+q: No... I see a smile.
+
+
+j-your-office-c2: "I'm sorry!"
+j-your-office-c2: "Oh, I was focused on finishing something."
+j-your-office-c2: Say nothing and wait for Eris to continue.
+
+

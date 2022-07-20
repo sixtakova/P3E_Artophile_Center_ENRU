@@ -1,0 +1,17 @@
+
+
+e---
+Hi Didi,
+I'd like you to meet Sasha. Sasha is a great sales and marketing expert who can help you in the project.
+Hi Sasha,
+I'd like you to meet Didi, the project manager of the Artophile Center project.
+
+Regards,
+Anan
+---e
+
+
+j-bl-email: Send Sasha an email.
+j-bl-call: Call Sasha.
+
+

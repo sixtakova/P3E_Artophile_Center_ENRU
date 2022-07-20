@@ -1,0 +1,23 @@
+
+s: You've got a new email.
+q: OK, here's the email I've been waiting for...
+
+e---
+Hi Didi,
+I asked Imani to check the Project Description. We had some discussions, but in the end, no changes were deemed necessary from Imani's perspective.
+
+Regards,
+Azar
+---e
+
+q: OK, we're getting somewhere.
+
+
+j-pd-anan-check: Send the Project Description to Anan to check and approve.
+j-pd-anan-info: Send the finalized Project Description to Anan, just to let them know about the progress.
+j-pd-sasha: Ask Sasha whether Anan has checked the Project Description.
+
+
+#%35
+
+

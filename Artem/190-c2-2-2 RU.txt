@@ -1,0 +1,16 @@
+
+i: Berty, are you there?
+i: Berty?
+u: I'm here, Didi.
+i: Can I travel to the end of the month?
+u: So, you like time travel, then?
+i: Well...
+i: I'm checking to see...
+s: A loud noise!
+u: It's the end of the month, Didi.
+i: Thanks.
+
+
+j-e1-1: Ask Mirai to come and see you.
+
+

@@ -1,0 +1,11 @@
+
+i: No, Mirai, we're not done yet.
+u: What else do we have to do for A06?
+i: Let me see...
+i: We've talked to the stakeholders and identified the risks, then we've got them to help us plan the responses to those risks.
+i: Hmm... yeah, actually, I believe we're done!
+
+
+j-a07: Go to A07
+
+

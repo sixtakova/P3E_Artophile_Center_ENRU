@@ -1,0 +1,16 @@
+
+
+e---
+Hi Didi,
+I talked to Anan about the benefits. He's generally fine with them, and the only correction is to change their weights from (6,2,1,1) to (5,3,1,1).
+
+Regards,
+Sasha
+---e
+
+q: OK, it seems like we're almost done with this step.
+
+
+j-pd-sasha-n3: Update the project description.
+
+

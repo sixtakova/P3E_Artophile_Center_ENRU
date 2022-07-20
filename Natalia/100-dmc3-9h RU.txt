@@ -1,0 +1,8 @@
+
+i: It should be high-level at this point.
+i: At the beginning of each month, we'll detail the schedule for the upcoming month.
+
+
+j-dmc3-10: "Any other questions?"
+j-dmc3-10: "Is it all clear now?"
+

@@ -1,0 +1,56 @@
+
+i: Here we go...
+
+t---
+start-textree
+= Artophile Center
+== Site mobilization
+== Demolition of the warehouse
+== The building
+=== Main hall
+==== Floor SF …
+==== Walls SF …
+==== Ceiling SF
+==== Lighting
+==== Computer network
+==== Music/PA system
+==== Air conditioning
+==== Fire protection
+==== Furniture
+=== Information room
+=== Storage room
+=== Conference room #3
+=== WC #2
+=== Utility room
+=== IT room
+=== Conference room #2
+=== Administration room
+=== Conference room #1
+=== WC #1
+=== Meeting room #1
+=== Meeting room #2
+=== Security room
+== Surroundings
+=== Parking lot
+==== Lighting
+==== ?
+==== ?
+=== Driveways and walkways
+==== Lighting
+==== ?
+==== ?
+=== Gardens
+==== Lighting
+==== Watering system
+==== ?
+end-textree
+---t
+
+i: I've left those question marks because there are other types of work as well.
+i: I'll have to ask Azar.
+u: It's a good idea to check with Azar, but I can also tell you that all three need earthworks, the first two need paving, and the gardens need plants.
+
+
+j-dmc2-17: Add them.
+
+

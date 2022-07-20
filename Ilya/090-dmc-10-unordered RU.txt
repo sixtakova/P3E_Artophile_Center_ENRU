@@ -1,0 +1,11 @@
+
+i: No, the order is not important in the Deliverables Map.
+i: It only helps us understand *what* is supposed to be done, not *when* those things should be done.
+i: The latter is done when we schedule the project.
+u: OK, fine.
+u: We can focus on one thing at a time, then.
+
+
+j-dmc-11: "Is there anything else we need to add?"
+
+

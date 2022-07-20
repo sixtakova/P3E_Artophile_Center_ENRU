@@ -1,0 +1,10 @@
+
+i: Mirai, the building of the product is finished, but the project isn't finished yet.
+i: It's finished when we're done closing it.
+i: So, yes, make sure Kyung is added to the stakeholder list and included in the satisfaction evaluation.
+u: OK.
+
+
+j-f3-1: Go to F03.
+
+

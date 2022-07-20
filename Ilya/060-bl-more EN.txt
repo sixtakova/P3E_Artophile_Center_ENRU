@@ -1,0 +1,10 @@
+
+u: Hmm... I don't see a problem.
+u: You've listed all the benefits that the board expects.
+u: It's fine.
+
+
+j-bl-edone: "OK, we're done for now, then."
+j-bl-priorities: "How about their priorities?"
+
+

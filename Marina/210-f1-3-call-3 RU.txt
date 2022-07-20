@@ -1,0 +1,10 @@
+
+s: 20 minutes later
+q: No answer again.
+q: I wonder why I insist so much on calling, when I can easily send an email!
+
+
+j-f1-3-call-4: Wait and call again.
+j-f1-3-email: Send an email instead.
+
+

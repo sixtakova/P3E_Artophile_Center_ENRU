@@ -1,0 +1,11 @@
+
+q: Shall I prepare the Project Description?
+q: I already have a lot of information for it.
+q: However, the Project Description is prepared in A04, and I'm not done with A03 yet. That means that I need to have the team formed before preparing the Project Description.
+
+
+j-plan2: Plan the project.
+j-team2: Form the initial team.
+j-meet-anan: Meet Anan.
+
+

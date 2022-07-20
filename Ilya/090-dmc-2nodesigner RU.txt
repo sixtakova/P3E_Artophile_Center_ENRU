@@ -1,0 +1,16 @@
+
+u: So, it's a simple draft, the way Noor usually works.
+i: Noor?
+i: Who's Noor?
+u: Oh, you didn't know?!
+u: Noor is the most senior architect in the firm, and indeed, the most famous in the whole country... and beyond! A mixture of Zaha Hadid and Frank Lloyd Wright - although a lot less famous than those two.
+u: Anyway, no important design decision is made without Noor on board.
+i: So, Noor will be involved in other aspects of this project as well?
+u: Certainly!
+i: Alright... Let me add Noor to the list of stakeholders then.
+
+
+j-dmc-3: "Let's see the drawing."
+j-dmc-3: "Do you have a copy of the drawing with you?"
+
+

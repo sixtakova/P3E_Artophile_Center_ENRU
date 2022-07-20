@@ -1,0 +1,60 @@
+
+q: OK, it's not a big deal, just a simple time-travel.
+q: I can live with it.
+q: Let me see the report again...
+
+d---
+**Artophile Center Project**
+Weekly progress report #36, 2022-04-25
+
+**Progress:**
+
+start-progrext
+62
+56
+end-progrext
+
+Planned progress: 62%
+Actual progress: 56%
+
+**Forecasts:**
+Duration → 17 months (plan) + 0.5 month (deviation)
+Cost → 965 artopools (plan) + 5 artopools (deviation)
+
+**Deliverables:**
+
+Finished this week:
+* Main hall › Ceiling › Cladding and insulation
+* Information room › Lighting
+* Conference room #3 › HVAC
+* WC #2 › Floor
+* WC #2 › Walls
+* Conference room #2 › Fire protection
+* Administration room
+* Security room › Computer network
+
+In-progress this week:
+* Main hall › HVAC
+* Information room › Computer network
+* Information room › Music/PA system
+* Storage room › Lighting
+* Conference room #3 › Fire protection
+* Utility room › Ceiling
+* Meeting room #1 › Walls
+* Meeting room #2 › Walls
+
+**Comments:**
+We're still waiting to receive more details about the upcoming Public Places Safety (PPS) regulations to see how they impact the project. There's a chance that it will add extra work and cost to the project, but regardless, it's best to know as soon as possible and adjust our plans accordingly.
+We're still trying to find acoustic panels that can pass Noor's criteria for aesthetics while still matching the technical requirements. It seems to be taking much longer than expected.
+---d
+
+q: So, it's the 36th weekly report, and today is the 25th of April.
+q: That means we're almost exactly in the middle of the project.
+q: It also means that it's the last weekly cycle this month.
+q: We have to close the cycle at the end of this week.
+q: Finally, Mirai said that we were preparing the report, so we're working on C01.
+
+
+j-c1-2-1: Send the report to stakeholders.
+
+

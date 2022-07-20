@@ -1,0 +1,20 @@
+
+s: 2 days later
+u: OK, Didi, is it OK now?
+i: Yes, Mirai, seems like those contracts won't have a great impact on the schedule after all.
+u: So, we wasted our time!
+i: Oh, no!
+i: It could have had an impact, and you never know until you check it.
+i: We don't want to leave these things to chance.
+u: I understand.
+u: What's next?
+
+
+j-b1-17-kick-off: Monthly kick off meeting
+j-b1-17-gonogo: Monthly go/no go decision
+j-b1-17-comm: Monthly focused communication
+
+
+#%85
+
+

@@ -1,0 +1,11 @@
+
+u: Actually, Didi, we've already thought about it.
+u: The team believes that the only realistic and effective option for reducing costs is to use normal concrete with a colored finish on top of it, instead of using self-colored concrete.
+u: That could lower the cost to 850 artopools.
+i: OK, fine.
+i: We can present both options to the sponsor at the end of the initiation.
+
+
+j-dmc3-15: Ask about the total duration.
+
+

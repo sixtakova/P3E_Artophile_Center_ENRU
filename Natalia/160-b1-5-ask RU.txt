@@ -1,0 +1,10 @@
+
+i: It's a good idea to check it with the team.
+u: So, Didi, do you mean that we have to ask the team what they want to do during the cycle, and that would be the plan?
+i: Not exactly.
+i: We have our schedule, but we double-check it with the team to make sure it's still realistic.
+
+
+j-b1-5-schedule: Check the schedule.
+
+

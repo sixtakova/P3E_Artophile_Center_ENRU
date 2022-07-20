@@ -1,0 +1,14 @@
+
+u: When the board started thinking about this project, Imani asked me to check the usual capacity required for events in Artopolis.
+u: Based on my research, most of them have less than 400 attendees.
+i: OK...
+u: However, the reason there are no larger events may be that there aren't many venues that can support them.
+i: Aha!
+u: So, Eris suggested we have a capacity of 600 to give us an advantage.
+i: That makes sense.
+
+
+j-jm-requirements2: "Anything else?"
+j-jm-requirements2: "Any other requirements?"
+
+

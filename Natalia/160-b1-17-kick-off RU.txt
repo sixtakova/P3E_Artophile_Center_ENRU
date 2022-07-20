@@ -1,0 +1,13 @@
+
+q: So...
+q: What's next?
+q: How about the kick-off meeting?
+q: Oh, wait...
+q: We kick off the monthly cycle when we know that we're going to execute it, but we don't know yet... we don't have the 'go' decision.
+
+
+j-b1-18-anan: Ask Anan for a go/no go decision.
+j-b1-18-eris: Ask Eris for a go/no go decision.
+j-b1-18-board: Ask the board for a go/no go decision.
+
+

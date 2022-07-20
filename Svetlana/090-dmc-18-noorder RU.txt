@@ -1,0 +1,14 @@
+
+i: Not really, Azar, that's not a good idea.
+u: Do you mean that it's wrong to have the 'floor' item before the 'walls' and 'ceiling'?
+i: No, any order is fine.
+u: So, if it's not wrong, can we have them in that order?
+u: I don't want to push you to order everything based on the execution sequence, but the fact is that when most people think about those deliverables, they automatically think about the floor first, and then the walls and finally the ceiling.
+u: It's just a conceptual order, not necessarily the order of execution.
+i: OK, if it's easier to read, I'll change it.
+
+
+j-dmc-18-order: Change the order.
+j-dmc-18-order: Change the order while rolling your eyes!
+
+

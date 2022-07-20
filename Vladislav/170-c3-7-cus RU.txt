@@ -1,0 +1,11 @@
+
+i: Zia, you're the custodian of the mobilization contract.
+i: What do you think about Celes' concern?
+u: Well, we have the agreed duration in the contract, and there's a provision for damages if they finish late, so I'd say we can be reasonably sure that they'll finish it on time.
+i: Thanks, Zia.
+
+
+j-c3-8-comm: "Any other comments or questions?"
+j-c3-8-nocomm: End the meeting.
+
+

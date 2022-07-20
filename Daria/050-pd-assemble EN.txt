@@ -1,0 +1,38 @@
+
+q: Alright, here's my first draft of the Project Description:
+
+d---
+**Project Description V0.1 (draft)**
+Building a convention center
+
+**Purpose and expected benefits:**
+* Promoting the company
+* Helping the community
+* Earning money (directly)
+* Having a convenient place for our own events
+
+**Expected cost and duration:**
+* 12 months
+* 1,000 artopools
+
+**Requirements and quality expectations:**
+* (to be defined)
+
+**Stakeholders:**
+* Eris: CEO
+* Anan: project sponsor, director of the sales and marketing department
+* Didi: project manager
+* Imani: director of the design department
+---d
+
+q: Not bad... not bad...
+q: Although it doesn't seem right to call it 'a convention center'!
+q: We need a name for it.
+q: A cool name.
+
+
+j-name-self: Pick a name for the project.
+j-name-Eris: Ask Eris whether the project already has a name.
+j-name-Anan: Ask Anan whether the project already has a name.
+
+

@@ -1,0 +1,32 @@
+
+i: Here it is...
+
+d---
+**Project Description V0.2 (draft)**
+Artophile Center
+
+**Purpose and expected benefits:**
+* Promoting the company
+* Helping the community
+* Earning money (directly)
+* Having a convenient place for our own events
+
+**Expected cost and duration:**
+* 12 months
+* 1,000 artopools
+
+**Requirements and quality expectations:**
+* (to be defined)
+
+**Stakeholders:**
+* Eris: CEO
+* Anan: project sponsor, director of the sales and marketing department
+* Didi: project manager
+* Imani: director of the design department
+---d
+
+
+j-bl-comm: "What do you think about it?"
+j-bl-comm: "Do you have any comments?"
+
+

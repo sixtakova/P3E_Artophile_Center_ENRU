@@ -1,0 +1,8 @@
+
+u: You may want to add a parking lot as well.
+
+
+j-dmc-6-add: Add the parking lot to the map.
+j-dmc-6-ask: Ask why it wasn't there in the plan of the building.
+
+

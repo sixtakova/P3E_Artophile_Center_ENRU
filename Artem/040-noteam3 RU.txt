@@ -1,0 +1,11 @@
+
+u: Didi, I don't want to micro-manage you.
+u: Just come to me whenever you need my help, and make sure you inform me of anything that may have an impact on the benefits of the project.
+i: Thanks for trusting me.
+i: I'll do that.
+
+
+j-team3: "Shall we talk about the project team?"
+j-noteam4: Say nothing and wait for Anan to continue.
+
+

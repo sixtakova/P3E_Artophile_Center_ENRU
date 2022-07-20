@@ -1,0 +1,11 @@
+
+q: Anan is right - this is a real risk for us.
+q: After all, we're using shared resources, and it's always possible to get competition among projects.
+q: Let me write it down... Soon we'll have to spend more time identifying risks.
+i: Yes, Anan, I completely understand, and I'll keep it in mind.
+
+
+j-team3: "Shall we talk about the project team?"
+j-noteam3: Say nothing and wait for Anan to continue.
+
+

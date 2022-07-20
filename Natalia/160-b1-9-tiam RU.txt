@@ -1,0 +1,16 @@
+
+i: Hi Tiam.
+i: This is Didi.
+u: Hi Didi.
+u: How can I help you?
+i: We're approaching the end of our monthly initiation.
+i: Can I trouble you to peer-review it?
+u: It's best to ask someone else.
+u: The idea is to have a different peer-reviewer each time, if possible, to increase the diversity of the opinions you receive, and also to help share knowledge among a broader range of project managers in the company.
+i: Oh, I see what you mean.
+i: Thanks, I'll ask someone else, then.
+
+
+j-b1-10: Ask Jehan.
+
+

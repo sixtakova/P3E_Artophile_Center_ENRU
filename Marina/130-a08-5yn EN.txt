@@ -1,0 +1,9 @@
+
+q: Of course I don't!
+q: Anan has already approved the project with these changes. I'm just updating the document with the approved changes.
+
+
+j-a09-1-close: Let's close project initiation.
+j-a09-1-kickoff: Let's plan the kick off meeting.
+
+

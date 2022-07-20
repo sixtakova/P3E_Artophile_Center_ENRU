@@ -1,0 +1,9 @@
+
+i: I've prepared a simple Project Description, which contains information about the purpose and benefits of the project, among other things.
+i: Shall we take a look together and see if it needs any adjustments?
+u: Sure!
+
+
+j-bl-show-pd: Present the Project Description.
+
+

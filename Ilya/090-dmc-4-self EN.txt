@@ -1,0 +1,30 @@
+
+i: So, Azar, based on the building's design, I can think of this initial map.
+i: Here it is...
+
+t---
+start-textree
+= Artophile Center
+== Main hall
+== Information room
+== Storage room
+== Conference room #3
+== WC #2
+== Utility room
+== IT room
+== Conference room #2
+== Administration room
+== Conference room #1
+== WC #1
+== Meeting room #1
+== Meeting room #2
+== Security room
+end-textree
+---t
+
+
+j-dmc-5: "Does it cover everything?"
+j-dmc-5: "Am I missing anything here?"
+j-dmc-5: "What do you think?"
+
+

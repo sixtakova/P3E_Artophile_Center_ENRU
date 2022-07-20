@@ -1,0 +1,21 @@
+
+q: So, A06 is about identifying and responding to risks.
+q: I already had one risk identified when I first talked to Anan.
+q: Let me write it down in the standard way...
+
+f---
+**Cause:**      This project doesn't have an external customer.
+**Effect:**     Internal departments may give priority to projects with external customers (to keep the customers satisfied), and as a result, ignore this project.
+**Impact:**     The project may be finished a lot later than expected and be of low quality.
+**Response:**   ?
+**Custodian:**  ?
+**Status:**     open
+---f
+
+q: So, what else do we have?
+
+
+j-r1-3-call: Contact every stakeholder and ask them whether they can think of any risks.
+j-r1-3-workshop: Arrange for a few workshops with different groups of stakeholders to identify the risks.
+
+

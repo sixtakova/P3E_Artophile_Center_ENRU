@@ -1,0 +1,10 @@
+
+u: I wish I had a dollar for every time I heard that!
+i: Really, why?
+u: Because that reduces the level of engagement and autonomy of the learner.
+u: It's like in real life where you don't have a magical button to press and get information, but you have to take notes and organize them.
+
+
+j-duration: "OK!"
+
+

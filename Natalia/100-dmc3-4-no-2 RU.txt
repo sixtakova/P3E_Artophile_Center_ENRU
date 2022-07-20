@@ -1,0 +1,12 @@
+
+q: Or maybe I can try and schedule the project myself.
+q: After all, I am the project manager.
+q: Although it's not so nice to reject an intern! I still remember my own internship. Not everyone is interested in accepting interns, which makes it very difficult for younger people to get started in their careers.
+q: I remember my manager during my internship, Cruz... very nice person. The first time I met Cruz, I said 'Thanks for accepting me' and Cruz replied, 'When it was time for my internship, someone else accepted me and taught me a lot. Now it's my turn to pay it forward.'
+q: Maybe I should do the same!
+
+
+j-dmc3-4-yes: Accept Mirai.
+j-dmc3-5-no-2: Don't accept Mirai.
+
+

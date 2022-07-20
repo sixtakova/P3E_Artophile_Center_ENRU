@@ -1,0 +1,53 @@
+
+i: It's a hierarchical map of the deliverables in the project.
+i: We usually use a mind map to visualize it, because that makes it easier.
+i: See, this is what we have at the moment for this project...
+
+t---
+start-textree
+= Artophile Center
+== Site mobilization
+== Demolition of the warehouse
+== The building
+=== Main hall
+==== Floor …
+==== Walls …
+==== Ceiling
+==== Furniture
+=== Information room
+=== Storage room
+=== Conference room #3
+=== WC #2
+=== Utility room
+=== IT room
+=== Conference room #2
+=== Administration room
+=== Conference room #1
+=== WC #1
+=== Meeting room #1
+=== Meeting room #2
+=== Security room
+== Surroundings
+=== Parking lot
+=== Driveways and walkways
+=== Gardens
+end-textree
+---t
+
+i: It means that we have 4 major deliverables for the project, although they don't all have the same size and level of importance.
+i: Then, 'the building' and the 'surroundings' are broken down into smaller deliverables, and each of those into smaller ones.
+i: This gives us an understanding of what is needed in the project.
+u: I understand, Didi.
+u: I've seen a similar thing, but it had a different name...
+u: I think they used to call it a Work Breakdown Structure.
+i: Correct, that's practically the same thing.
+i: Although most people use activities, disciplines, and other things in their Work Breakdown Structure instead of deliverables, even though it's necessary for a Work Breakdown Structure to be deliverable-based.
+i: That's why we use the name Deliverables Map to avoid that confusion.
+u: I see.
+u: Good choice.
+
+
+j-dmc2-9: "So, what electrical deliverables do we have in this project?"
+j-dmc2-9: "Can you tell me about the electrical aspects of the project?"
+
+

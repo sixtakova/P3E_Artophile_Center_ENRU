@@ -1,0 +1,10 @@
+
+q: OK, we're almost done with activity A04, which is describing the project and creating the Project Description.
+q: Next up is A05, which is creating the Deliverables Map.
+q: We can start working on A05 right now, but it may be a good idea to completely close A04 before starting A05.
+q: Running management activities in parallel or with overlaps is risky.
+
+
+j-jm-checkpd: Give a copy of the document to Azar to check it with Imani.
+
+

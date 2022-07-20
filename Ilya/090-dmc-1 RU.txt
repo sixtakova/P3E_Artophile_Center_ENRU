@@ -1,0 +1,13 @@
+
+u: OK, Didi, how can I help you?
+i: You've already told me about the requirements.
+i: Can you tell me about the product that will satisfy those requirements?
+i: I mean, what would the building elements of that product be?
+u: Well, we have a rough design already.
+u: Would you like to see it?
+
+
+j-dmc-2nodesigner: "Of course I would!"
+j-dmc-2designer: "Who's the designer?"
+
+

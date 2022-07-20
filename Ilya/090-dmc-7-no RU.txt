@@ -1,0 +1,16 @@
+
+i: I don't think so, but tell me more about it.
+u: Those are temporary, mobile buildings that we place on the site for staff to use for the duration of the project.
+u: When the project is done, we'll move them to another project or to a warehouse.
+i: So, those are not part of the final product.
+u: Correct. But they are still things we have to do in the project.
+q: OK, I'm not sure...
+q: Alright, we have to think about it like this: Why do we need to have a Deliverables Map? We need it so we can understand what has to be done in the project, and later on, schedule the project.
+q: These temporary things have to be done as well, and therefore, they have to be included in the Deliverables Map!
+i: Correct, Azar, we need to add them to the map.
+
+
+j-dmc-8: Ask about other temporary things.
+j-dmc-8: Ask whether there are other similar things.
+
+

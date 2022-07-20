@@ -1,0 +1,13 @@
+
+u: OK then...
+u: I won't take up any more of your time.
+u: Good luck with the rest of your emails.
+q: Eris doesn't seem happy.
+q: Oh, Eris is leaving the room...
+q: Should I say something?
+q: Too late. Eris has gone.
+
+
+j-routine1: Never mind, let's get back to the emails.
+
+

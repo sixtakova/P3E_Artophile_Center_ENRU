@@ -1,0 +1,10 @@
+
+q: I'd really prefer to keep the team as small as possible, so it's probably best not to accept the intern.
+q: On the other hand, I'm not that great at scheduling, and Eris said that Mirai is specialized in project scheduling.
+q: Maybe I should get Mirai to do it for me and I just supervise the process!
+
+
+j-dmc3-4-yes: Accept Mirai.
+j-dmc3-4-no-2: Don't accept Mirai.
+
+

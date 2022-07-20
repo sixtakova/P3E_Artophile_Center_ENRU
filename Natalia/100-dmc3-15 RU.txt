@@ -1,0 +1,13 @@
+
+i: What's the total duration of the project?
+u: I'm afraid it's 17 months.
+i: Wow!
+i: It seems like the initial expectations were not that realistic.
+u: I think so.
+u: It would be possible to finish it in 12 months, but it would need more equipment and more expensive material.
+u: Their estimate is 170 artopools extra for finishing it in 12 months.
+i: Alright, even more options!
+
+
+j-r1-1: End the meeting.
+

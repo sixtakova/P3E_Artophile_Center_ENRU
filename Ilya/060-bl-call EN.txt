@@ -1,0 +1,18 @@
+
+u: Hi, Sasha speaking.
+i: Hi Sasha, this is Didi.
+i: I'm glad you're part of the team!
+u: Thanks, so am I.
+i: Shall we meet up to get to know each other and talk about the project?
+u: Sure.
+u: I'm available in 30 minutes.
+i: OK then.
+i: See you in the cafeteria in 30 minutes.
+q: OK, I have 30 minutes before meeting Sasha...
+q: It may be helpful to know a little about Sasha.
+
+
+j-check-Sasha: Check Sasha's LinkedIn profile.
+j-check-Sasha: Call colleagues to ask about Sasha.
+
+

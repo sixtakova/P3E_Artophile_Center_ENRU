@@ -1,0 +1,18 @@
+
+q: OK, we're finally done with A05!
+q: I'm glad Mirai was here to help.
+q: So, a personal summary of the options...
+
+n---
+**Options:**
+850 artopools in 17 months with normal concrete
++85 artopools for self-colored concrete
++170 artopools for finishing in 12 months
+---n
+
+q: Although these may change a little before the end of initiation.
+
+
+j-r1-2: Start working on A06.
+
+

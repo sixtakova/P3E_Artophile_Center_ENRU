@@ -1,0 +1,14 @@
+
+i: Yes, Azar, we usually put them in order.
+u: But then driveways and walkways should be done before the parking lot, and... well, it's a little confusing because many of these things are done in parallel.
+u: I don't know whether a simple linear order could show the schedule.
+q: Schedule?
+q: Oh, right... the order of doing things is the schedule, and we're not scheduling the project right now.
+i: Sorry, Azar, I didn't understand you correctly.
+i: We don't have to worry about the order of execution here.
+i: It's only a map of the deliverables, and the goal is to understand *what* has to be done, not *when* those things are supposed to be done.
+
+
+j-dmc-11: "Is there anything else we need to add?"
+
+

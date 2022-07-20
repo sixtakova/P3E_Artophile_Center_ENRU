@@ -1,0 +1,12 @@
+
+i: Mirai, tell me about the history of peer-reviews in this project.
+u: Aha, I see...
+u: Testing me again!
+u: OK, we can find the results of peer reviews in the Health Register.
+u: Let me open the file...
+u: Here you are...
+
+
+j-f3-2-register: Check the Health Register.
+
+

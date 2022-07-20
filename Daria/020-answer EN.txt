@@ -1,0 +1,14 @@
+
+s: On the phone
+i: Hello, Didi speaking.
+u: Hi Didi, this is Eris.
+q: It's not every day that the CEO calls me.
+q: Is there something wrong?
+q: Should I be worried about it?
+
+
+j-greeting: "Hi Eris, how are you?"
+j-wrong: "Is there something wrong, Eris?"
+j-silence: Say nothing and wait for Eris to continue.
+
+

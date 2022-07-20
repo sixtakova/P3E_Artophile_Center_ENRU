@@ -1,0 +1,13 @@
+
+i: Mirai, please put up the list on the big screen...
+i: Thanks.
+i: OK, everyone, please take a look at these ideas, and see whether they inspire you to come up with new ones.
+i: Write down the new ideas and give them to Mirai to summarize.
+s: A little later
+u: OK, Didi, everything is ready.
+
+
+j-e2-3-round2-vote: Let's vote!
+j-e2-3-round2-discuss: Let's discuss the ideas!
+
+

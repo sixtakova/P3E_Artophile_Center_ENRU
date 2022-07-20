@@ -1,0 +1,11 @@
+
+u: OK, no worries.
+u: Spend an hour or two reading the online manual.
+u: After that, come back here and take the course.
+u: Do you know where you can find the manual?
+
+
+j-familiar-no-yes: Yes
+j-familiar-no-no: No!
+
+

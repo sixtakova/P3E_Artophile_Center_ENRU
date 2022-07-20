@@ -1,0 +1,43 @@
+
+u: Nothing high-level, but there are lots of details inside each of those areas.
+i: OK, let's talk about them.
+u: There are the walls, windows, doors, ceiling, floor, and so.
+i: I'll add them to the 'main hall' for now, and then we can add them to the rest of the areas.
+
+t---
+start-textree
+= Artophile Center
+== Site mobilization
+== Demolition of the warehouse
+== The building
+=== Main hall
+==== Walls
+==== Doors
+==== Windows
+==== Ceiling
+==== Floor
+=== Information room
+=== Storage room
+=== Conference room #3
+=== WC #2
+=== Utility room
+=== IT room
+=== Conference room #2
+=== Administration room
+=== Conference room #1
+=== WC #1
+=== Meeting room #1
+=== Meeting room #2
+=== Security room
+== Surroundings
+=== Parking lot
+=== Driveways and walkways
+=== Gardens
+end-textree
+---t
+
+
+j-dmc-12: "How does it look?"
+j-dmc-12: "Anything else?"
+
+

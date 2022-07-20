@@ -1,0 +1,11 @@
+
+s: On the phone
+u: I need to talk to you, Didi.
+u: Can you come here for a minute?
+q: OK... That was short... and direct.
+
+
+j-eris-office: "Sure, I'm on my way."
+j-later: "Can we meet later? I have to answer a few emails."
+
+

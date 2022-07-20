@@ -1,0 +1,11 @@
+
+q: If there were any problems in the Project Description, Anan would have pointed them out.
+q: So, since Anan hasn't said anything, I can consider it done for now.
+q: On the other hand, maybe Anan didn't pay attention to every aspect of it, and maybe Anan didn't check it with the other executives.
+q: I really don't want to risk proceeding with the next step, only to realize that what we have in the Project Description is not aligned with what some executives have in mind.
+q: I think I really need the approval!
+
+
+j-pd-approval-s3b: Explain why approval is necessary.
+
+

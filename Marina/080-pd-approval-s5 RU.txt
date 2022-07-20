@@ -1,0 +1,39 @@
+
+q: So, I mark this as version 1 and keep it safe.
+q: The next time I want to update it, I'll save it as a new file with a new version number.
+
+d---
+**Project Description V1**
+Artophile Center
+
+**Purpose and expected benefits:**
+░░░░░█████ Promoting the company
+░░░░░░░███ Helping the community
+░░░░░░░░░█ Earning money (directly)
+░░░░░░░░░█ Having a convenient place for our own events
+
+**Expected cost and duration:**
+* 12 months
+* 800 artopools (+200 artopools as management reserve)
+
+**Requirements and quality expectations:**
+* Have capacity for 600 attendees.
+* Have an exceptional exterior that will turn it into a landmark building.
+* Be suitable for both business and artistic/cultural events.
+* Have a simple interior that can be adapted for various events.
+* (more...)
+
+**Stakeholders:**
+* Eris: CEO
+* Anan: project sponsor, director of the sales and marketing department
+* Didi: project manager
+* Imani: director of the design department
+* Sasha: team member, sales and marketing department staff
+* Azar: team member, design department staff
+---d
+
+
+j-pd-approval-s6: Send a copy of the approved Project Description to Sasha and Azar.
+j-dm-s1: Start working on the Deliverables Map.
+
+

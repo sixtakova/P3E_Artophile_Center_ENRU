@@ -1,0 +1,10 @@
+
+s: On the phone
+u: No, no. I just need to talk to you.
+u: Can you come to my office for a minute?
+
+
+j-eris-office: "Sure, I'm on my way."
+j-later: "Can we meet later? I have to answer a few emails."
+
+

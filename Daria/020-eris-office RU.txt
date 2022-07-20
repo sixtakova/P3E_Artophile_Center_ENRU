@@ -1,0 +1,20 @@
+
+s: In front of Eris' office
+q: OK, knocking on the door...
+q: and waiting...
+q: and waiting...
+u: Come in.
+s: Inside Eris' office
+u: Didi, thanks for coming.
+u: Please take a seat.
+s: Eris has just sat in front of you.
+u: We have a new, important project.
+
+
+j-the-project: "Sounds interesting. What is it?"
+j-the-project: "I'm listening!"
+j-the-project: Say nothing and wait for Eris to continue.
+
+
+# just testing comments
+

@@ -1,0 +1,9 @@
+
+i: I'll remove them.
+u: Wait, Didi, I'm sure there will be a lot of confusion if we don't have that information in the map.
+u: Can't we keep them in a different way?
+
+
+j-dmc-13-comment: Turn them into comments for the 'load bearing walls' item.
+
+

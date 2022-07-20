@@ -1,0 +1,42 @@
+
+q: OK, let me add the new names to the Project Description.
+q: Oh, I should also update the version number.
+
+d---
+**Project Description V1.1**
+Artophile Center
+
+**Purpose and expected benefits:**
+░░░░░█████ Promoting the company
+░░░░░░░███ Helping the community
+░░░░░░░░░█ Earning money (directly)
+░░░░░░░░░█ Having a convenient place for our own events
+
+**Expected cost and duration:**
+* 12 months
+* 800 artopools (+200 artopools as management reserve)
+
+**Requirements and quality expectations:**
+* Have capacity for 600 attendees.
+* Have an exceptional exterior that will turn it into a landmark building.
+* Be suitable for both business and artistic/cultural events.
+* Have a simple interior that can be adapted for various events.
+* (more...)
+
+**Stakeholders:**
+* Eris: CEO
+* Anan: project sponsor, director of the sales and marketing department
+* Didi: project manager
+* Imani: director of the design department
+* Sasha: team member, sales and marketing department staff
+* Azar: team member, design department staff
+* Eka: director of the mechanical engineering department
+* Darci: director of the electrical engineering department
+* Kim: team member, mechanical engineer
+* Monet: team member, electrical engineer
+---d
+
+
+j-dmc2-5-contact: Contact Kim and Monet.
+
+

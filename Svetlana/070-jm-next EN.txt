@@ -1,0 +1,12 @@
+
+
+e---
+Sure, Didi. Would you like to come here to talk? Our meeting room is free.
+---e
+
+
+j-jm-theirs: OK, go there.
+j-jm-here: Ask Azar to come here instead.
+j-jm-cafe: Ask Azar to meet in the cafeteria instead.
+
+

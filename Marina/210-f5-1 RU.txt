@@ -1,0 +1,16 @@
+
+s: The next day
+i: Mirai, it's time to celebrate the completion of the project!
+u: You and I?!
+i: Well, you and I and the rest of the team.
+u: Oh, yes... of course.
+i: Do you have any suggestions?
+u: Well, we can all go to a bar one evening.
+i: Sounds good.
+i: Would you arrange it with everyone?
+u: Sure.
+
+
+j-f6-1: Go to F06.
+
+

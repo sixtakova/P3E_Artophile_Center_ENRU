@@ -1,0 +1,8 @@
+
+u: Aren't you interested in knowing more about the project first?
+
+
+j-justification: "Yes, of course; for example, what's the business justification?"
+j-no-interest: "Not really -- a project is a project."
+
+

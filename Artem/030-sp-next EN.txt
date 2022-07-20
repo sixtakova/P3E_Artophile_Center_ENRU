@@ -1,0 +1,10 @@
+
+u: Didi, I'm thinking of two options: Imani and Anan.
+u: Imani, as the director of the design department, has great knowledge of the technical aspects, while Anan, as director of the sales and marketing department, knows most about how this project will benefit us.
+u: Which one do you think is better for the role?
+
+
+j-sp-Imani: Imani
+j-sp-Anan: Anan
+
+

@@ -1,0 +1,8 @@
+
+q: Alright, a new day with new adventures on the project!
+
+
+j-dmc2-4-email: Check emails.
+j-dmc2-4-call: Call Anan to ask about the appointments.
+
+

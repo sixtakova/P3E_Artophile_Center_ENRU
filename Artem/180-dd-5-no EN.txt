@@ -1,0 +1,10 @@
+
+i: Not really.
+i: We should proactively identify and manage the follow-up actions, rather than waiting for them to become obvious.
+i: For the completed deliverables, we have to wait for the teams or individuals to complete them, but still, if they're not completed on time, it will be a good idea to check with them, in case there's something we can help them with.
+u: I see.
+
+
+j-cc2-1: Take a break!
+
+

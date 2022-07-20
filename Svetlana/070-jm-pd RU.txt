@@ -1,0 +1,36 @@
+
+i: Azar, this is the current draft of the Product Description...
+
+d---
+**Project Description V0.4 (draft)**
+Artophile Center
+
+**Purpose and expected benefits:**
+░░░░██████ Promoting the company
+░░░░░░░░██ Helping the community
+░░░░░░░░░█ Earning money (directly)
+░░░░░░░░░█ Having a convenient place for our own events
+
+**Expected cost and duration:**
+* 12 months
+* 800 artopools (+200 artopools as management reserve)
+
+**Requirements and quality expectations:**
+* (to be defined)
+
+**Stakeholders:**
+* Eris: CEO
+* Anan: project sponsor, director of the sales and marketing department
+* Didi: project manager
+* Imani: director of the design department
+* Sasha: team member, sales and marketing department staff
+---d
+
+i: And I just add your name here... as another stakeholder.
+i: So, I need more information about the requirements and quality expectations.
+
+
+j-jm-requirements: "Can you help with that?"
+j-jm-requirements: "Do you know anything about these?
+
+

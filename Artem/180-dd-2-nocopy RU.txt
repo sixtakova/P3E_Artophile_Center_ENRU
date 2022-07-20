@@ -1,0 +1,10 @@
+
+q: I don't need a copy of the permit... Azar knows a lot more about these things than I do.
+q: Although...
+q: It's a project document, and I should have a copy of every document!
+q: Also, I'm not a legal expert, but I think I should still read the permit and make sure it's what we expect it to be.
+
+
+j-dd-2-copy: Ask Azar for a copy of the permit.
+
+

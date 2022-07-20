@@ -1,0 +1,9 @@
+
+u: I'm a busy person though, and I can't spend much time on it.
+u: Is that alright?
+
+
+j-sp-no2: No
+j-sp-yes2: Yes
+
+

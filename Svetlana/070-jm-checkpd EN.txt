@@ -1,0 +1,11 @@
+
+i: OK, Azar.
+i: I'm emailing you a copy of the Project Description.
+i: Can you check it with Imani to make sure it covers everything?
+u: Sure.
+u: That's a good idea.
+
+
+j-jm-checkpd-endmeeting: End the meeting.
+
+

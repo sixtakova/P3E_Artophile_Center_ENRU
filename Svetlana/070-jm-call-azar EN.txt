@@ -1,0 +1,15 @@
+
+s: Over the phone
+i: Hi Azar, this is Didi.
+u: Hi, Didi.
+u: I guess you want to talk about the project.
+i: I'd love to.
+u: I'll be available in 10 minutes.
+i: OK.
+i: Let's meet here in my office then.
+u: OK.
+
+
+j-jm-meeting: Hang up.
+
+

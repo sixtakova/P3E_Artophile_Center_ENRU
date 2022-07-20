@@ -1,0 +1,27 @@
+
+s: A little later in front of Eka's office
+q: Alright, that should be Eka's office...
+i: Hi Eka!
+u: Didi, how can I help you?
+i: We just talked, and you told me I could come here if I needed help with the mechanical aspects of the project.
+u: Yes, but I didn't mean right now.
+u: Everyone is busy at the moment.
+i: When is a good time?
+u: We have a deadline in 3 weeks.
+u: It will be fine after that.
+i: But that's too long.
+i: Could we make it sooner?
+u: As I told you, we're busy with serious projects, and I can't spend my resources on a project that is not even approved and may never happen.
+u: Now, if you don't mind, I have to get back to work.
+q: What a nice person!
+q: I'll just leave...
+q: I don't know what to do about it.
+q: I can proceed with the electrical engineering part, but 3 weeks is a long time.
+q: I can't hold everything until then.
+q: If only I had more power to *encourage* Eka to help me!
+
+
+j-dmc2-direct-nos-eris: Call Eris and ask for help.
+j-dmc2-anan: Call Anan and ask for help.
+
+

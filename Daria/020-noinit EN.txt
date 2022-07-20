@@ -1,0 +1,10 @@
+
+u: I don't know why you said that!
+u: We simply can't know the exact values until we've planned the project and prepared an overall design.
+u: Isn't that what you call 'project initiation'?
+
+
+j-kidding: "I was kidding :) Of course it is."
+j-no-interest: "No, that's not correct."
+
+

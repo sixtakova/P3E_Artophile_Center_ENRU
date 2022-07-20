@@ -1,0 +1,11 @@
+
+q: Shall I plan the project?
+q: Hmm... I don't think so!
+q: I don't have a team yet, and I need a team to help me with the planning.
+
+
+j-pd2: Prepare the Project Description.
+j-team2: Form the initial team.
+j-meet-anan: Meet Anan.
+
+

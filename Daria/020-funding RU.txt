@@ -1,0 +1,12 @@
+
+u: There's a great opportunity here: The local authority has decided to invest a large amount of money - 42,000 artopools to be exact - in promoting art and culture in Artopolis.
+i: Wow!
+u: Our legal consultant believes they'll pay half of the costs of the convention center.
+
+
+j-budget1: "Do we have an overall idea of the budget?"
+j-strings-attached: "I'm not sure if it's a good idea to depend on government funding, as there are always strings attached."
+j-approval: "Amazing! Is the project approved, or is it still the initial studies?"
+j-in3: "Interesting."
+
+

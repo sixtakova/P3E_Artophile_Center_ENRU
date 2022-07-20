@@ -1,0 +1,22 @@
+
+i: Mirai, would you come here, please?
+u: Yes, Didi, how can I help?
+i: It's time for the monthly closure... isn't it?
+u: I think so.
+i: OK, I suppose we've prepared two questionnaires about stakeholder satisfaction before, haven't we?
+u: Are you still testing me with the time travel scenario?
+i: Hmm...
+i: Yes, that's what I'm doing!
+u: OK...
+u: Yes, we have two sets of questionnaires: one for the team members and the other for the stakeholders outside the team, and we've been using an online form to capture their responses anonymously.
+i: Good.
+i: Good.
+i: Please send them to the stakeholders then.
+u: OK.
+q: I think I like these trips in time...
+q: You can simply remove the repetitive parts of life and get right into the interesting parts!
+
+
+j-e2-1: Check out the questions while waiting for the stakeholders to respond.
+
+

@@ -1,0 +1,9 @@
+
+i: OK, then I'll break them down and put them inside the 'floor', 'walls', and 'ceiling' items.
+u: Oh, wait, I think you misunderstood!
+u: We have one deliverable for each of them in each area, not separate deliverables for the floor, walls, and ceiling.
+
+
+j-dmc2-13-outside: So, we should keep them outside the 'floor', 'walls', and 'ceiling' elements.
+
+

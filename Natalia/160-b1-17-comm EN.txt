@@ -1,0 +1,10 @@
+
+q: The next step is focused communication... or is it?
+q: We tell everyone about the expected achievements in the upcoming cycle, but we still don't have a green light for this cycle!
+
+
+j-b1-18-anan: Ask Anan for a go/no go decision.
+j-b1-18-eris: Ask Eris for a go/no go decision.
+j-b1-18-board: Ask the board for a go/no go decision.
+
+

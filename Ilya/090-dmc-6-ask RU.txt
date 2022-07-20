@@ -1,0 +1,11 @@
+
+i: Azar, how come I didn't see a parking lot in the building plan that you showed me before?
+u: Because that was just the building, and the parking lot is outside the building.
+i: What else do we have outside?
+u: Hmm... there are gardens and driveways and walkways.
+
+
+j-dmc-6-add-3: Add the parking lot, driveways and walkways, and gardens to the map.
+j-dmc-6-add-3-2-yes: Add two main elements for the building and its surroundings, move the old elements to the building and add the new ones to the surroundings.
+
+

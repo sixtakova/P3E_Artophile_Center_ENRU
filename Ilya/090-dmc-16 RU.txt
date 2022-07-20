@@ -1,0 +1,45 @@
+
+u: Alright.
+u: I think we're done.
+u: Although, wait... don't forget about the furniture!
+u: It's part of the project to furnish the building.
+i: OK, I'll add it as well.
+
+t---
+start-textree
+= Artophile Center
+== Site mobilization
+== Demolition of the warehouse
+== The building
+=== Main hall
+==== Earthwork
+==== Foundation
+==== Walls …
+==== Ceiling
+==== Floor
+==== Furniture
+=== Information room
+=== Storage room
+=== Conference room #3
+=== WC #2
+=== Utility room
+=== IT room
+=== Conference room #2
+=== Administration room
+=== Conference room #1
+=== WC #1
+=== Meeting room #1
+=== Meeting room #2
+=== Security room
+== Surroundings
+=== Parking lot
+=== Driveways and walkways
+=== Gardens
+end-textree
+---t
+
+
+j-dmc-17: "What else?"
+j-dmc-17: "Do we have anything else to add?"
+
+

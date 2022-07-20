@@ -1,0 +1,11 @@
+
+i: OK, now we can vote on the ideas.
+u: Didi...
+i: Yes, Sasha?
+u: Now that I've seen other people's ideas, I've thought of a new one.
+u: I think it would be a good idea to add it.
+
+
+j-e2-3-round2: Let's have another round of collecting ideas.
+
+

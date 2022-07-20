@@ -1,0 +1,15 @@
+
+u: While it's a good thing to have this policy for contracts, the downside is that it makes the process slower.
+u: I don't know if that's been considered in your durations, but it may be worth checking out.
+u: Just call Zia and check to see whether those durations are realistic.
+i: Who's Zia?
+u: Zia is responsible for the procurement of this type of project.
+i: I see.
+u: And don't forget to add Zia to the list of stakeholders.
+i: Of course.
+
+
+j-b1-14: Wait to see if there's anything else Jehan wants to add.
+j-b1-14: "Any other comments?"
+
+

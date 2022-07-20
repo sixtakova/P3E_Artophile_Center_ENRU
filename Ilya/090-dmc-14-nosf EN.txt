@@ -1,0 +1,49 @@
+
+i: I don't know...
+i: Using acronyms like this makes it unclear for the audience.
+u: Do you have a better idea?
+i: Not really.
+u: Maybe we can do it for now, and then check to see if we can find a better solution later.
+i: Yeah... let's do it!
+
+t---
+start-textree
+= Artophile Center
+== Site mobilization
+== Demolition of the warehouse
+== The building
+=== Main hall
+==== Floor SF …
+==== Walls SF …
+==== Ceiling SF
+==== Lighting
+==== Computer network
+==== Music/PA system
+==== Air conditioning
+==== Fire protection
+==== Furniture
+=== Information room
+=== Storage room
+=== Conference room #3
+=== WC #2
+=== Utility room
+=== IT room
+=== Conference room #2
+=== Administration room
+=== Conference room #1
+=== WC #1
+=== Meeting room #1
+=== Meeting room #2
+=== Security room
+== Surroundings
+=== Parking lot
+=== Driveways and walkways
+=== Gardens
+end-textree
+---t
+
+
+j-dmc2-15: "What else do we have?"
+j-dmc2-15: "Do you have any other comments?"
+
+

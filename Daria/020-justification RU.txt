@@ -1,0 +1,10 @@
+
+u: We'll use it for our own events, but we'll also rent it out to other businesses, which will help spread our name in the market.
+i: I see.
+u: Lastly, we want to let artistic, cultural, and not-for-profit event organizers use it for free, which will help the community on the one hand, and on the other hand, it will help improve our public image as one of the best architectural firms in the country.
+
+
+j-funding: "Sounds great. But does it justify such a big investment?"
+j-in2: "Great. What would my role be in it?"
+
+

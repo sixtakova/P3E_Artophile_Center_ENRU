@@ -1,0 +1,46 @@
+
+i: So, this is what looks like if we have the earthwork and foundation separately for different areas instead of having them for the building as a whole...
+
+t---
+start-textree
+= Artophile Center
+== Site mobilization
+== Demolition of the warehouse
+== The building
+=== Main hall
+==== Earthwork
+==== Foundation
+==== Walls …
+==== Ceiling
+==== Floor
+=== Information room
+=== Storage room
+=== Conference room #3
+=== WC #2
+=== Utility room
+=== IT room
+=== Conference room #2
+=== Administration room
+=== Conference room #1
+=== WC #1
+=== Meeting room #1
+=== Meeting room #2
+=== Security room
+== Surroundings
+=== Parking lot
+=== Driveways and walkways
+=== Gardens
+end-textree
+---t
+
+u: Looks much cleaner to me now, Didi!
+i: I'm happy with it as well.
+i: Let's keep it like this.
+u: You will add it to other areas too, won't you?
+i: Yes, yes, I'll do it later.
+i: I'm only entering them for the 'main hall' right now.
+
+
+j-dmc-16: "So, what else do we have?"
+
+

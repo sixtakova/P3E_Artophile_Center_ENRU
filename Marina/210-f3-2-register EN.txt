@@ -1,0 +1,13 @@
+
+q: So, here's the Health Register...
+q: Let's take a look...
+q: OK, seems like we've done a good job.
+q: I've asked all 9 project managers in the company to help as peer reviewers... most of them more than once.
+q: So, who should I ask for the peer review this time?
+
+
+j-f3-3-tiam: Ask Tiam.
+j-f3-3-jehan: Ask Jehan.
+j-f3-3-other: Ask someone else.
+
+

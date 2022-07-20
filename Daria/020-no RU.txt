@@ -1,0 +1,10 @@
+
+u: Oh, that was unexpected.
+u: That's fine, I'm sure you have your own reasons.
+u: I won't take up any more of your time. See you around, Didi.
+q: Eris is leaving...
+
+
+j-early-end2: Next
+
+

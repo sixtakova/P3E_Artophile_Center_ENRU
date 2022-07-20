@@ -1,0 +1,14 @@
+
+u: Sure.
+u: We need to get permission from the city, which I've already started working on.
+u: In the past 2 years, almost everything has been automated and online, so it's all become much easier and faster.
+u: I think we'll have the permission in less than 48 hours.
+i: Great.
+i: Any risks?
+u: I can't think of any.
+i: Thanks.
+
+
+j-c3-4: "Zia, could you tell us about your deliverable?"
+
+

@@ -1,0 +1,34 @@
+
+q: OK, almost done with focused communication... but one more thing before I close it...
+i: Mirai...
+u: Yes?
+i: Can you come in here for a moment?
+u: How can I help you, Didi?
+i: Did you see my last public email?
+u: Yes!
+u: Did you send it to everyone in the company?!
+i: Yes.
+i: People should know about the projects that are being run in the company.
+i: Also, we may need their help on the project one day.
+u: I see.
+i: It was part of A10, but there's another thing we need to do in A10, and I'd like to ask you to do that.
+u: Sure.
+i: I need you to design a roll-up banner for the project, print it, and place it in the lobby.
+u: Hmm...
+u: But why?
+i: It has the same purpose as the email, to make sure that people know such a project exists in the company.
+i: Also, do you remember the risk that you're a custodian for?
+u: Yes, I know what you mean.
+i: Good.
+u: What type of design do you want for the banner?
+i: A simple design.
+i: Use the design and perspective of the building that Azar has provided, and add some text and background.
+i: When you're done, ask Azar to check it and comment on it.
+u: OK.
+i: Also, ask Elvan, from internal services, if it's OK to put the banner in the lobby.
+u: OK.
+
+
+j-b1-1: "Thanks."
+
+

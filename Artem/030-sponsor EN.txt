@@ -1,0 +1,15 @@
+
+i: Eris, what you're doing here, which is appointing the project manager, is the second management activity in P3.express.
+i: The first activity, A01, is to appoint the sponsor.
+i: Have you already done that?
+u: Sponsor?
+u: Why do you need a sponsor?
+i: Every project manager needs someone with organizational authority to champion the project and obtain resources for it.
+i: Also, when there's a high-level decision to be made, they are supposed to make it.
+u: OK, Didi. I can be the sponsor.
+
+
+j-sp-yes: "Great!"
+j-sp-no: "Hmm... I'm not sure whether that's a good idea."
+
+

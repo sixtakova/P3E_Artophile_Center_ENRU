@@ -1,0 +1,14 @@
+
+u: Hello, Sasha speaking.
+i: Hi Sasha, this is Didi.
+i: Can you help me map the deliverables of the project?
+u: Hmm... I don't know much about those things.
+u: Why don't you ask Azar for help?
+i: OK, I'll ask Azar.
+i: Thanks... bye.
+q: Sasha is right... mapping deliverables has a lot more to do with the technical aspects of the project and its architecture than its business aspects.
+
+
+j-dm-help-azar: Ask Azar for help.
+
+

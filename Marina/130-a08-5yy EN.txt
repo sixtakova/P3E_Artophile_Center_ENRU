@@ -1,0 +1,10 @@
+
+q: Well, Project Description is important and high-level, and the sponsor should approve it.
+q: Although... now that I think about it, Anan already approved these changes when approving the project!
+q: I don't need to ask for approval again.
+
+
+j-a09-1-close: Let's close project initiation.
+j-a09-1-kickoff: Let's plan the kick off meeting.
+
+

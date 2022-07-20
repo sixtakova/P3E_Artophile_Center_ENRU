@@ -1,0 +1,18 @@
+
+s: Trying to find Anan's office...
+q: I've met Anan before, but only occasionally.
+q: Which office am I looking for?
+q: Hmm... OK, there it is!
+s: Knocking on the door...
+u: Didi! Come in.
+i: Thanks.
+u: Take a seat...
+u: So, Eris told me about my being the sponsor of this project, and I accepted because I believe this project is important for us, and I personally want to make sure it succeeds.
+u: In particular, I want to make sure we don't sacrifice this project for other projects just because they have an external client and this one is internal.
+u: Do you know what I mean?
+
+
+j-iey: Yes
+j-ien: No
+
+

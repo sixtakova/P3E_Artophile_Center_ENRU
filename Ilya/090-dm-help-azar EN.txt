@@ -1,0 +1,12 @@
+
+u: Hello, Azar speaking.
+i: Hi Azar, this is Didi.
+i: Can you help me map the deliverables of the project?
+u: I'm not sure if I know everything you need, but I'll do my best.
+u: I'll come to your office in 10 minutes.
+
+
+j-dmc-1: "Thanks!"
+j-dmc-1: "See you then!"
+
+

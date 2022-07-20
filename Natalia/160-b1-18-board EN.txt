@@ -1,0 +1,9 @@
+
+q: So, shall I ask the board for the go/no-go decision?
+q: Hmm... no, that's not right.
+q: I have to ask the sponsor, and the sponsor will ask the board, the CEO, or anyone else who needs to be involved in the decision.
+q: My only point of contact for high-level decisions is the sponsor.
+
+
+j-b1-18-anan: Ask Anan for a go/no-go decision.
+

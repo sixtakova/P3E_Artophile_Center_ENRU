@@ -1,0 +1,45 @@
+
+i: Azar, if it makes sense to see them as separate deliverables for each area, it would be a lot cleaner and easier to understand in the map.
+i: I'll go for that.
+
+t---
+start-textree
+= Artophile Center
+== Site mobilization
+== Demolition of the warehouse
+== The building
+=== Main hall
+==== Earthwork
+==== Foundation
+==== Walls …
+==== Ceiling
+==== Floor
+=== Information room
+=== Storage room
+=== Conference room #3
+=== WC #2
+=== Utility room
+=== IT room
+=== Conference room #2
+=== Administration room
+=== Conference room #1
+=== WC #1
+=== Meeting room #1
+=== Meeting room #2
+=== Security room
+== Surroundings
+=== Parking lot
+=== Driveways and walkways
+=== Gardens
+end-textree
+---t
+
+u: Are you going to add them for all areas?
+i: Yes, yes, similar to the 'main hall'.
+i: I'm just focusing on the 'main hall' for now to keep it simple.
+u: OK, good.
+
+
+j-dmc-16: "Is there anything else?"
+
+

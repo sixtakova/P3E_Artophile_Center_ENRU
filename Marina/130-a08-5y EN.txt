@@ -1,0 +1,45 @@
+
+q: OK, here's the updated version...
+
+d---
+**Project Description V2**
+Artophile Center
+**Purpose and expected benefits:**
+░░░░░█████ Promoting the company
+░░░░░░░███ Helping the community
+░░░░░░░░░█ Earning money (directly)
+░░░░░░░░░█ Having a convenient place for our own events
+
+**Expected cost and duration:**
+* 17 months
+* 965 artopools
+
+**Requirements and quality expectations:**
+* Have capacity for 600 attendees.
+* Have an exceptional exterior that will turn it into a landmark building.
+* Be suitable for both business and artistic/cultural events.
+* Have a simple interior that can be adapted for various events.
+* (more...)
+
+**Stakeholders:**
+* Eris: CEO
+* Anan: project sponsor, director of the sales and marketing department
+* Didi: project manager
+* Imani: director of the design department
+* Sasha: team member, sales and marketing department staff
+* Azar: team member, design department staff
+* Eka: director of the mechanical engineering department
+* Darci: director of the electrical engineering department
+* Kim: team member, mechanical engineer
+* Monet: team member, electrical engineer
+* Mirai: team member (intern), project management team
+* Tiam: peer-reviewer for project initiation
+---d
+
+q: Should I ask Anan for approval?
+
+
+j-a08-5yy: Yes
+j-a08-5yn: No
+
+

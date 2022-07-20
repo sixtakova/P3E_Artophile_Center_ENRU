@@ -1,0 +1,51 @@
+
+s: Two days later
+u: Didi, are you happy with the result of the initial workshops?
+i: Yes, Mirai, they were fine.
+i: Let's see the Follow-Up Register...
+
+f---
+**Cause:**      This project doesn't have an external customer.
+**Effect:**     Internal departments may give priority to projects with external customers (to keep the customers satisfied), and as a result, ignore this project.
+**Impact:**     The project may be finished a lot later than expected and be of low quality.
+**Response:**   Strong sponsorship / continuous monitoring of the situation / getting all the executives involved in the project
+**Custodian:**  Anan
+**Status:**     open
+---f
+
+f---
+**Cause:**      Because of its impact on the look and feel of the building, there are not many windows in the walls.
+**Effect:**     There may not be enough natural light in the main hall.
+**Impact**: It may feel depressing inside.
+**Response:**   Use a semi-transparent cover for the 3D truss of the roof, and add large light pannels on the walls.
+**Custodian:**  Azar
+**Status:**     closed
+---f
+
+f---
+**Cause:**      All the walls are made of exposed concrete.
+**Effect:**     They don't have good acoustic properties, especially with large rooms.
+**Impact:**     1) The amount of acoustic treatment we have in mind may not be enough and we may need to spend more, and 2) The type of treatment required for this situation may harm the internal aesthetics.
+**Response:**   Find and consult acoustic experts as soon as possible.
+**Custodian:**  Mirai
+**Status:**     open
+---f
+
+f---
+**Cause:**      We've not put too much thought into the energy efficiency of the building!
+**Effect:**     People (and responsible organizations) may blame us for constructing an important building that isn't energy efficient.
+**Impact:**     It harms our reputation, and also defeats the purpose of the project!
+**Response:**   Except for the main hall, which has a semi-transparent roof, cover all the other roofs with solar panels.
+**Custodian:**  Monet
+**Status:**     close
+---f
+
+u: Didi, is that all?!
+i: Oh, of course not, I've got 10... no, 12 more here...
+u: Are we done with A06?
+
+
+j-r1-5-yes: Yes
+j-r1-5-no: No
+
+

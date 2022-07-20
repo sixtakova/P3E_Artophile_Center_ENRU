@@ -1,0 +1,9 @@
+
+s: Half an hour later
+i: OK, we're done with discussing the items and voting on them.
+i: Based on your votes, the selected solution is to use non-technical language in our conversations.
+
+
+j-e3: Thank everyone and end the meeting.
+
+

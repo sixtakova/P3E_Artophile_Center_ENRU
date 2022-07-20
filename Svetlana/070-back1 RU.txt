@@ -1,0 +1,18 @@
+
+s: You've got a new email.
+q: Oh, I've got another email from Anan...
+
+e---
+Hi Didi,
+I've talked to Imani about getting an architect for the project. Imani said that whenever you have an architectural task, you can forward it, and Imani will assign it to someone in the department.
+Would that be OK for you?
+
+Regards,
+Anan
+---e
+
+
+j-noapp-yes: Yes
+j-noapp-no: No
+
+

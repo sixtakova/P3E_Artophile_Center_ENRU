@@ -1,0 +1,51 @@
+
+u: Well, Didi, if you want, we can have the doors and windows as a subset of the walls.
+i: Sounds good to me.
+i: Do we have anything else for the walls?
+u: There are the walls themselves, which will be load-bearing concrete walls with built-in insulation and color that will be left exposed on both the outside and the inside, which means that we won't have separate elements for insulation, painting, and the like.
+u: We'll only need to have acoustic treatment on the inside.
+u: And finally, there are doors and windows in those walls.
+i: OK, give me a minute to add them to the map.
+
+t---
+start-textree
+= Artophile Center
+== Site mobilization
+== Demolition of the warehouse
+== The building
+=== Main hall
+==== Walls
+===== Load-bearing walls
+===== Acoustic treatment of the walls
+===== Doors
+===== Windows
+==== Ceiling
+==== Floor
+=== Information room
+=== Storage room
+=== Conference room #3
+=== WC #2
+=== Utility room
+=== IT room
+=== Conference room #2
+=== Administration room
+=== Conference room #1
+=== WC #1
+=== Meeting room #1
+=== Meeting room #2
+=== Security room
+== Surroundings
+=== Parking lot
+=== Driveways and walkways
+=== Gardens
+end-textree
+---t
+
+u: Didi, it's important that the load-bearing walls have built‑in insulation and color, and that they will be exposed.
+u: Do we need to add them under the 'load-bearing walls'?
+
+
+j-dmc-13-yes: Yes, add them as new items under the existing one.
+j-dmc-13-comment: No, add them as a comment on the existing element.
+
+

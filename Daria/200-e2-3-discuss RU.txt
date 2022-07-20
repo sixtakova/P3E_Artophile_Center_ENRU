@@ -1,0 +1,11 @@
+
+i: OK, let's discuss each idea before we vote.
+u: Didi!
+i: Yes, Sasha?
+u: Before we discuss them, I have a new idea to add to the list.
+u: I came up with it when I saw the other ideas in the list.
+
+
+j-e2-3-round2: Let's have another round of collecting ideas!
+
+

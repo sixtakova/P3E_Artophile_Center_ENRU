@@ -1,0 +1,11 @@
+
+q: Alright, here's a quick reply to Anan... Thanks, really.
+q: I'm glad Anan is so supportive of the project.
+q: I've tried negotiating with Imani before and couldn't get anywhere.
+q: I think Anan has made an offer Imani couldn't refuse ;)
+
+
+j-jm-call-Azar: Call Azar.
+j-jm-email-Azar: Send an email to Azar.
+
+

@@ -1,0 +1,13 @@
+
+q: Maybe I should ask, "What do *you* want me to do first?"
+q: But... But I'm the project manager, and I'm supposed to lead the project, not ask people what to do.
+q: That doesn't seem like a good choice.
+q: OK, let's think... What's the first thing we need to do in any project?
+
+
+j-plan: Plan.
+j-pd: Prepare the Project Description.
+j-sponsor: Make sure there's a sponsor.
+j-team: Form the initial team.
+
+

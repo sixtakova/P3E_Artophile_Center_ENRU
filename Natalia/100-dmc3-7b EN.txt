@@ -1,0 +1,10 @@
+
+i: Mirai, either of them can be used in P3.express, depending on the type of product.
+u: So, which one should we use here?
+
+
+j-dmc3-8d: Dependency based
+j-dmc3-8p: Priority based
+j-dmc3-8b: Both of them are fine for this project.
+
+

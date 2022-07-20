@@ -1,0 +1,23 @@
+
+tx-language:       en
+tx-translated-by:  Translated by your_name(s)_here
+
+tx-title:          Artophile Center eLearning Course
+tx-header:         Artophile Center Project
+tx-slogan:         The minimalist project management system
+tx-progress:       approximate progress
+tx-restart:        Restart simulation
+tx-manual:         P3.express manual
+
+tx-license:        This work is provided with a free and open license
+tx-erasmus:        Co-funded by the Erasmus+ Programme of the European Union
+
+tx-tr-inv:         We're looking for volunteers to translate this course into other languages. If you're interested, contact us: info@p3.express
+tx-tr-inf:         This course is translated into {language} by {yourname(s)}
+
+tx-error:          ERROR: Could not load the course. Maybe JavaScript is not active in your browser or something else has gone wrong. Please report the problem: info@p3.express
+
+tx-canonical-url:  https://p3.express/training/artophile-center/
+tx-cover-url:      https://p3.express/images/course-cover.png
+tx-manual-url:     https://p3.express/manual/v2/
+

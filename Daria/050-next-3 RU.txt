@@ -1,0 +1,11 @@
+
+q: OK, the Project Description is updated.
+q: I have to wait for the team for now.
+q: What should I do in the meantime?
+
+
+j-research: Go online and read about convention centers.
+j-call-Karabo: Call your old friend, Karabo, who has experience in convention center projects.
+j-tetris: Play Tetris.
+
+

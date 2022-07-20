@@ -1,0 +1,12 @@
+
+u: There's an evaluation form at the end of the course.
+u: One of the questions in that form is about the amount of time people have spent on the course.
+u: Based on the feedback, it usually takes 4 to 7 hours to finish it.
+u: I thought you might want to know!
+
+
+j-saving-dgood: "That's fine."
+j-saving-dshort: "That's shorter than I expected!"
+j-saving-dlong: "That's longer than I expected!"
+
+

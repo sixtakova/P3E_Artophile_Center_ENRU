@@ -1,0 +1,16 @@
+
+s: The next day
+
+e---
+Hi Didi,
+Thanks for the information. It seems fine to me. Please proceed with the cycle.
+Good luck!
+
+Regards,
+Anan
+---e
+
+j-b1-20-kickoff: Kick off the monthly cycle.
+j-b1-20-comm: Conduct a focused communication.
+
+

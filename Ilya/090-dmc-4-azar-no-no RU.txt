@@ -1,0 +1,13 @@
+
+q: In most projects I've seen, people have been using disciplines in their "Work Breakdown Structures", which are similar to the Deliverables Map in P3.express.
+q: There should be a reason for that.
+q: After all, what most people do is usually the safest option.
+q: Although...
+q: I don't know...
+q: No, no... I'm not going to just do what everyone is used to doing! After all, having a crappy project management system is also common, but it doesn't mean we should have one!
+q: It's a *deliverables* map, and I'm going to have deliverables in it!
+
+
+j-dmc-4-self: Start drawing the map based on the building elements.
+
+

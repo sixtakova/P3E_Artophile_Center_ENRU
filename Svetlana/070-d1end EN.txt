@@ -1,0 +1,28 @@
+
+q: Alright...
+q: Here I am, on my second day as the project manager of the Artophile Center. 
+q: And it's... Well, it's 9:35.
+q: I'm glad I'm not one of those people who believe in waking up early in the morning!
+s: You've got a new email.
+q: Oh, good, I've got an email from Anan...
+
+e---
+Hi Didi,
+I've convinced Imani to appoint someone for the project. It's Azar.
+
+Regards,
+Anan
+---e
+
+q: Oh, Azar... good.
+q: We know each other already.
+
+
+j-jm-thank-Anan: Thank Anan.
+j-jm-call-Azar: Call Azar.
+j-jm-email-Azar: Send an email to Azar.
+
+
+#%30
+
+

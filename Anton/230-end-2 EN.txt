@@ -1,0 +1,10 @@
+
+u: Would you like to share the course with your network on social networks such as LinkedIn, Twitter, and Facebook?
+u: If so, you can copy the following link and paste it there:
+
+n---
+{{ tx-canonical-url }}
+---n
+
+
+j-end-3: Next

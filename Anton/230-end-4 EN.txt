@@ -1,0 +1,18 @@
+
+u: You already have a good understanding of P3.express,
+u: maybe you can study a little more, 
+u: and prepare for the P3.express Practitioner exam!
+
+HTML: <p id=badge><img src=https://p3.express/images/simple-p3p-badge.svg width=347 height=254 ></p>
+
+u: Here's more information about the certification program:
+
+a---
+<a href=https://p3.express/certification/ target=_blank>https://p3.express/certification/</a>
+---a
+
+u: So... there's just one more thing...
+
+
+j-end-5: Next
+

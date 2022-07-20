@@ -1,0 +1,13 @@
+
+u: If you're interested in staying informed of new developments and opportunities in P3.express, you can subscribe to the announcement emails using the link below.
+
+a---
+<a href="http://eepurl.com/b9w8rj" target=_blank>Subscribe to the announcement emails!</a>
+---a
+
+u: There's also RSS feed,
+u: if you prefer old-fashioned, yet superior technologies ;)
+
+
+j-end-4: Next
+

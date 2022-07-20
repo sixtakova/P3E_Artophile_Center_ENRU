@@ -1,0 +1,97 @@
+
+u: Lastly,
+u: it would be helpful if you let us know what you think about the course using the form below.
+u: Thanks, and good luck with your projects!
+
+o---
+<form action=https://p3.express/evaluation.php method=POST>
+**Evaluation Form**
+<input type=hidden name=course value=artophile>
+<hr>
+(To avoid random bots on the web) 21×2=
+<input type=number min=40 max=50 step=1 id=human name=human >
+<hr>
+In total, how many hours did you spend taking this course?
+<input type=number min=0 max=999 step=1 id=hours name=hours >
+
+You probably didn't take the course without interruptions; how many days did it take you to finish the course?
+<input type=number min=0 max=99 step=1 id=days name=days >
+<hr>
+Which resources did you use to learn P3.express before starting to take this course?
+
+<input type=checkbox id=sr-manual name=sr-manual ><label for=sr-manual> The online manual</label>
+<input type=checkbox id=sr-articles name=sr-articles ><label for=sr-articles> Articles</label>
+<input type=checkbox id=sr-books name=sr-books ><label for=sr-books> Books</label>
+<input type=checkbox id=sr-webinar name=sr-webinar ><label for=sr-webinar> Webinars / short videos</label>
+<input type=checkbox id=sr-elearning name=sr-elearning ><label for=sr-elearning> eLearning courses</label>
+<input type=checkbox id=sr-class name=sr-class ><label for=sr-class> Classroom courses</label>
+
+
+How many times did you look up the online manual while taking this course?
+
+<input type=radio id=c0 name=checks value=0><label for=c0> Less than 3 times</label>
+<input type=radio id=c1 name=checks value=1><label for=c1> 3 to 10 times</label>
+<input type=radio id=c2 name=checks value=2><label for=c2> 10 to 20 times</label>
+<input type=radio id=c3 name=checks value=3><label for=c3> 20 to 40 times</label>
+<input type=radio id=c4 name=checks value=4><label for=c4> More than 40 times</label>
+
+
+How easy was it to follow the course?
+
+<input type=radio id=e0 name=ease value=0><label for=e0> Very difficult!</label>
+<input type=radio id=e1 name=ease value=1><label for=e1> Rather difficult</label>
+<input type=radio id=e2 name=ease value=2><label for=e2> Relatively easy</label>
+<input type=radio id=e3 name=ease value=3><label for=e3> Really easy</label>
+
+
+How was the length of the course, in your opinion?
+
+<input type=radio id=l0 name=length value=0><label for=l0> Really too short</label>
+<input type=radio id=l1 name=length value=1><label for=l1> A little too short</label>
+<input type=radio id=l2 name=length value=2><label for=l2> Just right</label>
+<input type=radio id=l3 name=length value=3><label for=l3> A little too long</label>
+<input type=radio id=l4 name=length value=4><label for=l4> Really too long</label>
+
+
+How engaging was the course?
+
+<input type=radio id=g0 name=engaging value=0><label for=g0> Not engaging at all... I was sleep most of them time!</label>
+<input type=radio id=g1 name=engaging value=1><label for=g1> Not engaging enough</label>
+<input type=radio id=g2 name=engaging value=2><label for=g2> More or less</label>
+<input type=radio id=g3 name=engaging value=3><label for=g3> Very engaging</label>
+<input type=radio id=g4 name=engaging value=4><label for=g4> Super engaging... I couldn't stop!</label>
+
+
+Did you like the format of the course (interactive, text-based)?
+
+<input type=radio id=f0 name=format value=0><label for=f0> Not at all</label>
+<input type=radio id=f1 name=format value=1><label for=f1> Not much</label>
+<input type=radio id=f2 name=format value=2><label for=f2> So so</label>
+<input type=radio id=f3 name=format value=3><label for=f3> Liked it</label>
+<input type=radio id=f4 name=format value=4><label for=f4> Loved it</label>
+
+
+Now that you've finished the course, do you have a better idea of how to use P3.express in your own projects?
+
+<input type=radio id=p0 name=practice value=0><label for=p0> Not at all</label>
+<input type=radio id=p1 name=practice value=1><label for=p1> Not much</label>
+<input type=radio id=p2 name=practice value=2><label for=p2> A little</label>
+<input type=radio id=p3 name=practice value=3><label for=p3> A lot</label>
+<input type=radio id=p4 name=practice value=4><label for=p4> A LOT!!!</label>
+
+<hr>
+What overall score would you give this course, on a scale of 0 (horrible!) to 100 (amazing)?
+
+<input type=number min=0 max=100 step=1 id=score name=score >
+
+Do you have any comments for us?
+
+<textarea id=comment name=comment ></textarea>
+
+<input type=submit value=Submit>
+</form>
+---o
+
+
+#!nd
+

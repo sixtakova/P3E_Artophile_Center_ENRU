@@ -1,6 +1,6 @@
 
-i: Is there a back button?
-u: You don't need a back button.
+i: Можно использовать кнопку "назад"?
+u: Вам не нужна кнопка "назад"
 u: Based on your decisions, you will go on different paths in the story, but we've made sure that everything is covered in every path.
 u: So, you don't need to worry that you didn't learn enough because of your decisions.
 i: What if I come back to the course and can't remember what happened before?

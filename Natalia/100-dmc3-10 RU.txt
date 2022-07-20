@@ -1,13 +1,13 @@
 
-u: Thanks, Didi.
-u: I'll get started then.
-i: Good luck!
+u: Спасибо, Диди.
+u: Тогда я начну.
+i: Удачи!
 
 
-j-dmc3-11: Now relax and watch a movie while others are doing the actual work!
-j-dmc3-11: Reply to that pile of emails.
-j-dmc3-11: Find a new hobby!
-j-dmc3-11: How about starting a new subreddit called r/projectmanagersunderpressure?
+j-dmc3-11: Теперь расслабься и посмотри фильм, пока остальные другие заняты настоящей работой!
+j-dmc3-11: Ответь на ту кучу писем.
+j-dmc3-11: Найди новое хобби!
+j-dmc3-11: Может быть, начать новый тред на реддите вроде r/projectmanagersunderpressure?
 
 
 #%65

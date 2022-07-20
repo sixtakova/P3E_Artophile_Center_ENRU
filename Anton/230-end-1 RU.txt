@@ -1,9 +1,9 @@
 
-s: The end!
+s: Конец!
 u: So, the course is finished!
 u: We hope you've enjoyed the course :)
 
 
-j-end-2: Next
+j-end-2: Далее
 
 

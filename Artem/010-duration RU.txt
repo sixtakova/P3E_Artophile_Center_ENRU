@@ -1,12 +1,11 @@
 
-u: There's an evaluation form at the end of the course.
-u: One of the questions in that form is about the amount of time people have spent on the course.
-u: Based on the feedback, it usually takes 4 to 7 hours to finish it.
-u: I thought you might want to know!
+u: В конце курса есть форма оценки.
+u: Один из вопросов этой формы касается количества времени, которое люди потратили на курс.
+u: Судя по обратной связи, это обычно занимает от 4 до 7 часов.
+u: Я подумал, что вы, возможно, захотите это узнать!
 
 
-j-saving-dgood: "That's fine."
-j-saving-dshort: "That's shorter than I expected!"
-j-saving-dlong: "That's longer than I expected!"
-
+j-saving-dgood: "Это нормально"
+j-saving-dshort: "Это быстрее, чем я ожидал!"
+j-saving-dlong: "Это дольше, чем я ожидал!"
 

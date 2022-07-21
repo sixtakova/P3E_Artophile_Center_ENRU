@@ -1,11 +1,11 @@
 
-u: OK, no worries.
-u: Spend an hour or two reading the online manual.
-u: After that, come back here and take the course.
-u: Do you know where you can find the manual?
+u: OK, не беспокойтесь.
+u: Возьмите час или два на чтение онлайн-руководства.
+u: После этого возвращайтесь сюда и пройдите курс.
+u: Вы знаете, где находится руководство?
 
 
-j-familiar-no-yes: Yes
-j-familiar-no-no: No!
+j-familiar-no-yes: Да
+j-familiar-no-no: Нет!
 
 

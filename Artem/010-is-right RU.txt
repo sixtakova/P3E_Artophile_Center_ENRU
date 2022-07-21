@@ -1,10 +1,10 @@
 
-i: Is this the right course for me?
-u: It could be, if you're already familiar with P3.express.
-u: Are you?
+i: Подойдет ли мне этот курс?
+u: Возможно, если вы уже знакомы с P3.express.
+u: Это так?
 
 
-j-familiar-yes: Yes
-j-familiar-no: No
+j-familiar-yes: Да
+j-familiar-no: Нет
 
 

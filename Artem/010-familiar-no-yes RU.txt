@@ -1,9 +1,9 @@
 
-u: Alright then!
-u: I'll be here waiting for you to read the manual and come back.
-u: No rush!
+u: Ладно!
+u: Я буду ждать пока вы прочитаете руководство и вернетесь.
+u: Не спешите!
 
 
-j-notes: "I'm back!"
+j-notes: "Я вернулся!"
 
 

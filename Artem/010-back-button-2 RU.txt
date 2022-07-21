@@ -1,8 +1,7 @@
 
-u: Having a back button disturbs the natural flow of the story.
-u: You're supposed to forget about the medium and be fully focused on the story.
+u: Наличие кнопки "назад" нарушает естественный ход истории.
+u: Вы должны забыть обо всем и полностью погрузиться в историю.
 
 
 j-ready: "OK..."
-
 

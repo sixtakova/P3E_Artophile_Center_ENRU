@@ -1,7 +1,7 @@
 
-u: So, are you ready, Didi? :)
+u: Итак, ты готов, Диди? :)
 
 
-j-first-phone-call: "Let's do it!"
+j-first-phone-call: "Давай сделаем это!"
 
 

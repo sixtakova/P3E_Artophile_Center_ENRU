@@ -1,8 +1,8 @@
 
-u: There are more than 20 characters in this story, as well as a few evolving documents.
-u: You really need to take notes as you progress to remember who's who, what's what, etc.
+u: В этой истории более 20 персонажей, а также несколько развивающихся документов.
+u: Вам действительно нужно делать заметки по мере вашего прогресса, чтобы помнить кто есть кто и что есть что.
 
 
-j-notes2: "Alright, alright..."
+j-notes2: "Хорошо, хорошо..."
 
 

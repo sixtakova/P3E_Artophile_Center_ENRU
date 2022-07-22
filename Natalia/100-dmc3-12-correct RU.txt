@@ -1,12 +1,12 @@
 
-i: It's fine, Mirai.
-i: You don't have to break down the Deliverables Map at this point.
-i: Of course, that's if you find the level of detail in the map enough for scheduling. Sometimes, you need to break it down even further for a high-level plan.
-u: I understand.
-u: There were a few cases where we felt that having more detail may make scheduling easier, but overall, we were comfortable.
-i: OK; you've made a good decision then.
+i: Это нормально, Мирай.
+i: На этом этапе нет необходимости больше детализировать карту результатов.
+i: Конечно, если ты считаешь, что уровень детализации карты достаточен для планирования. Иногда даже для формирования обобщённого плана требуется более глубокий уровень детализации.
+u: Я понял.
+u: В нескольких случаях казалось, что при более глубокая детализация сделала бы планирование проще, но в целом у нас не возникло сложностей.
+i: OK; тогда выбран оптимальный уровень описания.
 
 
-j-dmc3-13: "Has the team also estimated the cost of the project?"
+j-dmc3-13: "Подготовила ли команда также оценки стоимости проекта?"
 
 

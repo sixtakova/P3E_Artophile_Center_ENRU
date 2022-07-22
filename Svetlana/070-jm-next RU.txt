@@ -1,12 +1,12 @@
 
 
 e---
-Sure, Didi. Would you like to come here to talk? Our meeting room is free.
+Конечно, Диди. Ты бы хотел подойти сюда, чтобы поговорить? Наша переговорная свободна.
 ---e
 
 
-j-jm-theirs: OK, go there.
-j-jm-here: Ask Azar to come here instead.
-j-jm-cafe: Ask Azar to meet in the cafeteria instead.
+j-jm-theirs: ОК, пойти туда.
+j-jm-here: Попросить Азара вместо этого подойти сюда.
+j-jm-cafe: Попросить Азара вместо этого встретиться в кафетерии.
 
 

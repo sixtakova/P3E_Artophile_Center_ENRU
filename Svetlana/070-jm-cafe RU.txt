@@ -1,10 +1,10 @@
 
 
 e---
-You know I don't like meeting rooms! Let's meet in the cafeteria instead.
+Знаешь, мне не нравится переговорная! Давай вместо этого встретимся в кафетерии.
 ---e
 
 
-j-jm-meeting: Send 
+j-jm-meeting: Отправить 
 
 

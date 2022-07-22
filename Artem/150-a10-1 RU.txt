@@ -1,19 +1,19 @@
 
-q: OK, so, we're done with A09 as well.
-q: Now, we have only one more activity in project initiation: focused communication.
-q: So, let's write a nice email to everyone in the company!
+q: Итак, мы закончили с шагом А09.
+q: Теперь нам осталось еще одно действие для запуска проекта: фокусированная коммуникация.
+q: Хорошо, давайте напишем прекрасное письмо для каждого в компании!
 
 e---
-Hello everyone,
-Just a quick note to let you know that the Artophile Center project has recently been approved, and we're going to start execution very soon. You may have a part to play in this project at some stage, and the rest of the project team and I are looking forward to that.
-In case you don't know, the Artophile Center is a convention center we will build in place of the existing old warehouse. It will be used for our own events as well as external ones, with an emphasis on artistic and cultural events.
-Our plan is to finish this project within 17 months.
+Привет всем,
+Просто небольшое сообщение о том, что проект Артофил Центра был недавно одобрен и мы вскоре стартуем. Возможно, вы тоже сыграете свою роль в этом проекте на какой-то стадии и вся наша команда будет ждать этого.
+В случае, если вы не знали, Артофил Центр - это конференц-центр, который мы построим на месте существующего старого склада. Он будет использоваться как для наших собственных, так и для внешних событий, с акцентом на художественные и культурные мероприятия.
+Мы планируем закончить этот проект в течение 17 месяцев.
 
-Regards,
-Didi
+С уважением,
+Диди
 ---e
 
 
-j-a10-2: Send
+j-a10-2: Отправить
 
 

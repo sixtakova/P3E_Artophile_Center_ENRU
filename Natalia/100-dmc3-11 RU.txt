@@ -1,44 +1,44 @@
 
-s: Two days later
-u: Didi, I think we're done with the schedule!
-u: Here it is...
+s: Два дня спустя
+u: Диди, думаю, мы закончили с расписанием!
+u: Вот оно...
 
 g---
 start-ganttext
-= Artophile Center ---
-== Site mobilization            @2-3
-== Demolition of the warehouse  @4-7
-== The building ---
-=== Main hall                   @8-57
-=== Information room            @22-38
-=== Storage room                @17-40
-=== Conference room #3          @11-50
+= Артофил Центр ---
+== Подготовка площадки          @2-3
+== Снос склада                  @4-7
+== Здание ---
+=== Главный холл                @8-57
+=== Справочная                  @22-38
+=== Кладовка                    @17-40
+=== Конференц-зал #3            @11-50
 === WC #2                       @32-43
-=== Utility room                @23-57
-=== IT room                     @39-55
-=== Conference room #2          @17-57
-=== Administration room         @30-37
-=== Conference room #1          @23-49
+=== Подсобное помещение         @23-57
+=== Серверная                   @39-55
+=== Конференц-зал #2            @17-57
+=== Комната администрации       @30-37
+=== Конференц-зал #1            @23-49
 === WC #1                       @36-53
-=== Meeting room #1             @21-47
-=== Meeting room #2             @21-45
-=== Security room               @26-39
-== Surroundings ---
-=== Parking lot                 @52-62
-=== Driveways and walkways      @57-70
-=== Gardens                     @70-73
+=== Переговорная #1             @21-47
+=== Переговорная #2             @21-45
+=== Комната охраны              @26-39
+== Окружающая территория ---
+=== Парковка                    @52-62
+=== Проезды и тротуары          @57-70
+=== Скверы                      @70-73
 end-ganttext
 ---g
 
-i: Mirai, is it the whole plan or a summary of it?
-u: No, no, it's just a summary.
-u: There's one more level below it, similar to what we have in the Deliverables Map.
-i: But no more than that?
-u: No. We have the same elements as the Deliverables Map.
-u: Isn't that correct?
+i: Мирай, это полный план или только верхнеуровневый конспект?
+u: Здесь только конспект.
+u: Есть ещё один уровень детализации, соответствующий структуре карты результатов. 
+i: Но более детального плана нет?
+u: Нет. В плане те же элементы, что и в карте результатов.
+u: Разве это неправильно?
 
 
-j-dmc3-12-correct: It's correct.
-j-dmc3-12-incorrect: It's not correct.
+j-dmc3-12-correct: Это правильно.
+j-dmc3-12-incorrect: Это неправильно.
 
 

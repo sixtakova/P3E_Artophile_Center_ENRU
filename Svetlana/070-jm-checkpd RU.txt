@@ -1,11 +1,11 @@
 
-i: OK, Azar.
-i: I'm emailing you a copy of the Project Description.
-i: Can you check it with Imani to make sure it covers everything?
-u: Sure.
-u: That's a good idea.
+i: OK, Азар.
+i: Я направлю тебе в email Резюме проекта.
+i: Не могли бы вы с Имани проверить его, чтобы убедиться в том, что оно все охватывает?
+u: Конечно.
+u: Это хорошая идея.
 
 
-j-jm-checkpd-endmeeting: End the meeting.
+j-jm-checkpd-endmeeting: Закончить встречу.
 
 

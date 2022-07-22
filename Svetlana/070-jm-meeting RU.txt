@@ -1,19 +1,19 @@
 
-s: Meeting Azar in person
-i: Azar...
-i: How are you?
-u: Fine, Didi... fine.
-u: How are you?
-i: Great.
-u: I'm happy to be part of this project.
-u: Imani doesn't usually appoint us to projects, but only assigns tasks.
-u: I feel I belong somewhere ;)
-i: I know!
-i: I really don't like it that way.
-u: Alright, how can I help you?
+s: Личная встреча с Азаром
+i: Азар...
+i: Как ты?
+u: Хорошо, Диди... хорошо.
+u: А как ты?
+i: Отлично.
+u: Я счастлив быть частью этого проекта.
+u: Обычно Имани не назначает нас за проектом, а только поручает задачи.
+u: Я чувствую свою принадлежность ;)
+i: Мне знакомо!
+i: Мне совсем не нравится действовать таким образом.
+u: Что ж, как я могу тебе помочь?
 
 
-j-jm-pd: Show Azar the Project Description.
-j-jm-requirements: Ask Azar about the requirements of the project.
+j-jm-pd: Показать Азару Резюме проекта.
+j-jm-requirements: Спросить у Азара требования проекта.
 
 

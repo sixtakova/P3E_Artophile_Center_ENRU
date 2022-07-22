@@ -1,0 +1,13 @@
+
+i: Can you also arrange for catering?
+u: Sure.
+u: But how?
+i: Contact Elvan from the internal services department for any services you need.
+i: I'll send an email to introduce you.
+u: OK.
+u: Shall I also prepare a draft of the agenda?
+
+
+j-a09-10: "Why not!"
+
+

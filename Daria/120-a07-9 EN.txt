@@ -1,0 +1,21 @@
+
+u: It seems fine, Didi.
+u: The documents are well-written and clear.
+u: Although I did see a few abbreviations in the Deliverables Map that weren't clear to me.
+u: The schedule seemed fine as well.
+i: :)
+u: It seems like you've delegated the whole scheduling process to Mirai, which is fine, as long as you supervise it.
+u: However, it seems like you've used the same for the identification of project options... I mean, options for duration and cost.
+u: That one doesn't seem so good to me because these are essential to the project, and it's best that you're fully involved.
+u: Finally, I have a feeling that Kim doesn't feel sufficiently included.
+i: Thanks for the feedback.
+i: I'll think about all of that.
+u: Good.
+u: So, send me the link to your Health Register, and I'll fill in the form.
+u: Don't forget to give me write access to that document ;)
+i: Sure :)
+
+
+j-a07-10: End the meeting.
+
+

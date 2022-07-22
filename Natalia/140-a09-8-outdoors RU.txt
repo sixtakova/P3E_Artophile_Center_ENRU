@@ -1,0 +1,18 @@
+
+i: No, Mirai... 
+i: We don't want it to be a boring, corporate meeting. 
+i: After all, we'll be more focused on team-building and on mitigating that risk you mentioned before. Let's do something more interesting.
+u: Such as?
+i: Do you have any ideas?
+u: Well...
+u: It's good weather these days, so, how about setting up a marquee in front of the old warehouse, which is where we'll be building the convention center, and have a barbeque?!
+i: That's...
+i: That's crazy...
+i: I love it!
+u: Oh, great :)
+u: Anything else?
+
+
+j-a09-9: Yes!
+
+

@@ -1,0 +1,19 @@
+
+u: And how do you do that, Didi?
+i: We use the company's Nextcloud to store all our documents.
+i: I've created a directory for the project, and all the documents are in there.
+i: Nextcloud has its own versioning system that we use for minor updates, and at specific times, I store a separate snapshot for approved documents.
+u: How about permissions?
+i: For now, team members have write access to all documents except for the Project Description, which only I have write access to.
+i: All executives and managers in the company have read access to the documents.
+u: Alright, sounds good.
+u: I think we're done.
+
+
+j-a07-9: "So, what's your feedback?"
+j-a07-9: "How was our initiations in your opinion?"
+j-a07-9: "Do you have any comments for me?"
+
+
+#%70
+

@@ -1,0 +1,14 @@
+
+u: Well, I'm not really the main person who does most of the work... I just supervise it.
+u: Celes, from the civil engineering department has found 3 candidates, and Didi has picked the one that seems to be the best and agreed on a price.
+u: I'm now checking the draft agreement, which is almost done.
+u: I think I can get it signed tomorrow.
+i: Thanks.
+i: Any risks or issues?
+u: Not really... it seems fine so far.
+i: Alright.
+
+
+j-c3-5: Report the status of the insurance.
+
+

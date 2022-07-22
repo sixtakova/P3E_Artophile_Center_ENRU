@@ -1,0 +1,53 @@
+
+s: Two minutes later
+u: Oh, Didi, I already got the answer from Anan; it's OK to change the custodian.
+i: That was fast!
+u: Shall I update the Follow-Up Register?
+i: Sure, go ahead.
+q: I'm starting to like Mirai for taking the initiative.
+q: So, let's see the updated register...
+
+f---
+**Cause:**      This project doesn't have an external customer.
+**Effect:**     Internal departments may give priority to projects with external customers (to keep the customers satisfied), and as a result, ignore this project.
+**Impact:**     The project may be finished a lot later than expected and be of low quality.
+**Response:**   Strong sponsorship / continuous monitoring of the situation / getting all the executives involved in the project
+**Custodian:**  Mirai
+**Status:**     open
+---f
+
+f---
+**Cause:**      Because of its impact on the look and feel of the building, there are not many windows in the walls.
+**Effect:**     There may not be enough natural light in the main hall.
+**Impact:**     It may feel depressing inside.
+**Response:**   Use a semi-transparent cover for the 3D truss of the roof, and add large light pannels on the walls.
+**Custodian:**  Azar
+**Status:**     closed
+---f
+
+f---
+**Cause:**      All the walls are made of exposed concrete.
+**Effect:**     They don't have good acoustic properties, especially with large rooms.
+**Impact:**     1) The amount of acoustic treatment we have in mind may not be enough and we may need to spend more, and 2) The type of treatment required for this situation may harm the internal aesthetics.
+**Response:**   Find and consult acoustic experts as soon as possible.
+**Custodian:**  Mirai
+**Status:**     open
+---f
+
+f---
+**Cause:**      We've not put too much thought into the energy efficiency of the building!
+**Effect:**     People (and responsible organizations) may blame us for constructing an important building that isn't energy efficient.
+**Impact:**     It harms our reputation, and also defeats the purpose of the project!
+**Response:**   Except for the main hall, which has a semi-transparent roof, cover all the other roofs with solar panels.
+**Custodian:**  Monet
+**Status:**     close
+---f
+
+u: OK, Didi, shall we go back to planning the kick-off meeting?
+
+
+j-a09-7: "I forgot what we were doing!"
+j-a09-7: "Kick off meeting?! Oh, yes... let's focus on that."
+j-a09-7: "Yes, let's get back to planning the kick off meeting."
+
+

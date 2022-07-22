@@ -1,0 +1,15 @@
+
+i: Yes.
+i: For example, I've asked Anan to check and approve the Project Description.
+u: Sounds fine.
+u: Were there no other important decisions in the project that needed Anan's input?
+i: Not yet.
+i: Although I've prepared a number of options for the cost/duration balance of the project, which I'll present to Anan at the end of initiation.
+u: Perfect.
+u: What about the other two documents?
+
+
+j-a07-7y: I've received approval for them as well.
+j-a07-7n: I didn't ask Anan to approve the other two.
+
+

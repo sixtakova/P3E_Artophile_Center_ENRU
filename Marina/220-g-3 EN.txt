@@ -1,0 +1,19 @@
+
+s: Another 6 months later
+
+e---
+Hi Didi,
+I was checking the benefits of the Artophile Center when I came up with an idea: to arrange a national conference about sustainable architecture. Naturally, it would be held in the Artophile Center.
+I was thinking of having Mirai as the project manager. Is it a good idea in your opinion?
+
+Regards,
+Anan
+---e
+
+q: Alright, it's Anan's G02 activity.
+
+
+j-g-4-yes: Recommend Mirai.
+j-g-4-no: Don't recommend Mirai.
+
+

@@ -1,0 +1,11 @@
+
+u: So, Didi, I know who we should invite.
+u: I can send them a planner link to select their availabilities.
+i: Good.
+u: Should I also book a meeting room when the date is decided?
+
+
+j-a09-8-meetingroom: "Yes."
+j-a09-8-outdoors: "No!"
+
+

@@ -1,10 +1,10 @@
 
 
 e---
-Shall we meet up in my office instead?
+Может, мы встретимся в моем кабинете вместо этого?
 ---e
 
 
-j-jm-meeting: Send
+j-jm-meeting: Отправить
 
 

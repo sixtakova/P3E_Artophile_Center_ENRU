@@ -1,10 +1,10 @@
 
 
 e---
-OK, I'll be there in a few minutes.
+Хорошо, я буду там через несколько минут.
 ---e
 
 
-j-jm-meeting: Send
+j-jm-meeting: Отправить
 
 

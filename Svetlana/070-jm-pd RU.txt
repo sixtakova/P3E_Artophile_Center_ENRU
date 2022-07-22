@@ -1,36 +1,36 @@
 
-i: Azar, this is the current draft of the Product Description...
+i: Азар, это актуальный черновик Резюме проекта... 
 
 d---
-**Project Description V0.4 (draft)**
-Artophile Center
+**Резюме проекта V0.4 (черновик)**
+Артофил Центр
 
-**Purpose and expected benefits:**
-░░░░██████ Promoting the company
-░░░░░░░░██ Helping the community
-░░░░░░░░░█ Earning money (directly)
-░░░░░░░░░█ Having a convenient place for our own events
+**Цель и ожидаемые выгоды:**
+░░░░██████ Продвижение компании
+░░░░░░░░██ Помощь сообществу
+░░░░░░░░░█ Зарабатывание денег (напрямую)
+░░░░░░░░░█ Наличие удобного места для наших собственных мероприятий
 
-**Expected cost and duration:**
-* 12 months
-* 800 artopools (+200 artopools as management reserve)
+**Ожидаемые затраты и продолжительность:**
+* 12 месяцев
+* 800 артобаксов (+200 артобаксов в качестве менеджерского резерва)
 
-**Requirements and quality expectations:**
-* (to be defined)
+**Требования и ожидания по параметрам качества:**
+* (предстоит определить)
 
-**Stakeholders:**
-* Eris: CEO
-* Anan: project sponsor, director of the sales and marketing department
-* Didi: project manager
-* Imani: director of the design department
-* Sasha: team member, sales and marketing department staff
+**Стейкхолдеры:**
+* Эрис: Генеральный директор
+* Анан: спонсор проекта, директор отдела продаж и маркетинга
+* Диди: менеджер проекта
+* Имани: директор проектного отдела
+* Саша: участник команды, сотрудник отдела продаж и маркетинга
 ---d
 
-i: And I just add your name here... as another stakeholder.
-i: So, I need more information about the requirements and quality expectations.
+i: И я просто добавлю твое имя сюда... как еще одного стейкхолдера.
+i: Итак, мне нужно больше информации о требованиях и ожиданиях по параметрам качества.
 
 
-j-jm-requirements: "Can you help with that?"
-j-jm-requirements: "Do you know anything about these?
+j-jm-requirements: "Ты можешь помочь с этим?"
+j-jm-requirements: "Знаешь ли ты что-нибудь об этом?"
 
 

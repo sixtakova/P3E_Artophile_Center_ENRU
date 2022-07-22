@@ -1,15 +1,15 @@
 
-s: Over the phone
-i: Hi Azar, this is Didi.
-u: Hi, Didi.
-u: I guess you want to talk about the project.
-i: I'd love to.
-u: I'll be available in 10 minutes.
+s: По телефону
+i: Привет Азар, это Диди.
+u: Привет, Диди.
+u: Полагаю, ты хочешь поговорить о проекте.
+i: С удовольствием.
+u: Я освобожусь через 10 минут.
 i: OK.
-i: Let's meet here in my office then.
+i: Давай тогда встретимся в моем кабинете.
 u: OK.
 
 
-j-jm-meeting: Hang up.
+j-jm-meeting: Повесить трубку.
 
 

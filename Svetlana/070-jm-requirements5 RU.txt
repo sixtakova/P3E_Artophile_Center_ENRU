@@ -1,33 +1,33 @@
 
-i: So, Azar, this is our current draft of the Project Description...
+i: Итак, Азар, это актуальный черновик Резюме проекта...
 
 d---
-**Project Description V0.5 (draft)**
-Artophile Center
+**Резюме проекта V0.5 (черновик)**
+Артофил Центр
 
-**Purpose and expected benefits:**
-░░░░██████ Promoting the company
-░░░░░░░░██ Helping the community
-░░░░░░░░░█ Earning money (directly)
-░░░░░░░░░█ Having a convenient place for our own events
+**Цель и ожидаемые выгоды:**
+░░░░██████ Продвижение компании
+░░░░░░░░██ Помощь сообществу
+░░░░░░░░░█ Зарабатывание денег (напрямую)
+░░░░░░░░░█ Наличие удобного места для наших собственных мероприятий
 
-**Expected cost and duration:**
-* 12 months
-* 800 artopools (+200 artopools as management reserve)
+**Ожидаемые затраты и продолжительность:**
+* 12 месяцев
+* 800 артобаксов (+200 артобаксов в качестве менеджерского резерва)
 
-**Requirements and quality expectations:**
+**Требования и ожидания по параметрам качества:**
 * Have capacity for 600 attendees.
 * Have an exceptional exterior that will turn it into a landmark building.
 * Be suitable for both business and artistic/cultural events.
 * Have a simple interior that can be adapted for various events.
 * (more...)
 
-**Stakeholders:**
-* Eris: CEO
-* Anan: project sponsor, director of the sales and marketing department
-* Didi: project manager
-* Imani: director of the design department
-* Sasha: team member, sales and marketing department staff
+**Стейкхолдеры:**
+* Эрис: Генеральный директор
+* Анан: спонсор проекта, директор отдела продаж и маркетинга
+* Диди: менеджер проекта
+* Имани: директор проектного отдела
+* Саша: участник команды, сотрудник отдела продаж и маркетинга
 * Azar: team member, design department staff
 ---d
 

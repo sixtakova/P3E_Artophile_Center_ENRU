@@ -1,15 +1,15 @@
 
 
 e---
-Azar, Welcome aboard!
-I'm really glad to have you on the team.
-Shall we meet up and talk about the project?
+Азар, Добро пожаловать в команду!
+Я очень рад, что ты в нашей команде.
+Может, мы встретимся и поговорим о проекте?
 
-Regards,
-Didi
+С уважением,
+Диди
 ---e
 
 
-j-jm-next: Send
+j-jm-next: Отправить
 
 

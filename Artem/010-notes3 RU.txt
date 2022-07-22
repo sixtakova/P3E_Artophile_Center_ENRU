@@ -1,10 +1,10 @@
 
-u: I wish I had a dollar for every time I heard that!
-i: Really, why?
-u: Because that reduces the level of engagement and autonomy of the learner.
-u: It's like in real life where you don't have a magical button to press and get information, but you have to take notes and organize them.
+u: Я хотел бы получать доллар каждый раз, когда слышу такое!
+i: На самом деле, почему?
+u: Потому что это снижает уровень вовлеченности и самостоятельности учащегося.
+u: Это аналогично реальной жизни, в которой у вас нет волшебной кнопки, чтобы нажать ее и получить всю информацию, но у вас есть заметки и возможность организовать их.
 
 
-j-duration: "OK!"
+j-duration: "Хорошо!"
 
 

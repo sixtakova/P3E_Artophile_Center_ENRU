@@ -1,11 +1,11 @@
 
-i: Thanks Azar.
-i: Let me know when Imani's done with checking the Project Description.
-i: Have a nice day.
-u: Sure. Take care.
+i: Спасибо, Азар.
+i: Дай мне знать, когда Имани закончит проверку Резюме проекта.
+i: Хорошего дня.
+u: Конечно. Счастливо.
 
 
-j-jm-endall: Alright, let's go back to the office.
-j-jm-endall: Let's go to the corner café and have a nice espresso.
+j-jm-endall: Так, давай вернемся обратно в офис.
+j-jm-endall: Давай сходим в кафе на углу и выпьем хороший эспрессо.
 
 

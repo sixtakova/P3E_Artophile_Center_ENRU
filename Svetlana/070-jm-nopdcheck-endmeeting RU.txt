@@ -1,17 +1,17 @@
 
-i: OK, Azar, thanks for your help.
-i: I think we're done for now... the Project Description seems fine to me.
-u: Sure.
-u: I hope Imani and the others agree with what I've told you :>
-i: Hmm... I thought everything you told me was aligned with Imani.
-u: I believe so, but there's no guarantee.
-i: So, just to be sure, I'm emailing you a copy of the document.
-i: Can you check it with Imani?
-u: Sure.
-i: OK, let me know, then.
+i: OK, Азар, спасибо тебе за помощь.
+i: Думаю, мы тут закончили... Мне кажется, с Резюме проекта все в порядке. 
+u: Верно.
+u: Я надеюсь Имани и остальные согласятся с тем, что я сказал тебе :>
+i: Хм... Я думал, все что ты мне сказал было согласовано с Имани.
+u: Полагаю, что так, но нет никаких гарантий.
+i: Тогда, на всякий случай, я направлю тебе копию документа в email.
+i: Можешь проверить его с Имани?
+u: Конечно.
+i: OK, дай мне знать тогда.
 
 
-j-jm-endall: Alright, let's go back to the office. 
-j-jm-endall: Let's go to the corner café and have a nice espresso.
+j-jm-endall: Так, давай вернемся обратно в офис.
+j-jm-endall: Давай сходим в кафе на углу и выпьем хороший эспрессо.
 
 

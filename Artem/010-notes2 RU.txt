@@ -1,9 +1,9 @@
 
-u: I'm not joking!
-u: You really can't go on without taking notes.
+u: Я не шучу!
+u: Вы действительно не сможете продолжать, если не будете делать заметки.
 
 
 j-duration: "OK!"
-j-notes3: "Then why don't you add them to the bottom of the pages instead?"
+j-notes3: "Тогда почему вы просто не добавите их в конец страниц?"
 
 

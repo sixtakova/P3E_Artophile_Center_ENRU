@@ -1,11 +1,11 @@
 
-i: No, Mirai, we're not done yet.
-u: What else do we have to do for A06?
-i: Let me see...
-i: We've talked to the stakeholders and identified the risks, then we've got them to help us plan the responses to those risks.
-i: Hmm... yeah, actually, I believe we're done!
+i: Нет, Мирай, мы еще не закончили.
+u: Что еще мы должны сделать на этапе A06?
+i: Посмотрим...
+i: Мы поговорили со стейкхолдерами и определили риски, после чего они помогли нам запланировать меры реагирования.
+i: Хмм... да, вообще-то, я думаю мы закончили!
 
 
-j-a07: Go to A07
+j-a07: Перейти к A07
 
 

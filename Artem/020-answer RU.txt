@@ -1,14 +1,14 @@
 
-s: On the phone
-i: Hello, Didi speaking.
-u: Hi Didi, this is Eris.
-q: It's not every day that the CEO calls me.
-q: Is there something wrong?
-q: Should I be worried about it?
+s: По телефону
+i: Здравствйуте, Диди слушает.
+u: Привет Диди, это Эрис.
+q: Не каждый день CEO мне звонит.
+q: Что-то не так?
+q: Не пора ли мне начать беспокоиться?
 
 
-j-greeting: "Hi Eris, how are you?"
-j-wrong: "Is there something wrong, Eris?"
-j-silence: Say nothing and wait for Eris to continue.
+j-greeting: "Привет Эрис, как дела?"
+j-wrong: "Что-то не так, Эрис?"
+j-silence: Ничего не говорить и подождать пока Эрис продолжит.
 
 

@@ -1,13 +1,13 @@
 
-s: In your office
-q: Just five more emails and I'll have a zero inbox.
-q: That will be a glorious moment!
-s: The phone is ringing...
-q: And some people still call you instead of sending an email!
+s: В вашем офисе
+q: Всего пять писем и у меня будет пустая папка Входящие.
+q: Это будет замечательный момент!
+s: Звонит телефон...
+q: И некоторые люди все еще звонят вам, вместо того, чтобы отправить письмо!
 
 
-j-answer: Answer the phone.
-j-your-office-b1: Ignore the phone and keep working on the emails.
+j-answer: Ответить на телефон.
+j-your-office-b1: Игнорировать телефон и продолжать работать с почтой.
 
 
 #%0

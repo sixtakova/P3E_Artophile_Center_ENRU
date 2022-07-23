@@ -1,12 +1,12 @@
 
-i: Mirai, I'm not sure if the amount of detail in the Deliverables Map is enough for scheduling.
-u: There were a few cases where we felt that having more detail would be helpful in scheduling, but overall, we were comfortable with it.
-u: I tried to follow your advice and focus on the high-level aspects, leaving the details to the monthly planning activities.
-i: Is everyone else in the team confident about this schedule?
-u: Yes.
-i: Then it's fine. Well done.
+i: Мирай, у меня нет уверенности, что карта результатов детализирована достаточно глубоко для планирования.
+u: В нескольких случаях казалось, что при более глубокая детализация сделала бы планирование проще, но в целом у нас не возникло сложностей.
+u: Следуя твоему совету, мы сосредоточились на обобщённых результатах, планируя провести детализацию в ходе ежемесячного планирования.
+i: Все другие участники команды согласны с таким подходом?
+u: Да.
+i: Тогда хорошо. Отличная работа!
 
 
-j-dmc3-13: "Has the team also estimated the cost of the project?"
+j-dmc3-13: "Подготовила ли команда также оценки стоимости проекта?"
 
 

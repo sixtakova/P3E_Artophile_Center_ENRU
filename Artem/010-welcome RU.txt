@@ -1,11 +1,11 @@
 
-u: Hello,
-u: and welcome to the course!
-u: This is an interactive project simulation that shows you how a P3.express project works.
-u: You will be playing the role of Didi, the main character in the story, who's the manager of the Artophile Center project in an imaginary land called Artopolis.
+u: Здравствуйте,
+u: и добро пожаловать на курс!
+u: Эта интерактивная проектная симуляция покажет вам, как работают проекты в P3.express.
+u: Вы будете играть роль Диди, главного персонажа этой истории, который руководит проектом Артофил Центра в вымышленной стране под названием Артополис.
 
 
-j-is-right: "Is this even the right course for me?"
+j-is-right: "Точно ли мне подойдет такой курс?"
 
 
 # --- DO NOT TRANSLATE AFTER THIS LINE ---

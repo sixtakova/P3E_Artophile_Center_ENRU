@@ -1,7 +1,7 @@
 
-i: Yes, Mirai, we're done with A06.
+i: Да, Мирай, мы закончили с A06.
 
 
-j-a07: Go to A07
+j-a07: Перейти к A07
 
 

@@ -1,10 +1,10 @@
 
-q: Is it a good idea to use a priority-based schedule?
-q: Hmm...
-q: I don't think so...
-q: There are many dependencies in a construction project.
+q: Следует ли использовать здесь планирование на основе приоритетов?
+q: Хмм...
+q: Я так не думаю...
+q: В строительном проекте много зависимостей.
 
 
-j-dmc3-8d: Reply
+j-dmc3-8d: Ответить
 
 

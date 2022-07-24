@@ -1,14 +1,14 @@
 
 
 e---
-Hi Eris,
-Sure, I'd be happy to have the intern on my team. Thanks.
+Привет Эрис,
+Конечно, я с радостью приму интерна в мою команду. Спасибо.
 
-Regards,
-Didi
+С уважением,
+Диди
 ---e
 
 
-j-dmc3-5: Send
+j-dmc3-5: Отправить
 
 

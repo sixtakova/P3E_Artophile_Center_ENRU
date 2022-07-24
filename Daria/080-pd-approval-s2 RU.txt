@@ -1,17 +1,16 @@
 
 
 e---
-Hi Didi,
-It's very early in the project and I can't approve it because a lot of things may change. Let's approve it when it's completely fixed.
+Привет, Диди,
+Проект пока находится на ранней стадии и я не могу одобрить его, так как многое может поменяться. Давай одобрим его, когда всё будет полностью установлено.
 
-Regards,
-Anan
+С уважением,
+Анан
 ---e
 
-q: As usual... everyone panics when you ask them to approve something!
+q: Как обычно... Все паникуют, когда ты просишь их что-то одобрить!
 
 
-j-pd-approval-s3a: Accept it as it is.
-j-pd-approval-s3b: Explain why approval is necessary.
-
+j-pd-approval-s3a: Принять все так, как есть.
+j-pd-approval-s3b: Объяснить, почему одобрение необходимо.
 

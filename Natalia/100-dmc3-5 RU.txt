@@ -1,14 +1,14 @@
 
-s: There's someone at the door
-u: Can I come in?
-i: Of course, come in.
-u: Hello, my name is Mirai, the new intern.
-i: Oh, nice to meet you Mirai. I'm Didi.
-i: Take a seat.
+s: У двери офиса кто-то есть.
+u: Я могу войти?
+i: Конечно, проходите.
+u: Здравствуйте, меня зовут Мирай, новый интерн.
+i: Приятно познакомиться, Мирай. Я Диди.
+i: Садитесь, пожалуйста.
 
 
-j-dmc3-5-mirai-2: "Tell me about yourself."
-j-dmc3-5-mirai-2: "So, you're a project management student, aren't you?"
-j-dmc3-5-mirai-2: "How can you help us in this project?"
+j-dmc3-5-mirai-2: "Расскажите мне о себе."
+j-dmc3-5-mirai-2: "Итак, вы изучаете проектное управление?"
+j-dmc3-5-mirai-2: "Чем бы вы могли быть полезны для нашего проекта?"
 
 

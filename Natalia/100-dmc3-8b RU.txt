@@ -1,9 +1,9 @@
 
-q: Is it OK to use either of them?
-q: Hmm...
-q: I'm not sure whether a priority-based schedule would work well; there are many dependencies in a construction project.
+q: Можно ли использовать любой подход?
+q: Хмм...
+q: У меня нет уверенности, что расписание на основе приоритетов будет оптимальным выбором; в строительном проекте множество зависимостей. 
 
 
-j-dmc3-8d: Reply
+j-dmc3-8d: Ответить
 
 

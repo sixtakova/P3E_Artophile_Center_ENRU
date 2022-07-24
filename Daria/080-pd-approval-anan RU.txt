@@ -1,16 +1,16 @@
 
 
 e---
-Hi Anan,
-We've prepared an initial version of the Project Description (see attached). You've already looked at it, but with a focus on the benefits. This time, it would be helpful to check everything and approve it when you're happy. When you approve it, we'll mark activity A04 as complete, and move on to A05.
-Please note that I won't send it to anyone else for approval, and I leave it to you to decide whether there's anyone higher up in the organization who needs to check and confirm the data (e.g., Eris, and the board).
-Looking forward to hearing back from you.
+Привет, Анан,
+Мы подготовили первоначальный вариант резюме проекта (прикреплен к письму). Ты его уже видел, но фокусировался на выгодах. В этот раз желательно проверить всё и одобрить, если тебя всё устраивает. Когда ты одобришь документ, мы отметим активность A04 как завершенную, и перейдем к A05.
+Пожалуйста, обрати внимание, что я не буду отправлять резюме кому-либо еще для одобрения, и я оставляю за тобой право решать, нужно ли кому-то выше по должности проверить и подтвердить данные (например, Эрис и совету директоров).
+С нетерпением жду ответа.
 
-Regards,
-Didi
+С уважением,
+Диди
 ---e
 
 
-j-pd-approval-s2: Send
+j-pd-approval-s2: Отправить
 
 

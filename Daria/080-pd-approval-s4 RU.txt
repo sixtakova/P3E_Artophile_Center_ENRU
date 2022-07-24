@@ -1,17 +1,17 @@
 
 
 e---
-Hi Didi,
-I understand what you're looking for. It's different from what I usually call 'approval'.
-Anyway, the document seems fine to me. I also showed it to Eris and the other board members, and they didn't have any comments either. So, you can consider it approved for now.
+Привет, Диди,
+Я понимаю, что вы имеете в виду. Это отличается от того, что я обычно подразумеваю под 'одобрением'.
+В любом случае, мне кажется документ в порядке. Я также показал его Эрис и другим членам совета директоров, и у них не было комментариев. Так что на данный момент вы можете считать документ одобренным.
 
-Regards,
-Anan
+С уважением,
+Анан
 ---e
 
-q: OK, it sounds better now.
+q: OK, так гораздо лучше.
 
 
-j-pd-approval-s5: Finalize the Project Description.
+j-pd-approval-s5: Завершить резюме проекта.
 
 

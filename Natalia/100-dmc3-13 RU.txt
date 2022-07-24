@@ -1,13 +1,13 @@
 
-u: Yes, Didi.
-u: They gave a rough estimate for the cost of each deliverable in the map.
-u: The total is 935 artopools.
-i: Oh, that's higher than the original expectation.
-u: Yes, I know from the Project Description that the target is 800 artopools, but we've checked multiple times, and the current estimate is realistic.
+u: Да, Диди.
+u: Они подготовили грубую оценку стоимости каждого компонента карты результатов.
+u: В целом получилось 935 артопулов.
+i: Хм, это больше первоначальной оценки.
+u: Ага, я вижу, что целевая стоимость по описанию проекта - 800 артопулов, но мы перепроверили несколько раз, текущая оценка реалистична.
 
 
-j-dmc3-14: "Are there any options for lowering costs?"
-j-dmc3-14: "Is there no possibility at all of reducing costs"
-j-dmc3-14: "There should be a way to reduce costs!"
+j-dmc3-14: "Может быть, есть какие-то варианты сокращения стоимости?"
+j-dmc3-14: "Точно нельзя как-то сократить стоимость"
+j-dmc3-14: "Должен быть способ снизить стоимость!"
 
 

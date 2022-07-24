@@ -1,17 +1,18 @@
 
-s: You've got a new email!
-q: Oh, I've got an email from Eris!
+s: У вас новое письмо!
+q: О, пришло новое письмо от Эрис!
 
 e---
-Hi Didi,
-We have a new group of interns in the company. Each of them is appointed to a department related to their field, but there's one person, Mirai, who's a Master's student in project management, with an emphasis on scheduling, and we don't have a project management department. Would you like to have Mirai on your team?
+Привет Диди,
+В компанию пришла новая группа интернов. Каждый из них закреплён за отделом соответствующей специализации. Но один из них, Мирай, магистрант в проектном управлении со специализацией в планировании, не прикреплён ни к одному отделу, потому что в нашей компании нет отдела управления проектами. Хотели бы вы видеть Мирая частью своей команды?
 
-Regards,
-Eris
+
+С уважением,
+Эрис
 ---e
 
 
-j-dmc3-4-yes: Yes
-j-dmc3-4-no: No
+j-dmc3-4-yes: Да
+j-dmc3-4-no: Нет
 
 

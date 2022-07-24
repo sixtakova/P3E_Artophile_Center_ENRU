@@ -1,21 +1,21 @@
 
-s: You've got a new email.
-q: OK, here's the email I've been waiting for...
+s: У вас новое письмо.
+q: OK, вот письмо, которое я жду...
 
 e---
-Hi Didi,
-I asked Imani to check the Project Description. We had some discussions, but in the end, no changes were deemed necessary from Imani's perspective.
+Привет, Диди,
+Я попросил Имани проверить резюме проекта. У нас было несколько обсуждений, но в итоге, с точки зрения Имани необходимости в изменениях нет.
 
-Regards,
-Azar
+С уважением,
+Азар
 ---e
 
-q: OK, we're getting somewhere.
+q: Ладно, это уже кое-что.
 
 
-j-pd-anan-check: Send the Project Description to Anan to check and approve.
-j-pd-anan-info: Send the finalized Project Description to Anan, just to let them know about the progress.
-j-pd-sasha: Ask Sasha whether Anan has checked the Project Description.
+j-pd-anan-check: Отправить резюме проекта Анану на проверку и утверждение.
+j-pd-anan-info: Отправить доработанное резюме проекта Анану, просто чтобы сообщить о прогрессе.
+j-pd-sasha: Спросить Сашу, проверил ли Анан резюме проекта.
 
 
 #%35

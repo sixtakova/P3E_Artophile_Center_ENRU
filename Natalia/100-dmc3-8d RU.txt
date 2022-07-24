@@ -1,17 +1,17 @@
 
-i: There are many dependencies in a construction project, and those are the main criteria in deciding the order of items.
-i: As a result, we need to use a dependency-based schedule.
-u: Don't all projects have dependencies, Didi?
-i: It's a matter of degree.
-i: In an IT development project, for example, you can form your deliverables in a way that minimizes dependencies.
-i: Then you can develop them in any order you like.
-i: You will decide about a criterion or a set of criteria, and using them, you will prioritize and order those items.
-i: That's the case when you use a priority-based schedule, like those you see on task boards or Kanban boards.
-u: OK, I'll prepare a dependency-based schedule.
-u: Should it be high-level or detailed?
+i: В строительном проекте множество зависимостей между активностями, и эти зависимости - ключевой критерий в определении порядка работ.
+i: Следовательно, нам следует использовать расписание на основе зависимостей.
+u: Диди, но разве не во всех проектах есть зависимости?
+i: Зависит от уровня этих зависимостей.
+i: Например, в IT-проекте разработки можно сформулировать результаты так, чтобы свести зависимости к минимуму.
+i: И тогда можно выполнять эти работы в любом предпочтительном порядке. 
+i: Вы выберете критерий или набор критериев, на основе которых приоритизируете и упорядочите работы.
+i: Это пример ситуации, когда вы используете планирование на основе приоритетов наподобие досок задач или канбан досок.
+u: OK, я подготовлю расписание на основе зависимостей.
+u: Должно оно быть агрегированным или детальным?
 
 
-j-dmc3-9h: High level
-j-dmc3-9d: Detailed
+j-dmc3-9h: Агрегированное
+j-dmc3-9d: Детальное
 
 

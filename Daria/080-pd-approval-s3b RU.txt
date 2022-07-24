@@ -1,16 +1,16 @@
 
 
 e---
-Hi Anan,
-Your approval doesn't mean that this document becomes set in stone. It just gives us confirmation that our current understanding of the project, as described in the Project Description, is aligned with what the organization has in mind.
-We'll use this understanding to proceed with the initiation, and as we proceed, we'll make adjustments to it - in which case, I'll ask you for confirmation again.
-So, all I need from you is to let me know whether the Project Description is good enough for now. Also, please don't forget to check it with the other executives as necessary.
+Привет, Анан,
+Одобрение не означает, что этот документ становится неизмменным. Оно просто подтверждает, что наше текущее понимание проекта, описанное в резюме, соответствует видению организации.
+Мы используем это понимание, чтобы запустить проект, и как только мы его запустим, мы внесем корректировки - в этом случае,я вновь запрошу у вас подтверждение.
+Таким образом, все, что мне необходимо от вас, это дать мне знать, достаточно ли полное резюме проекта на данный момент. Кроме того, пожалуйста, не забудьте проверить резюме с остальными руководителями при необходимости.
 
-Regards,
-Didi
+С уважением,
+Диди
 ---e
 
 
-j-pd-approval-s4: Send
+j-pd-approval-s4: Отправить
 
 

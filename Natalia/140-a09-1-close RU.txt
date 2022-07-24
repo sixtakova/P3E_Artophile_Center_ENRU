@@ -1,11 +1,11 @@
 
-q: Alright, the project is approved, and we seem to be done with project initiation.
-q: Now we can proceed to the first monthly cycle, starting with activity B01.
-q: Oh, wait... there are two more activities left from project initiation!
+q: Отлично, проект согласован, кажется, мы закончили с инициацией проекта.
+q: Теперь можно переходить к первому месячному циклу, начинающемуся с шага B01.
+q: Хотя нет... на этапе инициации осталось ещё два шага!
 q: A09 and A10!
-q: I can't believe I missed them!
+q: Не могу поверить, что чуть не упустила их!
 
 
-j-a09-1-kickoff: Let's plan the kick off meeting.
+j-a09-1-kickoff: Давайте запланируем стартовую встречу проекта.
 
 

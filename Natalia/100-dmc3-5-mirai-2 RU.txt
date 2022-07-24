@@ -1,8 +1,8 @@
 
-u: Well, Didi, I'm a Master's student in project management, specializing in scheduling.
+u: Верно, Диди. Я магистрант проектного управления со специализацией в планировании проектов.
 
 
-j-dmc3-5-mirai-3: Skip 6 minutes of random conversation about life, work, and university.
+j-dmc3-5-mirai-3: Пропустить 6 минут общих разговоров о жизни, работе и университете.
 
 
 #%60

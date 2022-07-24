@@ -1,11 +1,11 @@
 
-q: So, the sponsor should check and approve the Project Description.
-q: Let's ask Anan to do that.
-q: Although...
-q: I just remembered something...
-q: Sasha was supposed to bring a copy of it to Anan to check the benefits, but Sasha never got back to me about it!
+q: Итак, спонсор должен проверить и утвердить резюме проекта.
+q: Попросим Анана сделать это.
+q: Хотя...
+q: Я кое-что вспомнила...
+q: Предполагалось, что Саша отдаст копию Анану для оценки выгод проекта, но Саша так и не вернулась ко мне с ответом по этому поводу!
 
 
-j-pd-sasha: Ask Sasha whether Anan has checked the Project Description.
+j-pd-sasha: Спросить Сашу, проверил ли Анан резюме проекта.
 
 

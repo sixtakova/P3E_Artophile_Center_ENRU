@@ -1,15 +1,15 @@
 
 
 e---
-Hi Sasha, hi Azar,
-The first version of the Project Description is approved. It's attached in the email for you, as our common understanding of the project.
-As we proceed, we may have to update it and seek further approval.
+Привет, Саша, привет, Азар,
+Первая версия резюме проекта одобрена. Она приложена к письму и отражает наше общее понимание проекта.
+По мере продвижения, возможно, нам потребуется обновить резюме и вновь запросить одобрение.
 
-Regards,
-Didi
+С уважением,
+Диди
 ---e
 
 
-j-dm-s1: Start working on the Deliverables Map.
+j-dm-s1: Начать работу над картой результатов.
 
 

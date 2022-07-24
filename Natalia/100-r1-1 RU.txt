@@ -1,18 +1,18 @@
 
-q: OK, we're finally done with A05!
-q: I'm glad Mirai was here to help.
-q: So, a personal summary of the options...
+q: OK, мы наконец-то завершили шаг A05!
+q: Здорово, что Мирай смог помочь.
+q: Итак, личный обзор вариантов...
 
 n---
-**Options:**
-850 artopools in 17 months with normal concrete
-+85 artopools for self-colored concrete
-+170 artopools for finishing in 12 months
+**Варианты:**
+850 артопулов за 17 месяцев и обычный бетон
++85 артопулов за однотонный бетон
++170 артопулов за завершение в течение 12 месяцев
 ---n
 
-q: Although these may change a little before the end of initiation.
+q: Хотя варианты могут немного измениться к концу инициации.
 
 
-j-r1-2: Start working on A06.
+j-r1-2: Начать работать над A06.
 
 

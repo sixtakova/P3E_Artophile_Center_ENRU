@@ -1,9 +1,8 @@
 
-q: OK, now I just need to send it to Eris for approval.
-q: Although... why Eris?!
-q: I should ask the sponsor to approve it.
+q: OK, теперь мне нужно только отправить документ Эрис на одобрение.
+q: Хотя... почему Эрис?!
+q: Нужно попросить спонсора одобрить его.
 
 
-j-pd-approval-anan: Send it to Anan for approval.
-
+j-pd-approval-anan: Отправить документ Анану на одобрение.
 

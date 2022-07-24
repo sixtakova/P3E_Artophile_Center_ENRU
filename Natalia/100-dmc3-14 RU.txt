@@ -1,11 +1,11 @@
 
-u: Actually, Didi, we've already thought about it.
-u: The team believes that the only realistic and effective option for reducing costs is to use normal concrete with a colored finish on top of it, instead of using self-colored concrete.
-u: That could lower the cost to 850 artopools.
-i: OK, fine.
-i: We can present both options to the sponsor at the end of the initiation.
+u: Диди, вообще-то мы уже подумали об этом.
+u: По результатам обсуждения единственная реалистичный и эффективный вариант сокращения стоимости - использовать обычный бетон с цветным покрытием вместо цветного бетона.
+u: Это позволило бы снизить стоимость до 850 артопулов.
+i: OK, хорошо.
+i: Мы можем представить оба варианта спонсору в конце инициации.
 
 
-j-dmc3-15: Ask about the total duration.
+j-dmc3-15: Спросить об общей продолжительности.
 
 

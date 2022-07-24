@@ -1,8 +1,8 @@
 
-i: It should be high-level at this point.
-i: At the beginning of each month, we'll detail the schedule for the upcoming month.
+i: На этом этапе нам нужен обобщённый план.
+i: В начале каждого месяца мы будем детализировать план на этот месяц.
 
 
-j-dmc3-10: "Any other questions?"
-j-dmc3-10: "Is it all clear now?"
+j-dmc3-10: "Другие вопросы?"
+j-dmc3-10: "Сейчас всё понятно?"
 

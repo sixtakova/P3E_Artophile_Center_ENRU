@@ -1,11 +1,11 @@
 
-q: So... a detailed schedule?
-q: Why not... I have a free resource called Mirai, and I can ask for whatever I want ;)
-q: Although, unnecessary detail creates all sorts of overhead.
-q: Do we *need* a detailed plan at this time, or is a high-level plan enough?
-q: Oh, I see... we're in activity A05, at the beginning of the process. The idea is to create a simple, high-level plan for the whole project, and then, at the beginning of each month, in activity B01, we'll detail the plan for the upcoming month.
+q: Итак... детализированный план?
+q: Почему бы и нет... У меня есть Мирвй, незагруженный ресурс, и я могу ставить любые задачи ;)
+q: Хотя избыточные детали только добавляют проблем.
+q: Нам *нужен* сейчас детальный план или обобщённого будет достаточно?
+q: Так, понятно... мы на шаге А05, в начале процесса. Цель шага - создать простой обобщённый план проекта в целом и в дальнейшем, в начале каждого месяца на шаге B01 детализировать план на следующий месяц.
 
 
-j-dmc3-9h: Reply
+j-dmc3-9h: Ответить
 
 

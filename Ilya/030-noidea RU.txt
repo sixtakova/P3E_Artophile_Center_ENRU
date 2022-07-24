@@ -1,13 +1,11 @@
 
-q: Maybe I should ask, "What do *you* want me to do first?"
-q: But... But I'm the project manager, and I'm supposed to lead the project, not ask people what to do.
-q: That doesn't seem like a good choice.
-q: OK, let's think... What's the first thing we need to do in any project?
+q: Возможно мне следует спросить: что ВЫ хотите, чтобы я сделал в первую очередь?
+q: Но...Но я же менеджер проекта и я должен возглавить проект, а не спрашивать, что мне делать.
+q: Не похоже, что это хороший вариант.
+q: OK, давай поразмыслим... с чего мы начинаем любой проект?
 
 
-j-plan: Plan.
-j-pd: Prepare the Project Description.
-j-sponsor: Make sure there's a sponsor.
-j-team: Form the initial team.
-
-
+j-plan: Планирование.
+j-pd: Подготовить Резюме Проекта.
+j-sponsor: Убедиться в наличии спонсора.
+j-team: Сформировать первичную команду.

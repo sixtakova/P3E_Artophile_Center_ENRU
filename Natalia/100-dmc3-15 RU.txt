@@ -1,13 +1,13 @@
 
-i: What's the total duration of the project?
-u: I'm afraid it's 17 months.
-i: Wow!
-i: It seems like the initial expectations were not that realistic.
-u: I think so.
-u: It would be possible to finish it in 12 months, but it would need more equipment and more expensive material.
-u: Their estimate is 170 artopools extra for finishing it in 12 months.
-i: Alright, even more options!
+i: Что с общей продолжительностью проекта?
+u: Боюсь, она равна 17 месяцам.
+i: Вау!
+i: Получается, первоначальные оценки не были реалитичными.
+u: Получается, что так.
+u: Уложиться в 12 месяцев можно, если использовать дополнительное оборудование и более дорогие материалы.
+u: Что в свою очередь приведёт к повышению стоимости на 170 артопулов.
+i: Отлично, у нас появились новые варианты!
 
 
-j-r1-1: End the meeting.
+j-r1-1: Завершить встречу.
 

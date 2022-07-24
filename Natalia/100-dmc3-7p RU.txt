@@ -1,10 +1,10 @@
 
-q: Hmm...
-q: I'm not sure how to answer...
-q: Is it only priority-based schedules?
-q: Although I've just remembered that it's explained in activity A05 that the schedule can be either of them!
+q: Хммм...
+q: У меня нет точного ответа...
+q: Точно ли можно использовать только расписания на основе приоритетов?
+q: Хотя мне только что вспомнилось, что на шаге А05 расписание может строиться на основании любого из этих подходов!
 
 
-j-dmc3-7b: Answer Mirai
+j-dmc3-7b: Ответить Мираю
 
 

@@ -1,13 +1,13 @@
 
-u: Great, Didi, I'd love to do that!
-i: Good.
-i: You can have a workshop with Azar, Monet, and Kim to prepare the schedule.
-u: Sure.
-u: By the way, which type of scheduling should we have in P3.express - a dependency-based schedule with CPM and similar methods, or a priority-based one on a task board or a Kanban board?
+u: Отлично, Диди, Я с радостью займусь этим!
+i: Хорошо.
+i: Вы можете провести рабочую группу по подготовке расписания с Азаром, Монетом и Кимом.
+u: Конечно.
+u: Кстати, какой тип планирования предполагает P3.express - на основании зависимостей, CPM и подобные подходы, или на основании приоритетов с использованием доски задач или канбан-доски?
 
 
-j-dmc3-7d: Dependency based
-j-dmc3-7p: Priority based
-j-dmc3-7b: Both are fine for P3.express
+j-dmc3-7d: На основании зависимостей
+j-dmc3-7p: На основании приоритетов
+j-dmc3-7b: Для P3.express подходят оба варианта
 
 

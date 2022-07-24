@@ -1,11 +1,10 @@
 
-q: That was a lot of work, but I'm happy with the result.
-q: It feels like it's time to get more people involved in the project.
-q: Azar mentioned the electrical and mechanical engineers. I guess it would be a good idea to have a team member from each of those departments!
+q: Много работы проделано, но результат того стоит.
+q: Кажется, пришло время подключить к проекту новых участников.
+q: Азар упоминал инженера-электрика и инженера-механика. Полагаю, стоит подключить к проекту по одному участнику от этих отделов!
 
-
-j-dmc2-direct: Contact the head of the electrical and mechanical departments and ask for resources.
-j-dmc2-anan: Contact Anan and ask for mechanical and electrical engineers.
+j-dmc2-direct: Связаться с руководителями отделов электрики и механики и запросить ресурсы.
+j-dmc2-anan: Связаться с Ананом и попросить подключить инженера-электрика и инженера-механика.
 
 
 #%50

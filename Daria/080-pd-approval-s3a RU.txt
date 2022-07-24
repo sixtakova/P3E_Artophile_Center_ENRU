@@ -1,11 +1,11 @@
 
-q: If there were any problems in the Project Description, Anan would have pointed them out.
-q: So, since Anan hasn't said anything, I can consider it done for now.
-q: On the other hand, maybe Anan didn't pay attention to every aspect of it, and maybe Anan didn't check it with the other executives.
-q: I really don't want to risk proceeding with the next step, only to realize that what we have in the Project Description is not aligned with what some executives have in mind.
-q: I think I really need the approval!
+q: Если в резюме проекта были бы какие-то проблемы, Анан их отметил бы.
+q: Так как Анан ни о чем не сообщил, можно считать резюме завершенным.
+q: С другой стороны, возможно Анан не обратил внимания на все аспекты и не проверил их с руководством.
+q: На самом деле я не хочу рисковать и переходить к следующему шагу, чтобы затем осознать, что составленное нами резюме проекта не совпадает с представлениями руководства.
+q: Я думаю мы действительно должны получить одобрение проекта!
 
 
-j-pd-approval-s3b: Explain why approval is necessary.
+j-pd-approval-s3b: Объяснить, почему одобрение необходимо.
 
 

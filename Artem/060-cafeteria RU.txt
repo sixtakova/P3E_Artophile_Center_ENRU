@@ -1,12 +1,12 @@
 
-i: Hi Sasha, how are you?
-u: I'm fine, Didi, thanks.
-q: Sasha seems like a nice person.
+i: Привет Саша, как дела?
+u: Я в порядке, Диди, спасибо.
+q: Саша выглядит хорошим человеком.
 
 
-j-bl-small-talk: Start with small talk.
-j-bl-benefits: Discuss the benefits of the project.
-j-bl-pd: Discuss the Project Description.
+j-bl-small-talk: Начать с легкой беседы.
+j-bl-benefits: Обсудить выгоды проекта.
+j-bl-pd: Обсудить Резюме проекта.
 
 
 #%25

@@ -1,15 +1,15 @@
 
 
 e---
-Hi Sasha,
-Nice to meet you, and welcome aboard!
-When are you available to meet, so we can get to know each other and talk about the project?
+Привет Саша,
+Рад познакомиться и добро пожаловать на борт!
+Когда мы могли бы встретиться, чтобы познакомиться получше и поговорить о проекте?
 
-Regards,
-Didi
+С уважением,
+Диди
 ---e
 
 
-j-bl-send: Send
+j-bl-send: Отправить
 
 

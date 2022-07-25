@@ -1,8 +1,8 @@
 
-q: Based on my investigations, Sasha is not the most experienced member of the sales and marketing department, but he's certainly one of the brightest, with a great future.
-s: It's time to meet Sasha.
+q: Судя по моим исследованиям, Саша не самый опытный сотрудник отдела продаж и маркетинга, но она определенно одна из самых ярких, с большим будущим.
+s: Время встречаться с Сашей.
 
 
-j-cafeteria: Go to the cafeteria.
+j-cafeteria: Пойти в кафетерий.
 
 

@@ -1,10 +1,10 @@
 
-s: 5 minutes later
-q: OK, enough of the small talk.
-q: It wasn't productive, at least directly, but I think it helped us get to know each other a little more, and it will probably make our future conversations easier.
+s: 5 минут спустя
+q: Ладно, достаточно легкой беседы.
+q: Это не было продуктивно, по крайней мере напрямую, но, полагаю, это позволило нам узнать друг друга получше и, возможно, сделает наши будущие разговоры полегче.
 
 
-j-bl-benefits: Discuss the benefits of the project.
-j-bl-pd: Discuss the Project Description.
+j-bl-benefits: Обсудить выгоды проекта.
+j-bl-pd: Обсудить Резюме проекта.
 
 

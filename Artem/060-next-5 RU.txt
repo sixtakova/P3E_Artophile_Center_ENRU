@@ -1,17 +1,17 @@
 
 
 e---
-Hi Didi,
-I'd like you to meet Sasha. Sasha is a great sales and marketing expert who can help you in the project.
-Hi Sasha,
-I'd like you to meet Didi, the project manager of the Artophile Center project.
+Привет Диди,
+Я хочу познакомить тебя с Сашей. Саша отличный специалист по продажам и маркетингу и сможет помочь тебе в проекте.
+Привет Саша,
+Я хочу познакомить тебяс Диди, менеджером проекта Артофил Центра.
 
-Regards,
-Anan
+С уважением,
+Анан
 ---e
 
 
-j-bl-email: Send Sasha an email.
-j-bl-call: Call Sasha.
+j-bl-email: Отправить Саше письмо.
+j-bl-call: Позвонить Саше.
 
 

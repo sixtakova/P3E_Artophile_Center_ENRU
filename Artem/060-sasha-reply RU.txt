@@ -1,13 +1,13 @@
 
 e---
-See you in 30 minutes in the cafeteria.
+Увидимся через 30 минут в кафетерии.
 ---e
 
-q: OK, I have 30 minutes before meeting Sasha...
-q: It may be helpful to know a little about Sasha.
+q: OK, у меня есть полчаса перед встречей с Сашей...
+q: Возможно будет полезно узнать немного больше о Саше.
 
 
-j-check-Sasha: Check Sasha's LinkedIn profile.
-j-check-Sasha: Call colleagues to ask about Sasha.
+j-check-Sasha: Проверить профиль Саши в LinkedIn.
+j-check-Sasha: Позвонить коллегам и спросить о Саше.
 
 

@@ -1,16 +1,16 @@
 
 
 e---
-Hi Didi,
-I talked to Anan about the benefits. He's generally fine with them, and the only correction is to change their weights from (6,2,1,1) to (5,3,1,1).
+Привет, Диди,
+Я поговорила с Ананом о выгодах. В целом, он доволен ими, единственное, что нужно исправить - это поменять приоритетность с (6,2,1,1) на (5,3,1,1).
 
-Regards,
-Sasha
+С уважением,
+Саша.
 ---e
 
-q: OK, it seems like we're almost done with this step.
+q: OK, похоже мы практически закончили с этим шагом.
 
 
-j-pd-sasha-n3: Update the project description.
+j-pd-sasha-n3: Обновить резюме проекта.
 
 

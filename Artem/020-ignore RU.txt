@@ -1,10 +1,10 @@
 
-q: OK, that's another email done... four more to go.
-s: Someone is knocking at the door.
-q: Is that Eris knocking on my door?!
+q: Итак, еще одно письмо готово... осталось еще четыре.
+s: Кто-то стучится в дверь.
+q: Это Эрис стучит в мою дверь?!
 
 
-j-your-office-a1: "Yes?"
-j-your-office-a1: "Come in."
+j-your-office-a1: "Да?"
+j-your-office-a1: "Войдите."
 
 

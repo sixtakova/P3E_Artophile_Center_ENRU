@@ -1,10 +1,10 @@
 
-q: So, next up is A07... peer-review!
-q: I already know who I want to ask for the peer review: Tiam.
-q: Tiam is the best project manager in Artophile - someone I always wanted to learn more from.
+q: Итак, следующий шаг A07... ревью!
+q: Я уже знаю, кого хочу попросить о ревью: Тиам.
+q: Тиам лучший менеджер проектов в Артофиле - он тот, у кого я всегда хотела учиться большему.
 
 
-j-a07-2-call: Call Tiam.
-j-a07-2-email: Send an email to Tiam.
+j-a07-2-call: Позвонить Тиаму.
+j-a07-2-email: Отправить письмо Тиаму.
 
 

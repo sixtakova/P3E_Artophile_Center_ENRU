@@ -1,13 +1,13 @@
 
-u: OK then...
-u: I won't take up any more of your time.
-u: Good luck with the rest of your emails.
-q: Eris doesn't seem happy.
-q: Oh, Eris is leaving the room...
-q: Should I say something?
-q: Too late. Eris has gone.
+u: Что ж, ладно...
+u: Я не буду больше отнимать у вас время.
+u: Удачи с остальными вашими письмами.
+q: Эрис не выглядит счастливой.
+q: О, Эрис покидает комнату...
+q: Должен ли я что-то сказать?
+q: Слишком поздно. Эрис ушла.
 
 
-j-routine1: Never mind, let's get back to the emails.
+j-routine1: Ничего, давайте вернемся к письмам.
 
 

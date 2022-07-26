@@ -1,14 +1,14 @@
 
-u: When the board started thinking about this project, Imani asked me to check the usual capacity required for events in Artopolis.
-u: Based on my research, most of them have less than 400 attendees.
+u: Когда совет директоров начал думать об этом проекте, Имани попросил меня проверить обычную вместимость, необходимую для проведения мероприятий в Артополисе. 
+u: На основе моего исследования, в большинстве из них менее 400 посетителей. 
 i: OK...
-u: However, the reason there are no larger events may be that there aren't many venues that can support them.
-i: Aha!
-u: So, Eris suggested we have a capacity of 600 to give us an advantage.
-i: That makes sense.
+u: Однако, причиной отсутствия крупных мероприятий может заключаться в том, что не так много площадок могут поддержать их.
+i: Ага!
+u: Что ж, Эрис предложила иметь вместимость 600, чтобы дать нам преимущество.
+i: В этом есть смысл.
 
 
-j-jm-requirements2: "Anything else?"
-j-jm-requirements2: "Any other requirements?"
+j-jm-requirements2: "Что-нибудь еще?"
+j-jm-requirements2: "Какие-либо другие требования?"
 
 

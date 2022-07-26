@@ -1,12 +1,12 @@
 
-s: On the phone
-u: It's important, Didi.
-u: Please come here now.
-s: Eris hangs up.
-q: I don't like it when people unilaterally decide to end a phone conversation!
+s: На телефоне
+u: Это важно, Диди.
+u: Пожалуйста, подойди прямо сейчас.
+s: Эрис вешает трубку.
+q: Как же мне не нравится, когда люди заканчивают телефонный разговор в одностороннем порядке!
 
 
-j-eris-office: Go to Eris's office.
-j-ignore: Ignore Eris and keep working on the emails.
+j-eris-office: Пойти в офис Эрис.
+j-ignore: Игнорировать Эрис и продолжать работать с письмами.
 
 

@@ -1,21 +1,21 @@
 
-q: So, A06 is about identifying and responding to risks.
-q: I already had one risk identified when I first talked to Anan.
-q: Let me write it down in the standard way...
+q: Итак, на этапе A06 нужно определить риски и запланировать меры реагирования.
+q: Я уже определила один риск, когда в первый раз говорила с Ананом.
+q: Попробую записать это стандартным способом...
 
 f---
-**Cause:**      This project doesn't have an external customer.
-**Effect:**     Internal departments may give priority to projects with external customers (to keep the customers satisfied), and as a result, ignore this project.
-**Impact:**     The project may be finished a lot later than expected and be of low quality.
-**Response:**   ?
-**Custodian:**  ?
-**Status:**     open
+**Причина:**      Этот проект не имеет внешнего заказчика.
+**Следствие:**     Внутренние отделы могут отдавать приоритет проектам, у которых есть внешний заказчик (чтобы заказчики остались довольны), и как результат, игнорировать этот проект.
+**Влияние:**     Проект может быть завершен намного позже, чем ожидалось и быть низкого качества.
+**Меры реагирования:**   ?
+**Ответственный:**  ?
+**Статус:**     открыт
 ---f
 
-q: So, what else do we have?
+q: Итак, что еще у нас есть?
 
 
-j-r1-3-call: Contact every stakeholder and ask them whether they can think of any risks.
-j-r1-3-workshop: Arrange for a few workshops with different groups of stakeholders to identify the risks.
+j-r1-3-call: Связаться с каждым стейкхолдером и спросить, какие еще риски они видят.
+j-r1-3-workshop: Организовать несколько воркшопов с разными группами стейкхолдеров, чтобы определить риски.
 
 

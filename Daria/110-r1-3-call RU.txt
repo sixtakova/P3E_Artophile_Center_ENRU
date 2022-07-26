@@ -1,11 +1,11 @@
 
-s: An hour later
-q: OK, I give up!
-q: This way of identifying risks is not effective.
-q: People can't come up with risks so easily.
-q: I need to facilitate it... Maybe if they hear about a few risks they'll warm up and identify more!
+s: Час спустя
+q: OK, я сдаюсь!
+q: Этот способ определения рисков не эффективен.
+q: Люди не смогут так просто придумать риски.
+q: Мне нужно облегчить задачу... Может, если они узнают о некоторых рисках, они вдохновятся и смогут определить еще больше!
 
 
-j-r1-3-workshop: Use workshops instead
+j-r1-3-workshop: Использовать воркшопы.
 
 

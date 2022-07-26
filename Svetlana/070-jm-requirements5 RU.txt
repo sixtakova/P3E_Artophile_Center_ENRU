@@ -31,13 +31,13 @@ d---
 * Азар: член команды, сотрудник проектного отдела
 ---d
 
-i: So, we have 9 major requirements and quality expectations.
-i: Is that all?
-u: Yes.
+i: Что ж, у нас есть 9 основных требований и ожиданий по качеству.
+i: На этом все?
+u: Да.
 
 
-j-jm-checkpd: Give a copy of the document to Azar to check it with Imani.
-j-jm-nopdcheck-endmeeting: End the meeting.
-j-jm-prepdm: Start preparing the Deliverables Map.
+j-jm-checkpd: Дать копию документа Азару для проверки с Имани.
+j-jm-nopdcheck-endmeeting: Закончить встречу.
+j-jm-prepdm: Начать подготовку Карты результатов. 
 
 

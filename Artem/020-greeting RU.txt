@@ -1,12 +1,12 @@
 
-s: On the phone
-u: I'm fine, thanks.
-u: Didi, can you come here for a moment?
-u: I need to talk to you.
-q: Oh... that doesn't sound good.
+s: На телефоне
+u: Я в порядке, спасибо.
+u: Диди, можете подойти ко мне на минуту?
+u: Мне необходимо поговорить с вами.
+q: О... Это звучит не очень хорошо.
 
 
-j-eris-office: "Sure, I'm on my way."
-j-later: "Can we meet later? I have to answer a few emails."
+j-eris-office: "Конечно, уже выхожу."
+j-later: "Можем мы встретиться позже? Мне надо ответить на несколько писем."
 
 

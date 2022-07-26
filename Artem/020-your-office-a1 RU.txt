@@ -1,11 +1,11 @@
 
-u: Didi, we seem to have different interpretations of what 'now' means!
-q: Is Eris angry?
-q: No, no... I think I see a smile.
+u: Диди, кажется у нас разные интерпретации того, что означает слово "сейчас"!
+q: Эрис злится?
+q: Нет, нет... Кажется, я вижу улыбку.
 
 
-j-your-office-c2: "Sorry!"
-j-your-office-c2: "I was too busy with my emails."
-j-your-office-c2: "I was just about to come and see you."
+j-your-office-c2: "Извините!"
+j-your-office-c2: "Я был слишком занят своими письмами."
+j-your-office-c2: "Я как раз собирался пойти к вам."
 
 

@@ -1,8 +1,8 @@
 
-u: Aren't you interested in knowing more about the project first?
+u: Разве вам не интересно сначала узнать побольше о проекте?
 
 
-j-justification: "Yes, of course; for example, what's the business justification?"
-j-no-interest: "Not really -- a project is a project."
+j-justification: "Да, конечно; например, что является коммерческим обоснованием?"
+j-no-interest: "Не совсем -- проект есть проект."
 
 

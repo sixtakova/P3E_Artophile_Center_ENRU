@@ -1,15 +1,15 @@
 
-q: OK, that's another email done. Four more to go.
-s: Someone is knocking at the door.
-q: Is that Eris?
-q: It was probably Eris calling me before!
-q: It's not good not to answer the CEO.
-q: But, even more importantly, what's going on?
-q: What does Eris want?
+q: Итак, еще одно письмо готово... осталось еще четыре.
+s: Кто-то стучится в дверь.
+q: Эрис стучится в мою дверь?!
+q: Вероятно это Эрис звонила мне ранее!
+q: Это нехорошо не отвечать на звонки CEO.
+q: Но, что еще более важно, что происходит?
+q: Чего хочет Эрис?
 
 
-j-your-office-b2: "Yes?"
-j-your-office-b2: "Come in."
+j-your-office-b2: "Да?"
+j-your-office-b2: "Войдите."
 
 
 

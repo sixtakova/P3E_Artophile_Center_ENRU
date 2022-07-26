@@ -1,14 +1,14 @@
 
 
 e---
-Hi Sasha,
-Could you check the benefits we documented in the Project Description with Anan?
+привет, Саша,
+Не могли бы вы проверить выгоды, которые я и Анан зафиксировали в резюме проекта?
 
-Regards,
-Didi
+С уважением,
+Диди
 ---e
 
 
-j-pd-sasha-next: Send
+j-pd-sasha-next: Отправить
 
 

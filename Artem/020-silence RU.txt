@@ -1,11 +1,11 @@
 
-s: On the phone
-u: I need to talk to you, Didi.
-u: Can you come here for a minute?
-q: OK... That was short... and direct.
+s: На телефоне
+u: Мне нужно поговорить с вами, Диди.
+u: Могли бы вы подойти ко мне на минуту?
+q: OK... Это было коротко... и директивно.
 
 
-j-eris-office: "Sure, I'm on my way."
-j-later: "Can we meet later? I have to answer a few emails."
+j-eris-office: "Конечно, уже выхожу."
+j-later: "Мы можем встретиться позже? Мне надо ответить на несколько писем."
 
 

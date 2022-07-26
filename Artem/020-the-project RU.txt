@@ -1,9 +1,9 @@
 
-u: It's about demolishing the old warehouse beside our offices and building a convention center in its place.
+u: Речь идет о сносе старого склада рядом с нашими офисами и строительстве конференц-центра на его месте.
 
 
-j-in1: "What would my role be in it?"
-j-justification: "What's the business justification?"
+j-in1: "Какова моя роль в этом?"
+j-justification: "Какое здесь коммерческое обоснование?"
 
 
 #%5

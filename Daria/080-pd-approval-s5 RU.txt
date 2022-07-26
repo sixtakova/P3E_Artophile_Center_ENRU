@@ -1,39 +1,39 @@
 
-q: So, I mark this as version 1 and keep it safe.
-q: The next time I want to update it, I'll save it as a new file with a new version number.
+q: Так, я помечу это как версию 1 и сохраню.
+q: В следующий раз, когда мне потребуется что-то обновить или добавить, я сохраню это как новый файл с новым номером версии.
 
 d---
-**Project Description V1**
-Artophile Center
+**Резюме проекта V1**
+Артофил центр
 
-**Purpose and expected benefits:**
-░░░░░█████ Promoting the company
-░░░░░░░███ Helping the community
-░░░░░░░░░█ Earning money (directly)
-░░░░░░░░░█ Having a convenient place for our own events
+**Цель и ожидаемые выгоды:**
+░░░░░█████ Продвижение компании
+░░░░░░░███ Помощь сообществу
+░░░░░░░░░█ Зарабатывание денег (напрямую)
+░░░░░░░░░█ Наличие подходящего места для наших собственных мероприятий
 
-**Expected cost and duration:**
-* 12 months
-* 800 artopools (+200 artopools as management reserve)
+**Ожидаемые стоимость и срок реализации:**
+* 12 месяцев
+* 800 артопулов (+200 артопулов в качестве управленческого резерва на риски)
 
-**Requirements and quality expectations:**
-* Have capacity for 600 attendees.
-* Have an exceptional exterior that will turn it into a landmark building.
-* Be suitable for both business and artistic/cultural events.
-* Have a simple interior that can be adapted for various events.
-* (more...)
+**Требования и ожидания по качеству:**
+* Вмещает 600 посетителей.
+* Имеет исключительный внешний вид, который превратит его в знаковое здание.
+* Подходит как для бизнеса, так и для художественных/культурных мероприятий.
+* Имеет простой интерьер, который может быть адаптирован под различные мероприятия.
+* (еще...)
 
-**Stakeholders:**
-* Eris: CEO
-* Anan: project sponsor, director of the sales and marketing department
-* Didi: project manager
-* Imani: director of the design department
-* Sasha: team member, sales and marketing department staff
-* Azar: team member, design department staff
+**Стейкхолдеры:**
+* Эрис: СЕО
+* Анан: спонсор проекта, директор отдела продаж и маркетинга
+* Диди: менеджер проекта
+* Имани: директор проектного отдела
+* Саша: член команды, сотрудник отдела продаж и маркетинга
+* Azar: член команды, сотрудник проектного отдела
 ---d
 
 
-j-pd-approval-s6: Send a copy of the approved Project Description to Sasha and Azar.
-j-dm-s1: Start working on the Deliverables Map.
+j-pd-approval-s6: Отправить копию одобренного резюме проекта Саше и Азару.
+j-dm-s1: Начать работу над картой результатов.
 
 

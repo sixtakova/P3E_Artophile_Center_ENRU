@@ -1,13 +1,13 @@
 
-q: OK, let's have a few workshops on identifying risks!
-q: I need to facilitate them really well; for example, I mustn't let a few people dominate the meeting without letting others contribute.
-q: That's not easy, especially if we have executives in the workshop!
-q: So, one thing I can do is to separate executives and other managers from engineers.
-q: Two different workshops?
-q: It will help a lot with facilitation, but on the other hand, it reduces diversity.
+q: OK, давайте проведем несколько воркшопов по определению рисков!
+q: Нужно провести их максимально эффективно; например, я не должна давать некоторым людям доминировать на встрече, не позволяя остальным вносить свой вклад.
+q: Это нелегко, особенно если в воркшопе примет участие руководство!
+q: Итак, что я могу сделать, это отделить руководство и других менеджеров от инженеров.
+q: Два разных воркшопа?
+q: Это может сильно облегчить проведение, но с другой стороны, это уменьшает разнообразие.
 
 
-j-r1-4: Have one workshop for all.
-j-r1-4: Have two separate workshops.
+j-r1-4: Провести один воркшоп для всех.
+j-r1-4: Провести два отдельных воркшопа.
 
 

@@ -1,10 +1,10 @@
 
-u: Never mind.
-u: I want to talk to you about a new, important project we're about to launch.
+u: Неважно.
+u: Я хочу поговорить с тобой о новом важном проекте, который мы собираемся запустить.
 
 
-j-the-project: "Sounds interesting. What is it?"
-j-the-project: "I'm listening!"
-j-the-project: Say nothing and wait for Eris to continue.
+j-the-project: "Звучит интересно. Что это??"
+j-the-project: "Я слушаю!"
+j-the-project: Промолчать и подождать пока Эрис продолжит.
 
 

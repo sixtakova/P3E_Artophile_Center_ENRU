@@ -1,11 +1,11 @@
 
-u: Didi, do you always ignore the phone to force people to come to your office instead?
-q: Is Eris angry?
-q: No... I see a smile.
+u: Диди, вы всегда игнорируете телефон, чтобы заставить людей прийти к себе в офис?
+q: Эрис злится?
+q: Нет... Я вижу улыбку.
 
 
-j-your-office-c2: "I'm sorry!"
-j-your-office-c2: "Oh, I was focused on finishing something."
-j-your-office-c2: Say nothing and wait for Eris to continue.
+j-your-office-c2: "Извините!"
+j-your-office-c2: "О, я сосредоточился на окончании дел на сегодня."
+j-your-office-c2: Промолчать и подождать пока Эрис продолжит.
 
 

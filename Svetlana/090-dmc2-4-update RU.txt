@@ -1,5 +1,5 @@
 
-q: OK, давайте я добавлю новые именя в Резюме проекта.
+q: OK, давайте я добавлю новые имена в Резюме проекта.
 q: О, Мне также нужно обновить номер версии.
 
 d---
@@ -12,31 +12,31 @@ d---
 ░░░░░░░░░█ Зарабатывание денег (напрямую)
 ░░░░░░░░░█ Наличие удобного места для наших собственных мероприятий
 
-**Ожидаемые затраты и продолжительность:**
+**Ожидаемые стоимость и срок реализации:**
 * 12 месяцев
-* 800 артобаксов (+200 артобаксов в качестве менеджерского резерва)
+* 800 артопулов (+200 артопулов в качестве управленческого резерва на риски)
 
-**Требования и ожидания по параметрам качества:**
-* Have capacity for 600 attendees.
-* Have an exceptional exterior that will turn it into a landmark building.
-* Be suitable for both business and artistic/cultural events.
-* Have a simple interior that can be adapted for various events.
-* (more...)
+**Требования и ожидания по качеству:**
+* Вмещает 600 посетителей.
+* Имеет исключительный внешний вид, который превратит его в знаковое здание.
+* Подходит как для бизнеса, так и для художественных/культурных мероприятий.
+* Имеет простой интерьер, который может быть адаптирован под различные мероприятия.
+* (еще...)
 
 **Стейкхолдеры:**
-* Эрис: Генеральный директор
+* Эрис: CEO
 * Анан: спонсор проекта, директор отдела продаж и маркетинга
 * Диди: менеджер проекта
 * Имани: директор проектного отдела
-* Саша: участник команды, сотрудник отдела продаж и маркетинга
-* Azar: team member, design department staff
-* Eka: director of the mechanical engineering department
-* Darci: director of the electrical engineering department
-* Kim: team member, mechanical engineer
-* Monet: team member, electrical engineer
+* Саша: член команды, сотрудник отдела продаж и маркетинга
+* Азар: член команды, сотрудник проектного отдела
+* Эка: director of the mechanical engineering department
+* Дарси: director of the electrical engineering department
+* Ким: team member, mechanical engineer
+* Монет: team member, electrical engineer
 ---d
 
 
-j-dmc2-5-contact: Contact Kim and Monet.
+j-dmc2-5-contact: Связаться с Ким и Монет.
 
 

@@ -1,11 +1,11 @@
 
-q: OK, I've prepared a blank Health Register and given access to Tiam to fill in the result of the peer-review.
-q: What Tiam told me about the project options concerns me.
-q: Tiam is right... What if they didn't spend enough time identifying the options?
-q: These are essential data for the project.
+q: OK, Я подготовила незаполненный реестр "Здоровье проекта" и дала доступ Тиаму для заполнения реестра по результатам ревью.
+q: То, что сказал Тиам о возможностях проекта, беспокоит меня.
+q: Тиам прав... Что, если они потратили недостаточно времени для определения возможностей проекта?
+q: Это важные данные для проекта.
 
 
-j-a07-11y: Revise the options.
-j-a07-11n: Keep the options as they are.
+j-a07-11y: Пересмотреть возможности.
+j-a07-11n: Оставить все как есть.
 
 

@@ -1,11 +1,11 @@
 
-u: So, you remember what I told you about having a simple interior?
-i: Yes.
-u: OK, it may be the opposite for the exterior.
-u: We want to have an exceptional design for the exterior, so special that, hopefully, it will become a landmark in Artopolis.
-u: After all, we are an architectural firm!
+u: Итак, вы помните, что я говорил вам о простом интерьере?
+i: Да.
+u: OK, снаружи он может быть противоположным.
+u: Мы хотим, чтобы для внешнего вида был исключительный дизайн, настолько особенный, что, надеюсь он станет достопримечательностью Артополиса.
+u: В конце концов, мы - архитектурная компания!
 
 
-j-jm-requirements5: Skip another hour of conversation!
+j-jm-requirements5: Пропустить следующий час разговора!
 
 

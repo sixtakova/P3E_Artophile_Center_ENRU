@@ -1,11 +1,11 @@
 
-q: Alright, here's a quick reply to Anan... Thanks, really.
-q: I'm glad Anan is so supportive of the project.
-q: I've tried negotiating with Imani before and couldn't get anywhere.
-q: I think Anan has made an offer Imani couldn't refuse ;)
+q: Хорошо, вот краткий ответ Анану... Спасибо, правда.
+q: Я рад, что Анан так поддерживает проект.
+q: Я раньше пытался вести переговоры с Имани, но ничего не добился.
+q: Я думаю Анан сделал предложение, от которого Имани не смогла отказаться ;)
 
 
-j-jm-call-Azar: Call Azar.
-j-jm-email-Azar: Send an email to Azar.
+j-jm-call-Azar: Позвонить Азару.
+j-jm-email-Azar: Отправить письмо Азару.
 
 

@@ -1,12 +1,12 @@
 
 u: Также мы обсудили интерьер центра.
-u: Первоначальная идея была сделать необычный декор, но потом мы решили оставить его простым насколько это возможно, потому что некоторые мероприятия  The initial idea was to have fancy decor, but then we decided to keep it as simple as possible because some of the events need to create their own atmosphere, which is only possible when the interior is simple.
-i: It probably helps keep the costs lower as well.
-u: Yes, yes... of course.
-u: Also, a simple interior is safe; anything fancy may go out of fashion after a few years.
+u: Первоначальная идея была создать необычный декор, но потом мы решили оставить его как можно более простым, потому что некоторые мероприятия должны создавать собственную атмосферу, что возможно только с простым интерьером.
+i: Вероятно, это также помогает снизить затраты.
+u: Да, да... конечно.
+u: Также, простой интерьер надежен; все необычное может выйти из моды через несколько лет.
 
 
-j-jm-requirements3: "Good. What else?"
-j-jm-requirements3: "Is there more?"
+j-jm-requirements3: "Хорошо. Что еще?"
+j-jm-requirements3: "Есть ли что-то еще?"
 
 

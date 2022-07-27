@@ -1,16 +1,16 @@
 
 
 e---
-Hi Anan,
-I'm afraid that's not a great setup for us. When we don't have architects appointed to the project, but only assign tasks to them, they won't have a full sense of the project, which increases our risks, including the basic risk you mentioned in our first meeting.
-I'm hoping to have one architect appointed to this project for now. Can you help with that?
+Привет, Анан,
+Боюсь, что это не лучшая установка для нас. Когда мы не назначаем архитекторов за проектом, а только назначаем им задачи, у них не будет полного представления о проекте, что увеличивает наши риски, в том числе основной риск, который вы упоминали на нашей первой встрече.
+Я надеюсь, что сейчас архитектор будет назначен за проектом. Сможете помочь с этим? 
 
-Regards,
-Didi
+С уважением,
+Диди
 ---e
 
 
-j-send5: Send
-j-send5: Obsessively read the email ten more times and make minor adjustments, and then send it.
+j-send5: Отправить
+j-send5: Навязчиво прочитать письмо еще десять раз и сделать мелкие изменения, после чего отправить его.
 
 

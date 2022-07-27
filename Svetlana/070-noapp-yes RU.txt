@@ -1,11 +1,11 @@
 
-q: OK, I should probably say that it's fine.
-q: Although Imani doesn't want to appoint someone to the project, but rather to provide us with a pool of human resources who are randomly assigned to project tasks without having a sense of the project.
-q: That's not great.
-q: Who said I should say 'yes'?!
-q: I'm the project manager, and I should have a say in this!
+q: OK, вероятно, мне следует сказать, что это подходит.
+q: Хотя, Имани не хочет назначать кого-то за проектом, а предпочитает предоставить нам пул человеческих ресурcов, которые случайным образом распределяются по задачам проекта, не имея представления о проекте. 
+q: Это не очень хорошо.
+q: Кто сказал, что я должна сказать "да"?! 
+q: Я - менеджер проекта, и у меня должно быть право голоса в этом деле!
 
 
-j-noapp-no: Reply
+j-noapp-no: Ответить
 
 

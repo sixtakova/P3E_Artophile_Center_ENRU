@@ -1,19 +1,19 @@
 
 
 e---
-Hi Didi,
-I understand your point. Let me see what I can do.
+Привет, Диди,
+Я понимаю вашу точку зрения. Посмотрю, что я могу сделать. 
 
-Regards,
-Anan
+С уважением,
+Анан
 ---e
 
-q: OK, it's almost the end of the day.
+q: OK, уже почти конец рабочего дня. 
 
 
-j-d1end: Go home.
-j-d1end: Go to a café.
-j-d1end: Go to the cinema.
-j-d1end: Go to meet a friend and share the excitement.
+j-d1end: Пойти домой.
+j-d1end: Пойти в кафе.
+j-d1end: Пойти в кино.
+j-d1end: Пойти на встречу с другом и поделиться волнением.
 
 

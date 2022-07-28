@@ -1,13 +1,13 @@
 
-i: Yes, it's right.
-i: Well, I'd prefer to say it's not wrong.
-u: Do you mean that it's not wrong, but it's still not good enough?
-i: Correct.
-i: It's not straightforward.
-u: What should we do about it?
+i: Да, это правильно.
+i: Ну, предпочту сказать, что это не плохо.
+u: Имеете в виду, что это не плохо, но все еще и недостаточно хорошо? 
+i: Верно.
+i: Это не так просто.
+u: Что нам с этим сделать?
 
 
-j-dmc-16-separate-divide: Add two root elements under 'the building' and divide the items between them.
-j-dmc-16-separate-break: Break up the earthwork and foundation items and move them into other areas.
+j-dmc-16-separate-divide: Добавить два корневых элемента в раздел 'здание' и разделить элементы между ними. 
+j-dmc-16-separate-break: Разделить земляные работы и фундаменты и перенести их в другие участки. 
 
 

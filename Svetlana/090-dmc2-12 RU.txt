@@ -1,57 +1,57 @@
 
-i: OK, Monet, I've added them as well.
-i: I'll ask Kim about them as well.
+i: OK, Монет, я их тоже добавила.
+i: Тоже спрошу о них Ким.
 
 t---
 start-textree
-= Artophile Center
-== Site mobilization
-== Demolition of the warehouse
-== The building
-=== Main hall
-==== Floor …
-==== Walls …
-==== Ceiling
-==== Lighting
-==== Computer network
-==== Music/PA system
-==== Air conditioning
-==== Fire protection
-==== Furniture and equipment
-=== Information room
-=== Storage room
-=== Conference room #3
+= Артофил центр
+== Подготовка строительной площадки
+== Снос склада
+== Здание
+=== Главный холл
+==== Пол …
+==== Стены …
+==== Перекрытие
+==== Освещение
+==== Компьютерная сеть
+==== Музыкальная/акустическая система
+==== Кондиционер
+==== Противопожарная защита
+==== Мебель и оборудование
+=== Справочная
+=== Кладовка
+=== Конференц-зал #3
 === WC #2
-=== Utility room
-=== IT room
-=== Conference room #2
-=== Administration room
-=== Conference room #1
+=== Подсобное помещение
+=== Серверная
+=== Конференц-зал #2
+=== Комната администрации
+=== Конференц-зал #1
 === WC #1
-=== Meeting room #1
-=== Meeting room #2
-=== Security room
-== Surroundings
-=== Parking lot
-=== Driveways and walkways
-=== Gardens
+=== Переговорная #1
+=== Переговорная #2
+=== Комната охраны
+== Прилегающая территория
+=== Парковка
+=== Проезды и тротуары
+=== Скверы
 end-textree
 ---t
 
-u: Didi, I see here that you have items for 'floor', 'walls', and 'ceiling', and then separate items for lighting and so on.
-u: Most of those other things are on the walls, ceiling, or floor anyway.
-u: Usually on more than one of those three.
-u: Shouldn't they go under the 'floor', 'walls', and 'ceiling' elements?
-i: Good question, Monet!
-i: I didn't think about that.
-i: When we call an item a 'ceiling', we expect everything that belongs to the ceiling to be there, which is not the case right now.
-i: So, tell me, when you think about something like 'lighting', do you envisage separate deliverables for the floor, walls, and ceiling, or just one in general?
-u: One in general.
-i: Is it the same with the music system, computer network, fire protection, and lighting?
-u: Yes.
+u: Диди, Я вижу, что у вас есть позиции для 'пола', 'стен', и 'перекрытия', и затем отдельные позиции для освещения и так далее.
+u: Большинство из них, в любом случае, находятся на стенах, перекрытии или полу.
+u: Обычно более чем на одном из этих трех.
+u: Разве они не должны находиться под позициями 'пол', 'стены', и 'перекрытие'?
+i: Хороший вопрос, Монет!
+i: Я не думала об этом.
+i: Когда мы называем позицию 'перекрытие', мы ожидаем, что все, чего сейчас нет, что относится к перекрытию - будет там.
+i: Итак, скажите мне, когда вы думаете о чем-то вроде 'освещения', вы представляете отдельные результаты для пола, стен и перекрытия или только один в целом?
+u: Один в целом.
+i: Тоже самое с музыкальной системой, компьютерными сетями, противопожарной защитой и освещением?
+u: Да. Yes.
 
 
-j-dmc2-13-outside: So, we should keep them outside the 'floor', 'walls', and 'ceiling' elements. 
-j-dmc2-13-inside: So, we should merge them into the 'floor', 'walls', and 'ceiling' elements.
+j-dmc2-13-outside: Таким образом, мы должны оставить их вне позиций 'пол', 'стены', и 'перекрытие'.
+j-dmc2-13-inside: Таким образом, мы должны объединить их в позиции 'пол', 'стены', и 'перекрытие'.
 
 

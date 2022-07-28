@@ -1,19 +1,19 @@
 
-i: Yes, I asked Anan to approve the Deliverables Map and the Follow-Up Register as well.
-u: Really?
-u: Are you sure?
-i: Yes, I have it here in my emails...
-i: Oh, wait - I didn't!
-u: Didi, those two are not as high-level as the Project Description.
-u: You don't have to ask for approval if you don't want to.
-i: You're right... I must have mixed it up.
-i: I probably thought the same.
-i: Although I did send them to Anan for information.
-u: Good idea.
-u: Do you have a well structured way of storing documents?
+i: Да, я попросила Анана одобрить также карту результатов и реестр последующих действий.
+u: В самом деле?
+u: Вы уверены?
+i: Да, это есть в моих письмах...
+i: Ой, подождите - не просила!
+u: Диди, эти два документа не являются такими же высокоуровневыми, как резюме проекта.
+u: Вам не нужно запрашивать для них одобрение, если вы не хотите.
+i: Вы правы... Должно быть, я перепутала.
+i: Наверное, я думаю так же.
+i: Впрочем, Я отправила их Анану для ознакомления.
+u: Хорошая идея.
+u: Есть ли у вас структурированный способ хранения документов?
 
 
-j-a07-8: "Yes."
-j-a07-8: "I think so!"
+j-a07-8: "Да."
+j-a07-8: "Думаю, да!"
 
 

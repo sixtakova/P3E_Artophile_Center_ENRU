@@ -1,22 +1,22 @@
 
-u: Hello, Tiam speaking.
-i: Hi Tiam, this is Didi.
-u: Hi Didi, how are you?
-i: Fine, thanks.
-i: Can I ask you a favor?
-u: Sure.
-i: It's time for our project initiation peer-review.
-i: Would you be our peer-reviewer?
-u: That's no problem.
-u: Send me the project documents to take a look.
-u: Then I'll arrange for a short meeting with you to ask you any questions I may have, and then I'll send you my feedback.
-i: Sure. 
-i: Thanks, Tiam.
-u: I also need your permission to contact your stakeholders and ask them some questions.
-i: Of course.
-i: I'll let them know that you might call them.
+u: Алло, Тиам у телефона.
+i: Привет, Тиам, это Диди.
+u: Привет, Диди, как вы?
+i: Отлично, спасибо.
+i: Могу я попросить вас об одолжении?
+u: Конечно.
+i: Пришло время для ревью запуска проекта.
+i: Не могли бы вы провести ревью?
+u: Нет проблем.
+u: Отправьте мне документы по проекту для изучения.
+u: Затем я назначу с вами короткую встречу, чтобы вы ответили на мои возможные вопросы, и далее я пришлю вам обратную связь. 
+i: Конечно. 
+i: Спасибо, Тиам.
+u: Мне также понадобится от вас разрешение связаться со стейкхолдерами и задать им некоторые вопросы. 
+i: Разумеется.
+i: Я сообщу им, что вы можете позвонить.
 
 
-j-a07-3: Send the documents to Tiam.
+j-a07-3: Отправить документы Тиаму.
 
 

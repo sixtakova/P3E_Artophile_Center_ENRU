@@ -1,31 +1,31 @@
 
-s: After a workshop with the team
-q: OK, we spent 3 hours and reviewed everything, but no new options were found and none of the existing options were updated.
-q: So, no changes.
-q: However, I'm more confident about them now.
-q: So, here are the options...
+s: После воркшопа с командой
+q: Ок, мы потратили 3 часа и пересмотрели все, но не нашли новых вариантов проекта и не внесли изменения ни в один из существующих.
+q: Поэтому изменений нет.
+q: Впрочем, теперь я больше в них уверена.
+q: Итак, вот возможные варианты...
 
 n---
-**Options:**
-850 artopools in 17 months with normal concrete
-+85 artopools for self-colored concrete
-+170 artopools for finishing within 12 months
+**Варианты проекта:**
+850 артопулов на срок в 17 месяцев с обычным бетоном
++85 артопулов для окрашенного в массе бетона
++170 артопулов для завершения в течение 12 месяцев
 ---n
 
-q: The values are the original ones created in A05, when we were working on the Deliverables Map. 
-q: Later on, we planned responses to risks, and some of them included the impacts of time and cost on the project...
+q: Использованы оригинальные значения, выведенные на шаге A05, когда мы работали над картой результатов. 
+q: Позже мы запланировали меры реагирования на риски, и некоторые из них включали влияние на продолжительность и стоимость проекта...
 
 n---
-**Changes:**
-Transparent cover for the roof of the main hall: +8 artopools, +1 week
-Solar panels: +4 artopools
-Extra acoustic treatment: +2 to +4 artopools
+**Изменения:**
+Прозрачное покрытие для крыши в главном холле: +8 артопулов, +1 неделя
+Солнечные панели: +4 артопулов
+Дополнительная акустическая обработка: от +2 до +4 артопулов
 ---n
 
-q: The time impact is low and I can ignore it for now.
-q: The cost impact is about 15 artopools, which I'll add to the options.
+q: Влияние на срок выполнения небольшое и я могу теперь его не учитывать.
+q: Влияние на стоимость составляет примерно 15 артопулов, которое я отражу в вариантах.
 
 
-j-a08: Send the options to Anan.
+j-a08: Отправить варианты проекта Анану.
 
 

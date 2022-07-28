@@ -1,13 +1,13 @@
 
 e---
-Hi Tiam,
-I'm afraid I'm a little busy at 4 o'clock. Can we meet tomorrow?
+Привет, Тиам,
+Боюсь, я буду немного занята в 4 часа. Мы можем встретиться завтра?
 
-Regards,
-Didi
+С уважением,
+Диди
 ---e
 
 
-j-a07-4n-2: Send
-j-a07-4y: Rewrite the email and say yes!
+j-a07-4n-2: Отправить
+j-a07-4y: Переписать письмо и ответить "да"!
 

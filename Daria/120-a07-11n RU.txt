@@ -1,11 +1,11 @@
 
-q: Maybe I can take it easy and just use the existing options...
-q: After all, what's the worst thing that could happen?
-q: Well, the project could be canceled because we didn't identify a potentially justifiable project!
-q: Come on...
-q: It's not something I want to ignore!
+q: Может я могу не принимать это близко к сердцу и просто использовать существующие варианты...
+q: В конце концов, что самое худшее, что может произойти?
+q: Что ж, проект мог быть отменен, потому что мы не определили потенциально оправданный проект!
+q: Да ладно...
+q: Это не то, что мне бы хотелось игнорировать!
 
 
-j-a07-11y: Revise the options.
+j-a07-11y: Пересмотреть варианты.
 
 

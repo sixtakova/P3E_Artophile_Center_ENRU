@@ -1,9 +1,8 @@
 
-i: OK, then I'll break them down and put them inside the 'floor', 'walls', and 'ceiling' items.
-u: Oh, wait, I think you misunderstood!
-u: We have one deliverable for each of them in each area, not separate deliverables for the floor, walls, and ceiling.
+i: OK, тогда я разделю их и помещу в позиции 'пол', 'стены', и 'перекрытие'. 
+u: Оу, подождите, я думаю вы неправильно поняли!
+u: У нас есть один результат для каждой позиции в каждой зоне, а не отдельные результаты для пола, стен и перекрытия. 
 
-
-j-dmc2-13-outside: So, we should keep them outside the 'floor', 'walls', and 'ceiling' elements.
+j-dmc2-13-outside: Таким образом, мы должны оставить их вне позиций 'пол', 'стены', и 'перекрытие'.
 
 

@@ -1,7 +1,7 @@
 
-u: Well, there are electrical and mechanical aspects as well, and I do know a little about them, but it's best to ask an expert about those.
-i: Sure, I'll do that.
+u: Ну, также есть электрические и конструкторские аспекты, и я немного разбираюсь в них, но лучше о них спросить эксперта.
+i: Конечно, я так и сделаю.
 
-j-post-dmc1-1: End the meeting.
+j-post-dmc1-1: Закончить встречу.
 
 

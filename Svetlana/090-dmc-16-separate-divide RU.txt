@@ -1,50 +1,50 @@
 
-i: Let me try something...
-i: What if we create two new root elements for the building and divide the items between them like this?
+i: Дайте мне кое-что попробовать...
+i: Что если мы создадим два новых корневых элемента для здания и разделим между ними элементы вот так? 
 
 t---
 start-textree
-= Artophile Center
-== Site mobilization
-== Demolition of the warehouse
-== The building
-=== General
-==== Earthwork
-==== Foundation
-=== Areas
-==== Main hall
-===== Walls …
-===== Ceiling
-===== Floor
-==== Information room
-==== Storage room
-==== Conference room #3
+= Артофил Центр
+== Подготовка строительной площадки
+== Снос склада
+== Здание
+=== Общее
+==== Земляные работы
+==== Фундамент
+=== Участки
+==== Главный холл
+===== Стены …
+===== Перекрытие
+===== Пол
+==== Справочная
+==== Кладовка
+==== Конференц-зал #3
 ==== WC #2
-==== Utility room
-==== IT room
-==== Conference room #2
-==== Administration room
-==== Conference room #1
+==== Подсобное помещение
+==== Серверная
+==== Конференц-зал #2
+==== Комната администрации
+==== Конференц-зал #1
 ==== WC #1
-==== Meeting room #1
-==== Meeting room #2
-==== Security room
-== Surroundings
-=== Parking lot
-=== Driveways and walkways
-=== Gardens
+==== Переговорная #1
+==== Переговорная #2
+==== Комната охраны
+== Прилегающая территория
+=== Парковка
+=== Проезды и тротуары
+=== Скверы
 end-textree
 ---t
 
-u: Are you happy with that, Didi?
-i: I don't know.
-i: 'General' and 'Areas' can be considered deliverables, but they're a little artificial.
-i: Also, the whole map is getting a little too crowded.
-u: I agree.
-u: What if instead of having earthwork and foundation for the whole building, we break them down into areas and add them under the existing areas?
+u: Вы довольны этим, Диди?
+i: Я не знаю.
+i: 'Общее' и 'Зоны' можно считать результатами, но они немного искусственны. 
+i: Кроме того, вся карта становится слишком перегруженой.
+u: Соглашусь.
+u: А что, если вместо земляных работы и фундамента для всего здания, мы разделим их на зоны и добавим их под существующие участки?
 
 
-j-dmc-16-separate-divide-break: "Let me draw it and see it all together."
-j-dmc-16-separate-divide-break: "Good idea!"
+j-dmc-16-separate-divide-break: "Давайте я нарисую и посмотрим на это в целом."
+j-dmc-16-separate-divide-break: "Хорошая идея!"
 
 

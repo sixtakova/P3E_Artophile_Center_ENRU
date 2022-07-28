@@ -1,18 +1,18 @@
 
-u: And how do you do that, Didi?
-i: We use the company's Nextcloud to store all our documents.
-i: I've created a directory for the project, and all the documents are in there.
-i: Nextcloud has its own versioning system that we use for minor updates, and at specific times, I store a separate snapshot for approved documents.
-u: How about permissions?
-i: For now, team members have write access to all documents except for the Project Description, which only I have write access to.
-i: All executives and managers in the company have read access to the documents.
-u: Alright, sounds good.
-u: I think we're done.
+u: И как оно организовано, Диди?
+i: Мы используем сервис нашей компании под названием Nextcloud для хранения всех наших документов.
+i: Я создала каталог для проекта, и все документы находятся в нем.
+i: Nextcloud имеет свою собственную систему версий, которую мы используем для незначительных обновлений, и в определенное время, я сохраняю отдельный снимок для одобренных документов.
+u: Что насчет разрешений?
+i: Сейчас члены команды имеют доступ для записи всех документов, кроме резюме проекта, к которому есть доступ для записи только у меня.
+i: Все руководители и менеджеры в компании имеют доступ для чтения документов.
+u: Да, звучит неплохо.
+u: Думаю, мы закончили.
 
 
-j-a07-9: "So, what's your feedback?"
-j-a07-9: "How was our initiations in your opinion?"
-j-a07-9: "Do you have any comments for me?"
+j-a07-9: "Итак, каково ваше мнение?"
+j-a07-9: "Как по вашему мнению мы провели запуск?"
+j-a07-9: "У вас есть какие-либо комментарии для меня?"
 
 
 #%70

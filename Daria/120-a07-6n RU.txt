@@ -1,15 +1,15 @@
 
-i: We haven't had any important or critical decisions to ask Anan's opinion on so far.
-u: How about the content of the Project Description?
-u: That's also a high-level topic.
-i: Yes, of course...
-i: I asked Anan to check and approve it when it was ready.
-u: Perfect.
-u: That should cover it for now.
-u: What about the other two documents?
+i: До сих пор у нас не было каких-либо важных или критических решений, по которым можно было бы узнать мнение Анана.
+u: Как насчет содержания резюме проекта?
+u: Это также высокоуровневый вопрос.
+i: Да, конечно...
+i: Я попрошу Анана проверить и одобрить содержание, когда оно будет готово.
+u: Отлично.
+u: На данный момент этого хватит.
+u: Что насчет двух других документов?
 
 
-j-a07-7y: I received approval for them as well.
-j-a07-7n: I didn't ask Anan to approve the other two.
+j-a07-7y: Я также получила их одобрение.
+j-a07-7n: Я не просила Анана остальные два документа.
 
 

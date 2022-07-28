@@ -1,14 +1,14 @@
 
-i: Not really, Azar, that's not a good idea.
-u: Do you mean that it's wrong to have the 'floor' item before the 'walls' and 'ceiling'?
-i: No, any order is fine.
-u: So, if it's not wrong, can we have them in that order?
-u: I don't want to push you to order everything based on the execution sequence, but the fact is that when most people think about those deliverables, they automatically think about the floor first, and then the walls and finally the ceiling.
-u: It's just a conceptual order, not necessarily the order of execution.
-i: OK, if it's easier to read, I'll change it.
+i: Не совсем, Азар, это не очень хорошая идея.
+u: Имеете в виду, что неправильно ставить элемент 'пол' перед 'стенами' и 'перекрытием'? 
+i: Нет, подойдет любой порядок. 
+u: Ну, если это не так, можем расположить их в таком порядке?
+u: Я не хочу заставлять вас располагать все в порядке выполнения, но факт остается фактом: большинство людей, думая об этих результатах, автоматически сначала думают о полу, а потом уже о стенах и, наконец, о перекрытии.
+u: Это просто концептуальный порядок, не важен порядок выполнения.
+i: OK, если так легче читать, я изменю его.
 
 
-j-dmc-18-order: Change the order.
-j-dmc-18-order: Change the order while rolling your eyes!
+j-dmc-18-order: Изменить порядок. 
+j-dmc-18-order: Изменить порядок, закатив глаза!
 
 

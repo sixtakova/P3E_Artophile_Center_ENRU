@@ -1,51 +1,51 @@
 
-s: Two days later
-u: Didi, are you happy with the result of the initial workshops?
-i: Yes, Mirai, they were fine.
-i: Let's see the Follow-Up Register...
+s: Два дня спустя
+u: Диди, ты довольна результатами первых воркшопов?
+i: Да, Мирай, результаты отличные.
+i: Посмотрим на реестр последующих действий...
 
 f---
-**Cause:**      This project doesn't have an external customer.
-**Effect:**     Internal departments may give priority to projects with external customers (to keep the customers satisfied), and as a result, ignore this project.
-**Impact:**     The project may be finished a lot later than expected and be of low quality.
-**Response:**   Strong sponsorship / continuous monitoring of the situation / getting all the executives involved in the project
-**Custodian:**  Anan
-**Status:**     open
+**Причина:**      У проекта нет внешнего заказчика.
+**Следствие:**     Внутренние отделы могут отдавать приоритет проектам с внешним заказчиком (чтобы заказчики оставались довольны), и как результат, игнорировать этот проект.
+**Влияние:**     Проект может быть завершен позже, чем ожидалось, и быть низкого качества.
+**Меры реагирования:**   Сильное спонсорство / постоянный мониторинг ситуации / вовлечение всех руководителей в проект
+**Ответственный:**  Анан
+**Статус:**     открыт
 ---f
 
 f---
-**Cause:**      Because of its impact on the look and feel of the building, there are not many windows in the walls.
-**Effect:**     There may not be enough natural light in the main hall.
-**Impact**: It may feel depressing inside.
-**Response:**   Use a semi-transparent cover for the 3D truss of the roof, and add large light pannels on the walls.
-**Custodian:**  Azar
-**Status:**     closed
+**Причина:**      В стенах не так много окон из-за того, что это влияет на внешний вид здания.
+**Следствие:**     В главном холле может быть недостаточно естественного освещения.
+**Влияние**: Обстановка внутри может быть угнетающей.
+**Меры реагирования:**   Использовать полупрозрачное покрытие для for объемной стропильной фермы, и добавить большие светлые панели на стены.
+**Ответственный:**  Азар
+**Статус:**     закрыт
 ---f
 
 f---
-**Cause:**      All the walls are made of exposed concrete.
-**Effect:**     They don't have good acoustic properties, especially with large rooms.
-**Impact:**     1) The amount of acoustic treatment we have in mind may not be enough and we may need to spend more, and 2) The type of treatment required for this situation may harm the internal aesthetics.
-**Response:**   Find and consult acoustic experts as soon as possible.
-**Custodian:**  Mirai
-**Status:**     open
+**Причина:**      Все стены сделаны из облицовочного бетона.
+**Следствие:**     У них плохие акустические свойства, особенно в больших помещениях.
+**Влияние:**     1) Объем акустической обработки, который задумывался, может оказаться недостаточным, и мы можем потратить больше, и 2) Тип обработки, необходимый в данной ситуации, может нанести вред внутренней эстетике.
+**Меры реагирования:**   Найти и проконсультироваться с экспертом по акустике как можно быстрее.
+**Ответственный:**  Мирай
+**Статус:**     открыт
 ---f
 
 f---
-**Cause:**      We've not put too much thought into the energy efficiency of the building!
-**Effect:**     People (and responsible organizations) may blame us for constructing an important building that isn't energy efficient.
-**Impact:**     It harms our reputation, and also defeats the purpose of the project!
-**Response:**   Except for the main hall, which has a semi-transparent roof, cover all the other roofs with solar panels.
-**Custodian:**  Monet
-**Status:**     close
+**Причина:**      Мы не уделили достаточно внимания энергоэффективности здания!
+**Следствие:**     Люди (и ответственные организации) могут винить нас, что важное здание, которое мы построили, не является энергоэффективным.
+**Влияние:**     Это навредит нашей репутации, а также противоречит цели проекта!
+**Меры реагирования:**   За исключением главного холла, у которого будет полупрозрачная крыша, покрыть все крыши солнечными панелями.
+**Ответственный:**  Монет
+**Статус:**     закрыт
 ---f
 
-u: Didi, is that all?!
-i: Oh, of course not, I've got 10... no, 12 more here...
-u: Are we done with A06?
+u: Диди, это все?!
+i: Оу, конечно нет, у меня есть 10... нет, еще 12...
+u: Мы закончили с A06?
 
 
-j-r1-5-yes: Yes
-j-r1-5-no: No
+j-r1-5-yes: Да
+j-r1-5-no: Нет
 
 

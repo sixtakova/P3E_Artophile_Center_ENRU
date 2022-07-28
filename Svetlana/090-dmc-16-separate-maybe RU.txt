@@ -1,9 +1,9 @@
 
-u: As you hinted yourself, it's not wrong, but it's not well-structured either.
-i: So, what should we do about it?
+u: Как вы сами намекнули, это не ошибочно, но и не очень хорошо структурировано.
+i: Итак, что же нам с этим делать?
 
 
-j-dmc-16-separate-divide: Add two root elements under 'the building' and divide the items between them.
-j-dmc-16-separate-break: Break up the earthwork and foundation items and move them into other areas.
+j-dmc-16-separate-divide: Добавить два корневых элемента в раздел 'здание' и разделить элементы между ними. 
+j-dmc-16-separate-break: Разделить земляные работы и фундаменты и перенести их в другие участки.
 
 

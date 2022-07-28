@@ -1,21 +1,21 @@
 
-u: It seems fine, Didi.
-u: The documents are well-written and clear.
-u: Although I did see a few abbreviations in the Deliverables Map that weren't clear to me.
-u: The schedule seemed fine as well.
+u: Выглядит хорошо, Диди.
+u: Документы хорошо написаны и понятны.
+u: Впрочем, я увидел несколько аббревиатур в карте результатов, которые были для меня непонятны.
+u: График также составлен неплохо.
 i: :)
-u: It seems like you've delegated the whole scheduling process to Mirai, which is fine, as long as you supervise it.
-u: However, it seems like you've used the same for the identification of project options... I mean, options for duration and cost.
-u: That one doesn't seem so good to me because these are essential to the project, and it's best that you're fully involved.
-u: Finally, I have a feeling that Kim doesn't feel sufficiently included.
-i: Thanks for the feedback.
-i: I'll think about all of that.
-u: Good.
-u: So, send me the link to your Health Register, and I'll fill in the form.
-u: Don't forget to give me write access to that document ;)
-i: Sure :)
+u: Я вижу, вы делегировали процесс составления графика Мираю, что неплохо, если вы это контролируете.
+u: Впрочем, похоже вы аналогичным образом делегировали определение вариантов проекта... Я имею в виду варианты по длительности и стоимости проекта.
+u: Это не кажется мне хорошей идеей, так как это ключевые моменты проекта, и будет лучше, если вы будете полностью вовлечены.
+u: Наконец, у меня есть ощущение, что Ким не чувствует себя достаточно включенным в проект.
+i: Спасибо за обратную связь.
+i: Я поразмышляю над всем этим.
+u: Хорошо.
+u: В таком случае отправьте мне ссылку на ваш реестр здоровья, и я заполню форму.
+u: Не забудьте предоставить мне права на запись документа ;)
+i: Конечно :)
 
 
-j-a07-10: End the meeting.
+j-a07-10: Закончить встречу.
 
 

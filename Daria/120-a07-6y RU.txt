@@ -1,15 +1,15 @@
 
-i: Yes.
-i: For example, I've asked Anan to check and approve the Project Description.
-u: Sounds fine.
-u: Were there no other important decisions in the project that needed Anan's input?
-i: Not yet.
-i: Although I've prepared a number of options for the cost/duration balance of the project, which I'll present to Anan at the end of initiation.
-u: Perfect.
-u: What about the other two documents?
+i: Да.
+i: Например, я попросила Анана проверить и одобрить резюме проекта.
+u: Звучит хорошо.
+u: Не было ли других важных решений в проекте, которые требовали участия Анана?
+i: Пока нет.
+i: Впрочем, я подготовила различные варианты по стоимости/продолжительности проекта, которые я покажу Анану в конце стадии запуска проекта.
+u: Отлично.
+u: Что насчет друх других документов?
 
 
-j-a07-7y: I've received approval for them as well.
-j-a07-7n: I didn't ask Anan to approve the other two.
+j-a07-7y: Я также получила для них одобрение.
+j-a07-7n: Я не просила Анана одобрить остальные два документа.
 
 

@@ -1,46 +1,46 @@
 
-i: So, this is what looks like if we have the earthwork and foundation separately for different areas instead of having them for the building as a whole...
+i: Итак, вот как это выглядит, если у нас земляные работы и фундамент разделены для разных участков, а не в целом для здания...
 
 t---
 start-textree
-= Artophile Center
+= Артофил Центр
 == Site mobilization
-== Demolition of the warehouse
-== The building
-=== Main hall
-==== Earthwork
-==== Foundation
-==== Walls …
-==== Ceiling
-==== Floor
-=== Information room
-=== Storage room
-=== Conference room #3
+== Подготовка строительной площадки
+== Здание
+=== Главный холл
+==== Земляные работы
+==== Фундамент
+==== Стены …
+==== Перекрытие
+==== Пол
+=== Справочная
+=== Кладовка
+=== Конференц-зал #3
 === WC #2
-=== Utility room
-=== IT room
-=== Conference room #2
-=== Administration room
-=== Conference room #1
+=== Подсобное помещение
+=== Серверная
+=== Конференц-зал #2
+=== Комната администрации
+=== Конференц-зал #1
 === WC #1
-=== Meeting room #1
-=== Meeting room #2
-=== Security room
-== Surroundings
-=== Parking lot
-=== Driveways and walkways
-=== Gardens
+=== Переговорная #1
+=== Переговорная #2
+=== Комната охраны
+== Прилегающая территория
+=== Парковка
+=== Проезды и тротуары
+=== Скверы
 end-textree
 ---t
 
-u: Looks much cleaner to me now, Didi!
-i: I'm happy with it as well.
-i: Let's keep it like this.
-u: You will add it to other areas too, won't you?
-i: Yes, yes, I'll do it later.
-i: I'm only entering them for the 'main hall' right now.
+u: По-моему, сейчас выглядит значительно чище, Диди!
+i: Я тоже этим довольна.
+i: Давайте это так и оставим.
+u: Вы добавите это для других участков тоже, не так ли?
+i: Да, да, я сделаю это позже.
+i: Сейчас я вношу их только для 'главного холла'.
 
 
-j-dmc-16: "So, what else do we have?"
+j-dmc-16: "Итак, что еще у нас есть?"
 
 

@@ -1,14 +1,14 @@
 
 e---
-Hi Didi,
-I've read the documents, and I'm ready for our meeting. Can you meet me in my office at 4 pm?
+Привет, Диди,
+Я изучил документы и готов встретиться для обсуждения. Вы можете подойти в мой кабинет в 4 часа дня?
 
-Regards,
-Tiam
+С уважением,
+Тиам
 ---e
 
 
-j-a07-4y: Yes
-j-a07-4n: No
+j-a07-4y: Да
+j-a07-4n: Нет
 
 

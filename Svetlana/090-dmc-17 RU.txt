@@ -1,48 +1,48 @@
 
-u: OK, I've been thinking...
-u: I asked you to add an item for the 'floor', and what I had in mind for it was insulation and finishing, but now we have the 'earthwork' and 'foundation' elements beside it, and I'm starting to think that we may be able to move them under the 'floor' item.
-i: Not a bad idea. Here we go...
+u: OK, я тут подумал... 
+u: Я попросил вас добавить элемент для 'пола', и имел в виду теплоизоляцию и отделку, но сейчас у нас рядом с ними есть 'земляные работы' и 'фундамент', и я начинаю думать, что мы могли бы переместить их в раздел 'пол'.
+i: Неплохая идея. Вот так...
 
 t---
 start-textree
-= Artophile Center
+= Артофил Центр
 == Site mobilization
-== Demolition of the warehouse
-== The building
-=== Main hall
-==== Walls …
-==== Ceiling
-==== Floor
-===== Earthwork
-===== Foundation
-===== Floor insulation
-===== Floor finishing
-==== Furniture
-=== Information room
-=== Storage room
-=== Conference room #3
+== Подготовка строительной площадки
+== Здание
+=== Главный холл
+==== Стены …
+==== Перекрытие
+==== Пол
+===== Земляные работы
+===== Фундамент
+===== Теплоизоляция пола
+===== Покрытие пола
+==== Мебель
+=== Справочная
+=== Кладовка
+=== Конференц-зал #3
 === WC #2
-=== Utility room
-=== IT room
-=== Conference room #2
-=== Administration room
-=== Conference room #1
+=== Подсобное помещение
+=== Серверная
+=== Конференц-зал #2
+=== Комната администрации
+=== Конференц-зал #1
 === WC #1
-=== Meeting room #1
-=== Meeting room #2
-=== Security room
-== Surroundings
-=== Parking lot
-=== Driveways and walkways
-=== Gardens
+=== Переговорная #1
+=== Переговорная #2
+=== Комната охраны
+== Прилегающая территория
+=== Парковка
+=== Проезды и тротуары
+=== Скверы
 end-textree
 ---t
 
-u: I know you said there's no order among items in the map, but is it possible to move the 'floor' before the 'walls' and 'ceiling' items?
-u: It just makes it easier to read the map.
+u: Я знаю, вы говорили, что на карте нет последовательности между элементами, но возможно ли переместить 'пол' перед 'стенами' и 'перекрытием'?
+u: Просто это облегчит чтение карты.
 
 
-j-dmc-18-order: Yes
-j-dmc-18-noorder: No
+j-dmc-18-order: Да
+j-dmc-18-noorder: Нет
 
 

@@ -1,44 +1,44 @@
 
-i: Sure.
-i: Here you are...
-i: I've also collapsed the 'floor' for now, to simplify the map.
+i: Конечно.
+i: Вот, пожалуйста...
+i: Я также на данный момент сверну 'пол', чтобы упростить карту. 
 
 t---
 start-textree
-= Artophile Center
-== Site mobilization
-== Demolition of the warehouse
-== The building
-=== Main hall
-==== Floor …
-==== Walls …
-==== Ceiling
-==== Furniture
-=== Information room
-=== Storage room
-=== Conference room #3
+= Артофил Центр
+== Подготовка строительной площадки
+== Снос склада
+== Здание
+=== Главный холл
+==== Пол …
+==== Стены …
+==== Перекрытие
+==== Мебель
+=== Справочная
+=== Кладовка
+=== Конференц-зал #3
 === WC #2
-=== Utility room
-=== IT room
-=== Conference room #2
-=== Administration room
-=== Conference room #1
+=== Подсобное помещение
+=== Справочная
+=== Конференц-зал #2
+=== Комната администрации
+=== Конференц-зал #1
 === WC #1
-=== Meeting room #1
-=== Meeting room #2
-=== Security room
-== Surroundings
-=== Parking lot
-=== Driveways and walkways
-=== Gardens
+=== Переговорная #1
+=== Переговорная #2
+=== Комната охраны
+== Прилегающая территория
+=== Парковка
+=== Проезды и тротуары
+=== Скверы
 end-textree
 ---t
 
-u: Great.
-u: Thanks, Didi.
+u: Отлично.
+u: Список, Диди.
 
 
-j-dmc-19: "Is there anything else we should add?"
-j-dmc-19: "Are there any other deliverables?"
+j-dmc-19: "Есть еще что-то, что нам стоит добавить?"
+j-dmc-19: "Есть ли какие-то другие результаты?"
 
 

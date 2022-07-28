@@ -1,13 +1,13 @@
 
 e---
-Hi Tiam,
-It's time for our project initiation peer-review. It would be great if you could be our peer-reviewer; would you?
+Привет, Тиам,
+Пришло время для ревью запуска проекта. Было бы здорово, если бы вы провели для нас это ревью. Вы сможете?
 
-Regards,
-Didi
+С уважением,
+Диди
 ---e
 
 
-j-a07-2-email-2: Send
+j-a07-2-email-2: Отправить
 
 

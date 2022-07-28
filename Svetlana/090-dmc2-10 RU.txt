@@ -1,51 +1,51 @@
 
-i: OK, Monet, here are the items...
+i: OK, Монет, вот эти пункты...
 
 t---
 start-textree
-= Artophile Center
-== Site mobilization
-== Demolition of the warehouse
-== The building
-=== Main hall
-==== Floor …
-==== Walls …
-==== Ceiling
-==== Lighting
-==== Computer network
-==== Music/PA system
-==== Furniture
-=== Information room
-=== Storage room
-=== Conference room #3
+= Артофил центр
+== Подготовка строительной площадки
+== Снос склада
+== Здание
+=== Главный холл
+==== Пол …
+==== Стены …
+==== Перекрытие
+==== Освещение
+==== Компьютерная сеть
+==== Музыкальная/акустическая система
+==== Мебель
+=== Справочная
+=== Кладовка
+=== Конференц-зал #3
 === WC #2
-=== Utility room
-=== IT room
-=== Conference room #2
-=== Administration room
-=== Conference room #1
+=== подсобное помещение
+=== Серверная
+=== Конференц-зал #2
+=== Комната администрации
+=== Конференц-зал #1
 === WC #1
-=== Meeting room #1
-=== Meeting room #2
-=== Security room
-== Surroundings
-=== Parking lot
-=== Driveways and walkways
-=== Gardens
+=== Переговорная #1
+=== Переговорная #2
+=== Комната охраны
+== Прилегающая территория
+=== Парковка
+=== Проезды и тротуары
+=== Скверы
 end-textree
 ---t
 
-u: But these are not limited to the main hall; we have them everywhere.
-i: Yes, Monet; I'm just adding them for one area right now.
-i: I'll add them everywhere later on.
+u: Но они не ограничиваются главным холлом; они у нас везде.
+i: Да, Монет; Я пока добавляю их к одной зоне.
+i: Позже я добавлю их везде. 
 u: OK.
-u: Some of those areas are slightly different, though.
-u: For example, we don't have the 'music/PA system' in the storage and utility room.
-i: I understand.
-i: I'll double-check them with you a little later.
-u: There are also things like air conditioning and fire protection that have both mechanical and electrical aspects. Maybe more mechanical... Kim can tell you more about them.
+u: Однако некоторые из этих зон немного отличаются.
+u: Например, у нас нет 'Музыкальной/акустической системы' в кладовке и подсобном помещении. 
+i: Я понимаю.
+i: Я перепроверю их с вами немного позже.
+u: Также есть такие элементы, как кондиционер и противопожарная защита, у которых есть как конструкторские, так и электрические аспекты. Может быть больше конструкторские... Ким может рассказать больше о них.
 
 
-j-dmc2-12: Add the items.
+j-dmc2-12: Добавить позиции. 
 
 

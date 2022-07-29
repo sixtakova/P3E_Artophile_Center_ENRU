@@ -1,8 +1,8 @@
 
-q: Alright, a new day with new adventures on the project!
+q: Отлично, новый день с новыми приключениями на проекте!
 
 
-j-dmc2-4-email: Check emails.
-j-dmc2-4-call: Call Anan to ask about the appointments.
+j-dmc2-4-email: Проверить письма.
+j-dmc2-4-call: Позвонить Анану, спросить о назначении.
 
 

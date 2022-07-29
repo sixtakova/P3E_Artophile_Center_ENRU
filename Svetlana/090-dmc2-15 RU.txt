@@ -1,8 +1,8 @@
 
-u: We also have some electrical and mechanical work on the surroundings.
-u: Specifically, there's lighting in each of those three areas, and there's a watering system for the garden.
+u: Также у нас есть некоторые электротехнические и конструкторские работы на прилегающей территории. 
+u: В частности, в каждой из этих трех зон есть освещение, а также система полива сквера.
 
 
-j-dmc2-16: Add the new items.
+j-dmc2-16: Добавить новые позиции.
 
 

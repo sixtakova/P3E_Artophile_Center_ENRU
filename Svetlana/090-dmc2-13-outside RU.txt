@@ -1,21 +1,21 @@
 
-i: So, we should keep them outside the 'floor', 'ceiling', and 'walls' items. But then, we still have the original problem you pointed out.
-u: What should we do, Didi?
-i: I can think of two ways to do it...
-i: One option is to rename the existing 'floor', 'walls', and 'ceiling' items into something that makes it clear that they only contain the structure and finish...
-i: And the second option is to add another layer: one for the structure and finish, one for the mechanical, electrical, and piping, and one for the furniture.
-u: Adding another layer may make it too crowded.
-i: Correct.
-u: So, do you want to rename them?
-i: That may be a good idea.
-i: But what could the name be?
-i: Something that's not too long.
-u: Something like 'structure and finish of the walls'?
-i: Too long.
-u: So, call it 'walls SF'.
+i: Итак, мы должны оставить их вне позиций 'пол', 'стены', и 'перекрытие'. Но тогда, у нас все еще есть первоначальная проблема, на которую вы отметили. 
+u: Что же нам делать, Диди?
+i: Я могу придумать два способа сделать это... 
+i: Первый вариант это переименовать существующие позиции 'пол', 'стены', и 'перекрытие' во что-то, что дает понимание, что они содержат только структуру и отделку... 
+i: И второй вариант это добавить еще один слой: один для структуры и отделки, один для конструкторской, электротехнической и трубопроводной систем и один для мебели. 
+u: Добавление еще одного слоя может сделать карту слишком перегруженной.
+i: Верно. 
+u: Итак, вы хотите переименовать их? 
+i: Это может быть хорошей идеей.
+i: Но каким может быть название?
+i: Каким-то не очень длинным.
+u: Что-то вроде 'структура и отделка стен'?
+i: Очень длинное.
+u: Так, может быть назвать это 'стены СО'. 
 
 
-j-dmc2-14-sf: Add 'SF' to the end of the titles.
-j-dmc-14-nosf: No, that's not clear enough.
+j-dmc2-14-sf: Добавить 'СО' в конец заголовков.
+j-dmc-14-nosf: Нет, это недостаточно понятно. 
 
 

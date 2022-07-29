@@ -1,8 +1,8 @@
 
-u: I can't think of anything else.
-i: OK, thanks a lot, Monet!
+u: Я не могу вспомнить что-то еще.
+i: OK, спасибо большое, Монет! 
 
 
-j-dmc2-19: End the meeting.
+j-dmc2-19: Закончить встречу. 
 
 

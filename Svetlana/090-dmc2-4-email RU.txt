@@ -1,16 +1,16 @@
 
 e---
-Hi Didi,
-Your mechanical engineer is Kim. But make sure you minimize the amount of time you expect from Kim, because their department has a deadline in 3 weeks and everyone has to work hard on that.
-Your electrical engineer is Monet.
-Monet works in the electrical engineering department and their director is Darci.
+Привет, Диди,
+Ваш инженер-конструктор - Ким. Но убедитесь, что вы минимизируете количество времени, которое ожидаете от Ким, потому что сейчас у их отдела дедлайн через 3 недели и все должны усердно трудиться над этим.
+Ваш инженер-электротехник - Монет.
+Монет работает в электротехническом отделе, а их директор - Дарси. 
 
-Good luck!
-Anan
+Удачи!
+Анан
 ---e
 
 
-j-dmc2-5-contact: Contact Kim and Monet.
-j-dmc2-4-update: Update the list of stakeholders.
+j-dmc2-5-contact: Связаться с Ким и Монет.
+j-dmc2-4-update: Обновить список стейкхолдеров.
 
 

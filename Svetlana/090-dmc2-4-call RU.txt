@@ -1,14 +1,14 @@
 
-i: Hi Anan, this is Didi.
-u: Hi Didi.
-i: Any news about the new appointments?
-u: I've sent you an email about it.
-i: Oh, great, did it work?!
-u: Didi, I've already sent you an email about it, which should be in your mailbox.
-u: Do I also have to explain it over the phone?
+i: Привет, Анан, это Диди.
+u: Привет, Диди.
+i: Есть ли какие-либо новости о новых назначениях?
+u: Я уже отправил вам письмо на счет этого.
+i: О, отлично, сработало?!
+u: Диди, я уже отправил вам письмо на счет этого, оно должно быть в вашем почтовом ящике.
+u: Мне это тоже нужно объяснять по телефону?
 
 
-j-dmc2-4-email: "Not at all... I'll go read my email."
-j-dmc2-4-email: "I thought it might be faster over the phone, but I'll go read the email now."
+j-dmc2-4-email: "Совсем нет... Пойду почитаю мои письма" 
+j-dmc2-4-email: "Я думала, по телефону будет быстрее, но сейчас прочитаю письмо."
 
 

@@ -1,56 +1,56 @@
 
-i: Here we go...
+i: Вот так......
 
 t---
 start-textree
-= Artophile Center
-== Site mobilization
-== Demolition of the warehouse
-== The building
-=== Main hall
-==== Floor SF …
-==== Walls SF …
-==== Ceiling SF
-==== Lighting
-==== Computer network
-==== Music/PA system
-==== Air conditioning
-==== Fire protection
-==== Furniture
-=== Information room
-=== Storage room
-=== Conference room #3
+= Артофил Центр
+== Подготовка строительной площадки
+== Снос склада
+== Здание
+=== Главный холл
+==== Пол СО …
+==== Стены СО …
+==== Перекрытие СО
+==== Освещение
+==== Компьютерная сеть
+==== Музыкальная/акустическая система
+==== Кондиционер
+==== Противопожарная защита
+==== Мебель
+=== Справочная
+=== Кладовка
+=== Конференц-зал #3
 === WC #2
-=== Utility room
-=== IT room
-=== Conference room #2
-=== Administration room
-=== Conference room #1
+=== Подсобное помещение
+=== Серверная
+=== Конференц-зал #2
+=== Комната администрации
+=== CКонференц-зал#1
 === WC #1
-=== Meeting room #1
-=== Meeting room #2
-=== Security room
-== Surroundings
-=== Parking lot
-==== Lighting
+=== Переговорная #1
+=== Переговорная #2
+=== Комната охраны
+== Прилегающая территория
+=== Парковка
+==== Освещение
 ==== ?
 ==== ?
-=== Driveways and walkways
-==== Lighting
+=== Проезды и тротуары
+==== Освещение
 ==== ?
 ==== ?
-=== Gardens
-==== Lighting
-==== Watering system
+=== Скверы
+==== Освещение
+==== Система полива
 ==== ?
 end-textree
 ---t
 
-i: I've left those question marks because there are other types of work as well.
-i: I'll have to ask Azar.
-u: It's a good idea to check with Azar, but I can also tell you that all three need earthworks, the first two need paving, and the gardens need plants.
+i: Я оставила вопросительные знаки, потому что есть и другие виды работ.
+i: Мне нужно спросить Азара.
+u: Это хорошая идея - посоветоваться с Азаром, но я также могу сказать вам, что все три нуждаются в земляных работах, первые два нуждаются в дорожном покрытии, а скверам нужны растения. 
 
 
-j-dmc2-17: Add them.
+j-dmc2-17: Добавить их.
 
 

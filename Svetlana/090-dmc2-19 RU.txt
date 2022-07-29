@@ -1,206 +1,205 @@
 
-s: Two days later
-q: OK, I think after all those meetings with Azar, Monet, and Kim, we're finally done with the Deliverables Map!
+s: Два дня спустя Two days later
+q: OK, Я думаю,что после всех этих встреч с Азаром, Монет и Ким, мы наконец закончили с Картой результатов!
 
 t---
 start-textree
-= Artophile Center
-== Site mobilization
-== Demolition of the warehouse
-== The building
+= Артофил Центр
+== Подготовка строительной площадки
+== Снос склада
+== Здание
 
-=== Main hall
-==== Floor SF …
-==== Walls SF …
-==== Ceiling SF
-==== Lighting
-==== Computer network
-==== Music/PA system
-==== HVAC
-==== Fire protection 
-==== Furniture
+=== Главный холл
+==== Пол СО …
+==== Стены СО …
+==== Перекрытие СО
+==== Освещение
+==== Компьютерная сеть
+==== Музыкальная/акустическая система
+==== Отопление, вентиляция и кондиционирование воздуха
+==== Противопожарная защита
+==== Мебель
 
-=== Information room
-==== Floor SF …
-==== Walls SF …
-==== Ceiling SF
-==== Lighting
-==== Computer network
-==== HVAC
-==== Fire protection
-==== Furniture
+=== Справочная
+==== Пол СО …
+==== Стены СО …
+==== Перекрытие СО
+==== Освещение
+==== Компьютерная сеть
+==== Отопление, вентиляция и кондиционирование воздуха
+==== Противопожарная защита
+==== Мебель
 
-=== Storage room
-==== Floor SF …
-==== Walls SF …
-==== Ceiling SF
-==== Lighting
-==== Fire protection
-==== Furniture
+=== Кладовка
+==== Пол СО …
+==== Стены СО …
+==== Перекрытие СО
+==== Освещение
+==== Противопожарная защита
+==== Мебель
 
-=== Conference room #3
-==== Floor SF …
-==== Walls SF …
-==== Ceiling SF
-==== Lighting
-==== Computer network
-==== Music/PA system
-==== HVAC
-==== Fire protection
-==== Furniture
+=== Конференц-зал #3
+==== Пол СО …
+==== Стены СО …
+==== Перекрытие СО
+==== Освещение
+==== Компьютерная сеть
+==== Музыкальная/акустическая система
+==== Отопление, вентиляция и кондиционирование воздуха
+==== Противопожарная защита
+==== Мебель
 
 === WC #2
-==== Floor SF …
-==== Walls SF …
-==== Ceiling SF
-==== Lighting
-==== Music/PA system
-==== HVAC
-==== Furniture
+==== Пол СО …
+==== Стены СО …
+==== Перекрытие СО
+==== Освещение
+==== Музыкальная/акустическая система
+==== Отопление, вентиляция и кондиционирование воздуха
+==== Мебель
 
-=== Utility room
-==== Floor SF …
-==== Walls SF …
-==== Ceiling SF
-==== Lighting
-==== HVAC
-==== Fire protection
+=== Подсобное помещение
+==== Пол СО …
+==== Стены СО …
+==== Перекрытие СО
+==== Освещение
+==== Отопление, вентиляция и кондиционирование воздуха
+==== Противопожарная защита
 
-=== IT room
-==== Floor SF …
-==== Walls SF …
-==== Ceiling SF
-==== Lighting
-==== Computer network
-==== HVAC
-==== Fire protection
-==== Furniture
+=== Серверная
+==== Пол СО …
+==== Стены СО …
+==== Перекрытие СО
+==== Освещение
+==== Компьютерная сеть
+==== Отопление, вентиляция и кондиционирование воздуха
+==== Противопожарная защита
+==== Мебель
 
-=== Conference room #2
-==== Floor SF …
-==== Walls SF …
-==== Ceiling SF
-==== Lighting
-==== Computer network
-==== Music/PA system
-==== HVAC
-==== Fire protection
-==== Furniture
+=== Конференц-зал #2
+==== Пол СО …
+==== Стены СО …
+==== Перекрытие СО
+==== Освещение
+==== Компьютерная сеть
+==== Отопление, вентиляция и кондиционирование воздуха
+==== Противопожарная защита
+==== Мебель
 
-=== Administration room
-==== Floor SF …
-==== Walls SF …
-==== Ceiling SF
-==== Lighting
-==== Computer network
-==== Music/PA system
-==== HVAC
-==== Fire protection
-==== Furniture
+=== Комната администрации
+==== Пол СО …
+==== Стены СО …
+==== Перекрытие СО
+==== Освещение
+==== Компьютерная сеть
+==== Музыкальная/акустическая система
+==== Отопление, вентиляция и кондиционирование воздуха
+==== Противопожарная защита
+==== Мебель
 
-=== Conference room #1
-==== Floor SF …
-==== Walls SF …
-==== Ceiling SF
-==== Lighting
-==== Computer network
-==== Music/PA system
-==== HVAC
-==== Fire protection
-==== Furniture
+=== Конференц-зал #1
+==== Пол СО …
+==== Стены СО …
+==== Перекрытие СО
+==== Освещение
+==== Компьютерная сеть
+==== Музыкальная/акустическая система
+==== Отопление, вентиляция и кондиционирование воздуха
+==== Противопожарная защита
+==== Мебель
 
 === WC #1
-==== Floor SF …
-==== Walls SF …
-==== Ceiling SF
-==== Lighting
-==== Computer network
-==== Music/PA system
-==== HVAC
-==== Furniture
+==== Пол СО …
+==== Стены СО …
+==== Перекрытие СО
+==== Освещение
+==== Компьютерная сеть
+==== Музыкальная/акустическая система
+==== Отопление, вентиляция и кондиционирование воздуха
+==== Мебель
 
-=== Meeting room #1
-==== Floor SF …
-==== Walls SF …
-==== Ceiling SF
-==== Lighting
-==== Computer network
-==== Music/PA system
-==== HVAC
-==== Fire protection
-==== Furniture
+=== Переговорная #1
+==== Пол СО …
+==== Стены СО …
+==== Перекрытие СО
+==== Освещение
+==== Компьютерная сеть
+==== Музыкальная/акустическая система
+==== Отопление, вентиляция и кондиционирование воздуха
+==== Противопожарная защита
+==== Мебель
 
-=== Meeting room #2
-==== Floor SF …
-==== Walls SF …
-==== Ceiling SF
-==== Lighting
-==== Computer network
-==== Music/PA system
-==== HVAC
-==== Fire protection
-==== Furniture
+=== Переговорная #2
+==== Пол СО …
+==== Стены СО …
+==== Перекрытие СО
+==== Освещение
+==== Компьютерная сеть
+==== Музыкальная/акустическая система
+==== Отопление, вентиляция и кондиционирование воздуха
+==== Противопожарная защита
+==== Мебель
 
-=== Security room
-==== Floor SF …
-==== Walls SF …
-==== Ceiling SF
-==== Lighting
-==== Computer network
-==== Music/PA system
-==== HVAC
-==== Fire protection
-==== Furniture
+=== Комната охраны
+==== Пол СО …
+==== Стены СО …
+==== Перекрытие СО
+==== Освещение
+==== Компьютерная сеть
+==== Музыкальная/акустическая система
+==== Отопление, вентиляция и кондиционирование воздуха
+==== Противопожарная защита
+==== Мебель
 
-== Surroundings
-=== Parking lot
-==== Earthwork
-==== Paving
-==== Lighting
-=== Access roads
-==== Earthwork
-==== Paving
-==== Lighting
-=== Gardens
-==== Earthwork
-==== Organic soil
-==== Plants
-==== Lighting
-==== Watering system
+== Прилегающая территория
+=== Парковка
+==== Земляные работы
+==== Дорожное покрытие
+==== Освещение
+=== Подъездные пути
+==== Земляные работы
+==== Дорожное покрытие
+==== Освещение
+=== Скверы
+==== Земляные работы
+==== Органическая почва
+==== Растения
+==== Освещение
+==== Система полива
 end-textree
 ---t
 
-q: It's a relatively large map, but it's not too complicated.
-q: I can always collapse the last level to get a higher-level view...
+q: Это достаточно большая карта, но она не слишком сложная.
+q: Я всегда могу свернуть последний уровень, чтобы получить верхнеуровневый вид...
 
 t---
 start-textree
-= Artophile Center
-== Site mobilization
-== Demolition of the warehouse
-== The building
-=== Main hall
-=== Information room
-=== Storage room
-=== Conference room #3
+= Артофил Центр
+== Подготовка строительной площадки
+== Снос склада
+== Здание
+=== Главный холл
+=== Справочная
+=== Кладовка
+=== Конференц-зал #3
 === WC #2
-=== Utility room
-=== IT room
-=== Conference room #2
-=== Administration room
-=== Conference room #1
+=== Подсобное помещение
+=== Серверная
+=== Конференц-зал #2
+=== Комната администрации
+=== Конференц-зал #1
 === WC #1
-=== Meeting room #1
-=== Meeting room #2
-=== Security room
-== Surroundings
-=== Parking lot
+=== Переговорная #1
+=== Переговорная #2
+=== Комната охраны
+== Прилегающая территория
+=== Парковка
 === Driveways and walkways
-=== Gardens
+=== Скверы
 end-textree
 ---t
 
 
-j-dmc3-1: Send a copy of the map to team members.
+j-dmc3-1: Отправить копию карты всем членам команды.
 
 

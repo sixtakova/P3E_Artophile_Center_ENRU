@@ -1,19 +1,19 @@
 
-s: In front of Eris' office
-q: OK, knocking on the door...
-q: and waiting...
-q: and waiting...
-u: Come in.
-s: Inside Eris' office
-u: Didi, thanks for coming.
-u: Please take a seat.
-s: Eris has just sat in front of you.
-u: We have a new, important project.
+s: Перед офисом Эрис
+q: Ладно, стучим в дверь...
+q: и ждем...
+q: ждем...
+u: Входите.
+s: Внутри офиса Эрис
+u: Диди, спасибо, что пришла.
+u: Присядь, пожалуйста.
+s: Эрис тоже села напротив.
+u: У нас есть новый, важный проект.
 
 
-j-the-project: "Sounds interesting. What is it?"
-j-the-project: "I'm listening!"
-j-the-project: Say nothing and wait for Eris to continue.
+j-the-project: "Звучит интересно. Что это?"
+j-the-project: "Я слушаю!"
+j-the-project: Ничего не говорить и подождать пока Эрис продолжит.
 
 
 # just testing comments

@@ -1,12 +1,12 @@
 
-u: There's a great opportunity here: The local authority has decided to invest a large amount of money - 42,000 artopools to be exact - in promoting art and culture in Artopolis.
-i: Wow!
-u: Our legal consultant believes they'll pay half of the costs of the convention center.
+u: Здесь есть прекрасная возможность. Местные власти решили инвестировать крупную сумму денег - 42.000 артопулов если быть точным - в продвижение искусства и культуры в Артополисе.
+i: Вот это да!
+u: Наш юридический консультант считает, что они оплатят половину стоимости конеренц-центра.
 
 
-j-budget1: "Do we have an overall idea of the budget?"
-j-strings-attached: "I'm not sure if it's a good idea to depend on government funding, as there are always strings attached."
-j-approval: "Amazing! Is the project approved, or is it still the initial studies?"
-j-in3: "Interesting."
+j-budget1: "Есть ли у нас представление о полном бюджете?"
+j-strings-attached: "Я не уверен, что это хорошая идея, зависеть от государственного финансирования, так как всегда есть определенные ограничения."
+j-approval: "Потрясающе! Проект уже утвержден или находится на стадии запуска?"
+j-in3: "Интересно."
 
 

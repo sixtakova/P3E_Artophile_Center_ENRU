@@ -1,13 +1,13 @@
 
-u: Good. I'm counting on you, Didi.
-u: You're now officially appointed as the project manager for this project.
-u: So, tell me, what's the first thing you want to do?
+u: Хорошо, я рассчитываю на вас, Диди.
+u: С этого момента вы официально наззначены менеджером этого проекта.
+u: Итак, скажите мне, что вы сделаете в первую очердь?
 
 
-j-plan: Plan.
-j-pd: Prepare the Project Description.
-j-sponsor: Make sure there's a sponsor.
-j-noidea: Ask Eris what to do first.
-j-team: Form the initial team.
+j-plan: Составлю план.
+j-pd: Подготовлю Резюме проекта.
+j-sponsor: Удостоверюсь, что есть спонсор.
+j-noidea: Спрошу Эрис, что сделать сначала.
+j-team: Сформирую команду запуска проекта.
 
 

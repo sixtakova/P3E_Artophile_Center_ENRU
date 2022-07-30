@@ -1,9 +1,9 @@
 
-u: I think you can if you do your best.
-u: What do you think?
+u: Я полагаю, что вы справитесь, если приложите все свои усилия.
+u: Что вы думаете?
 
 
-j-yes: "OK, I'll do my best. Thanks for the opportunity!"
-j-no: "Sorry, but I don't think so."
+j-yes: "Хорошо, я сделаю все возможное. Спасибо за возможность!"
+j-no: "Извините. но я так не думаю."
 
 

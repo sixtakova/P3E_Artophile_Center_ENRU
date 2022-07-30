@@ -1,9 +1,9 @@
 
-u: Don't rush into it, Didi!
-u: I was about to tell you about the opportunities for its funding.
+u: Не торопитесь, Диди!
+u: Я собиралась рассказать вам о возможностях финансирования.
 
 
-j-funding: "Sure, please go on."
-j-no-interest: "I think I know enough about it already."
+j-funding: "Конечно, пожалуйста, продолжайте."
+j-no-interest: "Я думаю, что уже достаточно об этом знаю."
 
 

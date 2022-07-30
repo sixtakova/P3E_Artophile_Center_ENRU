@@ -1,10 +1,10 @@
 
-s: On the phone
-u: No, no. I just need to talk to you.
-u: Can you come to my office for a minute?
+s: На телефоне
+u: Нет, нет. Мне просто нужно поговорить с вами.
+u: Вы могли бы зайти ко мне на минуту?
 
 
-j-eris-office: "Sure, I'm on my way."
-j-later: "Can we meet later? I have to answer a few emails."
+j-eris-office: "Конечно, уже выхожу."
+j-later: "Можем ли мы встретиться позже? Мне нужно ответить нна несколько писем."
 
 

@@ -1,9 +1,9 @@
 
-q: So, I've been time-traveling a lot during this project and I'm not sure what has happened in the peer reviews other than the first two!
-q: How can I get more information about them?
+q: Итак, я много путешествовала во времени пока шел проект, и я понятия не имею о том, как прошли ревью проекта, кроме двух первых!
+q: Как я могу получить об этом больше информации?
 
 
-j-f3-2-mirai: Ask Mirai.
-j-f3-2-register: Check the Health Register.
+j-f3-2-mirai: Спросить Мирая.
+j-f3-2-register: Проверить реестр "Здоровье проекта".
 
 

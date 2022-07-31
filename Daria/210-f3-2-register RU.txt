@@ -1,13 +1,13 @@
 
-q: So, here's the Health Register...
-q: Let's take a look...
-q: OK, seems like we've done a good job.
-q: I've asked all 9 project managers in the company to help as peer reviewers... most of them more than once.
-q: So, who should I ask for the peer review this time?
+q: Итак, вот реестр "Здоровье проекта"...
+q: Давайте посмотрим...
+q: Отлично, похоже мы проделали хорошую работу.
+q: Я попросила всех 9 менеджеров проекта в компании помочь сделать ревью проекта... большинство из них делали его больше одного раза.
+q: Итак, кого мне попросить провести ревью на этот раз?
 
 
-j-f3-3-tiam: Ask Tiam.
-j-f3-3-jehan: Ask Jehan.
-j-f3-3-other: Ask someone else.
+j-f3-3-tiam: Попросить Тиама.
+j-f3-3-jehan: Попросить Джеана.
+j-f3-3-other: Попросить кого-нибудь еще.
 
 

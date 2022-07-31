@@ -1,18 +1,18 @@
 
 
 e---
-Hi Didi,
-I'm glad to hear that, and well done with the project.
-I've talked to the board. Kyung has been appointed for the product hand-over.
-Good luck.
+Привет, Диди,
+Рад это слышать, отличная работа над проектом.
+Я поговорил с советом директоров. Кьюнг назначен ответственным за передачу продукта.
+Удачи.
 
-Regards,
-Anan
+С уважением,
+Анан
 ---e
 
 
-j-f1-5-email: Send an email to Kyung.
-j-f1-5-call: Call Kyung.
+j-f1-5-email: Отправить письмо Кьюнгу.
+j-f1-5-call: Позвонить Кьюнгу.
 
 
 #%95

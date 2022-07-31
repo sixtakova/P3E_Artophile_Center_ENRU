@@ -1,17 +1,17 @@
 
-i: No, you don't need to.
-u: So, Kyung isn't a stakeholder in our project?
-i: I didn't say that...
-i: Kyung is very much a stakeholder.
-u: Then, why shouldn't I add the name to the stakeholder list?
-i: Right...
-i: You should add it.
-u: Is it OK to add the name, even though the project is finished?
-i: Who said the project is finished?
-i: We're just done building the product, but the project is only finished after we close it.
-u: I see.
+i: Нет, в этом нет необходимости.
+u: Значит, Кьюнг не является стейкхолдером проекта?
+i: Я так не говорила...
+i: По большому счету Кьюнг стейкхолдер.
+u: Тогда почему я не могу добавить это имя в список стейкхолдеров?
+i: Верно...
+i: Вам следует добавить имя.
+u: Нормально ли добавлять имя в документы, даже когда проект завершен?
+i: Кто сказал, что проект завершен?
+i: Мы только что закончили создание продукта, но проект будет завершен, только когда мы его закроем.
+u: Я понял.
 
 
-j-f3-1: Go to F03.
+j-f3-1: Перейти к F03.
 
 

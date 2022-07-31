@@ -1,15 +1,15 @@
 
 
 e---
-Hi Kyung,
-Anan told me that you're responsible for the product hand-over. We've ready to do it; just let me know when you'd like to start.
-You can find a copy of our Project Description and Deliverables Map attached in case you need them.
+Привет, Кьюнг,
+Анан сообщил мне, что вы ответственный за передачу продукта. Мы готовы к передаче; просто сообщите мне, когда вы хотели бы начать.
+К письму прикреплены копии резюме проекта и карты результатов на случай, если вам понадобится.
 
-Regards,
-Didi
+С уважением,
+Диди
 ---e
 
 
-j-f1-5-email-2: Send
+j-f1-5-email-2: Отправить
 
 

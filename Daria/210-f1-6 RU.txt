@@ -1,11 +1,11 @@
 
-s: 5 days later
-u: OK, Didi, thanks for everything.
-u: I believe we're done.
-i: Thanks, Kyung.
-i: It was a pleasure working with you.
+s: 5 дней спустя
+u: OK, Диди, спасибо за все.
+u: Я думаю, мы закончили.
+i: Спасибо, Кьюнг.
+i: Бло приятно работать с вами.
 
 
-j-f2-1: Go to F02.
+j-f2-1: Перейти к F02.
 
 

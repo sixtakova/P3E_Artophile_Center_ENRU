@@ -1,11 +1,11 @@
 
-q: Jehan could be a good choice.
-q: No one pays more attention to detail than Jehan.
-q: Although, when it comes to the high-level and strategic aspects, Tiam is the best project manager.
-q: Maybe I should ask Tiam...
-q: After all, it is the last peer review in the project!
+q: Джеан - это хороший выбор.
+q: Никто не уделяет так много внимания деталям, как Джеан.
+q: Хотя, если речь идет о высокоуровневых и стратегических аспектах, Тиам лучший менеджер проекта.
+q: Может мне стоит попросить Тиама...
+q: В конце концов, это последнее ревью этого проекта!
 
 
-j-f3-3-tiam: Ask Tiam.
+j-f3-3-tiam: Попросить Тиама.
 
 

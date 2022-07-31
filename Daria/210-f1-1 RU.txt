@@ -1,18 +1,18 @@
 
-u: Didi, are you OK?
-i: Yes, Mirai.
-i: Just another trip through time ;)
-u: Oh, of course.
-u: So, I have to explain everything as if you've been time traveling.
-i: Absolutely.
-u: Alright...
-u: We're in the middle of the month, and you've just accepted that last completed deliverable.
-i: Do you mean we're done?!
-u: Yes.
-q: Wow!
-q: That was a big jump!
+u: Диди, вы в порядке?
+i: Да, Мирай.
+i: Просто еще одно путешествие сквозь время ;)
+u: Оу, да, конечно.
+u: Так, поскольку вы путешествовали во времени, мне придется все объяснить.
+i: Именно так.
+u: Хорошо...
+u: Сейчас у нас середина месяца, и вы только что приняли последний достигнутый результат.
+i: Вы хотите сказать, что мы все завершили?!
+u: Да.
+q: Вау!
+q: Это был большой прыжок во времени!
 
 
-j-f1-2: Start F01.
+j-f1-2: Начать F01.
 
 

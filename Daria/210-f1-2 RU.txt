@@ -1,14 +1,14 @@
 
-i: So, we should start F01.
+i: Итак, мы должны начать F01.
 u: OK.
-u: How?
-i: Do we know who we should hand the product to?
-u: I have no idea.
-i: Have we told Anan that we're ready to close the project?
-u: No.
+u: Как?
+i: Знаем ли мы, кому должны передать продукт?
+u: Не имею понятия.
+i: Мы сообщали Анану о том, что готовы закрыть проект?
+u: Нет.
 
 
-j-f1-3-email: Send an email to Anan about it.
-j-f1-3-call: Call Anan.
+j-f1-3-email: Отправить об этом письмо Анану.
+j-f1-3-call: Позвонить Анану.
 
 

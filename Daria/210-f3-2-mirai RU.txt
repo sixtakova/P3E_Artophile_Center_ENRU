@@ -1,12 +1,12 @@
 
-i: Mirai, tell me about the history of peer-reviews in this project.
-u: Aha, I see...
-u: Testing me again!
-u: OK, we can find the results of peer reviews in the Health Register.
-u: Let me open the file...
-u: Here you are...
+i: Мирай, расскажите мне историю проведенных ревью проекта.
+u: Ага, я понял...
+u: Снова меня проверяете!
+u: Так, мы можем найти результаты ревью в реестре "Здоровье проекта".
+u: Дайте мне открыть файл...
+u: Вот, пожалуйста..
 
 
-j-f3-2-register: Check the Health Register.
+j-f3-2-register: Проверить реестр "Здоровье проекта".
 
 

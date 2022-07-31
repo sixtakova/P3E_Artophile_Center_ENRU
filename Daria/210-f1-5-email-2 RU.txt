@@ -1,15 +1,15 @@
 
 
 e---
-Hi Didi,
-Thanks for the documents. Shall we start tomorrow at 9 o'clock?
-I think we'll need about 3 days.
+Привет, Диди,
+Спасибо за документы. Мы можем начать завтра в 9 часов?
+Я думаю, нам потребуется примерно 3 дня.
 
-Regards,
-Kyung
+С уважением,
+Кьюнг
 ---e
 
 
-j-f1-6: Accept
+j-f1-6: Принять
 
 

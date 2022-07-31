@@ -1,9 +1,9 @@
 
-s: 10 minutes later
-q: Anan's phone is busy!
+s: 10 минут спустя
+q: Телефон Анана занят!
 
 
-j-f1-3-call-3: Wait and call again.
-j-f1-3-email: Send an email instead.
+j-f1-3-call-3: Подождать и позвонить снова.
+j-f1-3-email: Отправить письмо вместо звонка.
 
 

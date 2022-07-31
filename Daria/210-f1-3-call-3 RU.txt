@@ -1,10 +1,10 @@
 
-s: 20 minutes later
-q: No answer again.
-q: I wonder why I insist so much on calling, when I can easily send an email!
+s: 20 минут спустя
+q: Снова нет ответа.
+q: Интересно, почему я так настаиваю на звонке, хотя вместо этого могу просто послать письмо!
 
 
-j-f1-3-call-4: Wait and call again.
-j-f1-3-email: Send an email instead.
+j-f1-3-call-4: Подождать и позвонить снова.
+j-f1-3-email: Отправить письмо.
 
 

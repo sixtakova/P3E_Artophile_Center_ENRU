@@ -1,9 +1,9 @@
 
-q: So... who should I ask?
-q: Hmm...
-q: Well, this is the last peer review, so, why not ask the best project manager in the company?
+q: Итак... кого же мне попросить?
+q: Хмм...
+q: Что ж, это последнее ревью проекта, почему бы мне не попросить лучшего менеджера проектов в компании?
 
 
-j-f3-3-tiam: Ask Tiam.
+j-f3-3-tiam: Попросить Тиама.
 
 

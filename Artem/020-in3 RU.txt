@@ -1,8 +1,8 @@
 
-u: I thought you were going to ask me about the budget next!
+u: Я думал, что вы собираетесь спросить меня о бюджете!
 
 
-j-budget2: "Oh, have you already set a budget?"
-j-budget2: "I didn't expect you to have set a budget already."
+j-budget2: "О, вы уже установили бюджет?"
+j-budget2: "Я не ожидал, что вы уже определились с бюдетом проекта."
 
 

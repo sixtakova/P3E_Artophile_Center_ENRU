@@ -1,10 +1,10 @@
 
-u: Yes, yes... there is.
-u: We're going to initiate the project and see whether it's a good idea to execute it.
+u: Да, да... так и есть.
+u: Мы собираемся запустить проект и посмотреть, хорошая ли это идея и стоит ли ее осуществить.
 
 
-j-proposal: "So, how can I help with this project?"
-j-proposal: Wait for Eris to continue.
+j-proposal: "Итак, как я могу помочь с этим проектом?"
+j-proposal: Подождать пока Эрис продолжит.
 
 
 

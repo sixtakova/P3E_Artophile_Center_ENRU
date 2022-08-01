@@ -1,10 +1,9 @@
 
-u: We've not set the final budget yet, but we have a rough idea of what it takes to finish such a project.
-u: We think it should be possible to do it in 12 months, for a reasonable amount of money... 1,000 artopools maximum.
+u: Мы еще не определились с окончательным бюджетом, но у нас есть приблизительное представление о том, что необходимо, чтобы закончить подобный проект.
+u: Мы полагаем, что это реально сделать за 12 месяцев и за разумную сумму денег... 1.000 артопулов максимум.
 
-
-j-proposal: "Good. How can I help with this project?" 
-j-proposal: "Interesting!" 
+j-proposal: "Хорошо. Как я могу помочь с этим проектом?"
+j-proposal: "Интересно!"
 
 
 

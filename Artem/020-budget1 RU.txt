@@ -1,9 +1,9 @@
 
-u: 12 months and 1,000 artopools are probably enough for this project, but we'll know more after initiating the project.
+u: 12 месяцев и 1.000 артопулов скорее всего хватит на этот проект, но после запуска мы поймем лучше.
 
 
-j-proposal: "OK. It all sounds good. How can I help with this project?"
-j-proposal: "Yes, it's hard to be sure about it before initiating the project."
-j-noinit: "But we shouldn't initiate the project until we know the exact amounts."
+j-proposal: "Ладно. Все это звучит хорошо. Как я могу помочь с этим проектом?"
+j-proposal: "Да, это непросто быть полностью уверенным в бюджете до запуска проекта."
+j-noinit: "Но мы не должны начинать проект до того, как не поймем точную сумму."
 
 

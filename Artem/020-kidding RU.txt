@@ -1,8 +1,8 @@
 
-u: Yeah, I thought so.
+u: Да, я так и подумала.
 
 
-j-proposal: "So, how can I help with this project?"
-j-proposal: Wait for Eris to continue.
+j-proposal: "Итак, чем я могу помочь в этом проекте?"
+j-proposal: Подождать, пока Эрис продолжит.
 
 

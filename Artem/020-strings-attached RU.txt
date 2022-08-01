@@ -1,10 +1,10 @@
 
-u: Not at all.
-u: We've had grants before, and we've never experienced any problems.
-u: Don't worry about that.
+u: Вовсе нет.
+u: У нас уже были гранты и мы никогда не сталкивались с проблемами.
+u: Не беспокойтесь об этом.
 
 
-j-proposal: "Good. How can I help with this project?"
-j-proposal: "Interesting..."
+j-proposal: "Хорошо. Как я могу помочь с этим проектом?"
+j-proposal: "Интересно..."
 
 

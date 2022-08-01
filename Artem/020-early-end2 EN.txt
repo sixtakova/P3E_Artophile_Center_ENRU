@@ -1,10 +1,10 @@
 
-u: Ну ладно, вот и все... игра окончена :)
+u: OK, so, that's it... game over :)
 
-s: ~~~ Конец ~~~
+s: ~~~ The End ~~~
 
 
-j-welcome: Перезапуск
+j-welcome: Restart
 
 
 #!nd

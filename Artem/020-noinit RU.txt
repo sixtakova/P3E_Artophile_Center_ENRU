@@ -1,10 +1,10 @@
 
-u: I don't know why you said that!
-u: We simply can't know the exact values until we've planned the project and prepared an overall design.
-u: Isn't that what you call 'project initiation'?
+u: Я не знаю, почему вы так сказали!
+u: Мы просто не можем знать точные значения до тех пор, пока полностью не спланировали проект и не подготовили дизайн.
+u: Разве это не то, что вы называете 'запуском проекта'?
 
 
-j-kidding: "I was kidding :) Of course it is."
-j-no-interest: "No, that's not correct."
+j-kidding: "Я пошутил :) Конечно, это оно и есть."
+j-no-interest: "Нет, это неправильно."
 
 

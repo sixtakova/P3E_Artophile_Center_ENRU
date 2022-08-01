@@ -1,11 +1,11 @@
 
-u: Didi, you should know that the project has to be initiated by creating a plan and an overall design, and then the board can use that information to make its final decision.
-q: OK, I made a fool of myself!
-q: Eris is explaining activity A08 to me as if I don't know it.
-q: I didn't ask my question correctly.
+u: Диди, вы должны знать, что проект начинается с создания плана и общего дизайна, и только после этого совет директоров сможет принять окончательное решение на основе этой информации.
+q: Эх, я выгядела глупо!
+q: Эрис объясняет мне шаг A08, как будто я его не знаю.
+q: Я неправильно задала свой вопрос.
 
 
-j-initiate: "Of course, Eris. What I wanted to know was whether the decision to initiate the project has been made."
-j-proposal: "Yes, of course. So, how can I help?"
+j-initiate: "Конечно, Эрис. На самом деле я хотела знать, было ли принято решение о запуске проекта."
+j-proposal: "Да, конечно. Итак, чем я могу помочь?"
 
 

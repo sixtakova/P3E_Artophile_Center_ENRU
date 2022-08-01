@@ -1,12 +1,12 @@
 
-u: OK, that was an early finish for the simulation!
-u: Don't worry, though. Read the manual to learn more about P3.express, and then come back.
-u: We'll travel back in time, and you'll have another chance with Eris ;)
+u: Итак, это было раннее завершение симулятора!
+u: Но не волнуйтесь. Прочтите руководство, чтобы узнать больше о P3.express, и потом возвращайтесь.
+u: Мы вернемся во времени и у вас будет еще один шанс поговорить с Эрис ;)
 
-s: ~~~ The End ~~~
+s: ~~~ Конец ~~~
 
 
-j-welcome: Restart
+j-welcome: Перезапуск
 
 #!nd
 

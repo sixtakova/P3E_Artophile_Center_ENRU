@@ -1,20 +1,20 @@
 
-s: Half an hour later
-q: OK, that's the last email sent.
-q: Now I have an empty inbox.
-s: You've got a new email.
+s: Полчаса спустя
+q: OK, это последнее отправленное письмо.
+q: Теперь у меня пустой почтовый ящик.
+s: Вы получили новое письмо.
 
 e---
-Hi Didi,
-The reason I wanted to talk to you today was to see whether we could have you as the project manager for this new project. However, what you said made me think twice. I don't think you're ready to manage such an important project yet, but I still see a bright future for you. Meanwhile, study more and gain more experience in your existing projects.
+Привет Диди,
+Причина, по которой я хотела поговорить с вами сегодня, была в том, чтобы посмотреть, сможете ли вы быть менеджером этого нового проекта. Однако, то что вы сказали, заставило меня подумать дважды. Я полагаю, что вы еще не готовы управлять таким важным проектом, но я все равно вижу для вас светлое будущее. Пока что учитесь больше и приобретайте больше опыта в ваших текущих проектах.
 
-Best regards,
-Eris
+С наилучшими пожеланиями,
+Эрис
 ---e
 
-q: Oh, that's a pity.
+q: О, какая жалость.
 
 
-j-early-end1: Next
+j-early-end1: Далее
 
 

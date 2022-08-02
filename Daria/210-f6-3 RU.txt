@@ -1,18 +1,18 @@
 
-i: Mirai, there's one more thing I need to do.
-u: I thought F06 was the last activity :)
-i: Yes, it is...
-i: But this one is special.
-u: What is it?
-i: I'm just coming back from a meeting, where I told Eris what a great help you were during this project, and recommended that they hire you.
-i: There's a job offer waiting for you in Artophile if you're interested in joining us after you finish your studies.
-u: Wow, that's amazing!
-u: Thanks, Didi.
-u: I'd love to join Artophile!
-i: Great.
-i: Then I'll see you around :)
+i: Мирай, есть еще одна вещь, которую я должна выполнить.
+u: Я думал, шаг F06 был последней активностью :)
+i: Да, был...
+i: Но это кое-что особенное.
+u: Что же это?
+i: Я только что вернулась с собрания, где рассказала Эрис, какую неоценимую помощь вы оказали во время проекта, и рекомендовала им нанять вас.
+i: Вас ждет предложение о работе в Артофил, если вам будет интересно присоединиться к нам после завершения учебы.
+u: Вау, это невероятно!
+u: Спасибо, Диди.
+u: Я буду рад присоединиться к Артофилу!
+i: Отлично.
+i: Тогда увидимся :)
 
 
-j-g-1: Next
+j-g-1: Следующий
 
 

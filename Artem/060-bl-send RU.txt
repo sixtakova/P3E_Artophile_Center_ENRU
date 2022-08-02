@@ -1,14 +1,14 @@
 
 e---
-Hi Didi,
-Nice to meet you too. I'm glad to be part of the team.
-Shall we meet in 30 minutes?
+Привет Диди,
+Мне тоже приятно познакомиться. Буду рад стать частью команды.
+Мы можем встретиться через 30 минут?
 
-Regards,
-Sasha
+С уважением,
+Саша
 ---e
 
 
-j-Sasha-reply: Reply
+j-Sasha-reply: Ответить
 
 

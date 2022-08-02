@@ -1,10 +1,10 @@
 
-u: Hmm... I don't see a problem.
-u: You've listed all the benefits that the board expects.
-u: It's fine.
+u: Хм... Я не вижу проблем.
+u: Вы перечислили все выгоды, которые ожидает совет директоров.
+u: Это прекрасно.
 
 
-j-bl-edone: "OK, we're done for now, then."
-j-bl-priorities: "How about their priorities?"
+j-bl-edone: "Хорошо, тогда мы закончили."
+j-bl-priorities: "Как насчет их приоритетов?"
 
 

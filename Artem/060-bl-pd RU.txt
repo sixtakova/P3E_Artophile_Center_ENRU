@@ -1,9 +1,9 @@
 
-i: I've prepared a simple Project Description, which contains information about the purpose and benefits of the project, among other things.
-i: Shall we take a look together and see if it needs any adjustments?
-u: Sure!
+i: Я подготовил простое Резюме проекта, которое, среди прочего, содержит информацию о целях и выгодах проекта.
+i: Можем мы вместе на него взглянуть и понять нужны ли какие-нибудь корректировки?
+u: Конечно!
 
 
-j-bl-show-pd: Present the Project Description.
+j-bl-show-pd: Показать Резюме проекта.
 
 

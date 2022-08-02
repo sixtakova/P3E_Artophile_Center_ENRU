@@ -1,14 +1,14 @@
 
-u: Actually, Didi, there's something else.
-i: Yes?
-u: These are all expected benefits, but they don't all have the same level of importance.
-u: I don't know whether you need to document that, but, for example, earning money from renting out the center is an expected benefit, but it's not as important as the others.
-i: I see.
-u: So, if we have to make compromises, it's the direct money ones that will lose out to the others.
+u: На самом деле, Диди, есть кое-что еще.
+i: Да?
+u: Это все ожидаемые выгоды проекта, но не все они имеют одинаковый уровень важности.
+u: Я не знаю, нужно ли это документально фиксировать, но, для примера, заработок на сдаче центра в аренду - ожидаемая выгода, но не настолько важная, как другие.
+i: Я понимаю.
+u: Итак, если нам придется идти на компромиссы, то заработок денег будет менее важным, чем остальные пункты.
 
 
-j-bl-priorities: "Interesting. How should I order them based on their importance?"
-j-bl-nopriority: "I understand, but we don't need that information for running the project -- it's more about operating the end product."
+j-bl-priorities: "Интересно. Как мне выстроить их в зависимости от их важности?"
+j-bl-nopriority: "Я понимаю, но нам не нужна эта информация для запуска проекта -- это больше об управлении конечным продуктом."
 
 
 # testing comments

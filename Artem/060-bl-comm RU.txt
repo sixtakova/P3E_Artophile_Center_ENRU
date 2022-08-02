@@ -1,38 +1,38 @@
 
-u: OK, Didi, the first thing I want to talk about is the budget.
-u: What the board has decided is actually 800 artopools as the target, which can go up to 1,000 artopools if it's justified.
-u: So, 1,000 is the maximum, not the target.
-i: I see.
-i: Let me fix that.
-i: I've also noticed that I need to add you to the list of stakeholders.
+u: Так, Диди, во-первых я хочу поговорить о бюджете.
+u: Совет директоров решил, что на самом деле наша цель - это 800 артопулов, которые могут быть увеличены до 1.000 артопулов, если это будет оправдано.
+u: Итого, 1.000 это максимум, а не цель.
+i: Я понял.
+i: Давайте я исправлю.
+i: Я также заметил, что мне надо добавить вас в список стейкхолдеров.
 
 d---
-**Project Description V0.3 (draft)**
-Artophile Center
+**Резюме Проекта V0.3 (черновик)**
+Артофил Центр
 
-**Purpose and expected benefits:**
-* Promoting the company
-* Helping the community
-* Earning money (directly)
-* Having a convenient place for our own events
+**Цель и ожидаемые выгоды:**
+* Продвижение компании
+* Помощь сообществу
+* Зарабатывание денег (непосредственно)
+* Наличие удобного помещения для наших собственных мероприятий
 
-**Expected cost and duration:**
-* 12 months
-* 800 artopools (+200 artopools as management reserve)
+**Ожидаемые затраты и продолжительность:**
+* 12 месяцев
+* 800 артопулов (+200 артопулов в качестве управленческого резерва)
 
-**Requirements and quality expectations:**
-* (to be defined)
+**Требования и ожидания по качеству:**
+* (должны быть определены)
 
-**Stakeholders:**
-* Eris: CEO
-* Anan: project sponsor, director of the sales and marketing department
-* Didi: project manager
-* Imani: director of the design department
-* Sasha: team member, sales and marketing department staff
+**Стекхолдеры:**
+* Эрис: CEO
+* Анан: спонсор проекта, директор отдела продаж и маркетинга
+* Диди: менеджер проекта
+* Имани: директор отдела дизайна
+* Саша: член команды, сотрудник отдела продаж и маркетинга
 ---d
 
 
-j-bl-more: "Anything else?"
-j-bl-more: "How about the benefits? Are they OK?"
+j-bl-more: "Что-нибудь еще?"
+j-bl-more: "Что насчет выгод проекта? С ними все OK?"
 
 

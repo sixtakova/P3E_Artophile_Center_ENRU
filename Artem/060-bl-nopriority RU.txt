@@ -1,9 +1,9 @@
 
-u: Are you sure, Didi?
-u: What if you have to make a decision during the project that increases the chances of renting out the center but lowers the chances of promoting us as a pioneer in the industry?
+u: Вы уверены, Диди?
+u: Что, если во время проекта вам придется принять решение, которое повысит шанс сдачи центра в аренду, но понизит шансы на продвижение нашей компании, как пионера отрасли?
 
 
-j-bl-priorities: "You're right; we're going to need that information."
-j-bl-pno: "Decisions like that are supposed to be escalated to Anan, and then Anan will decide how to manage them."
+j-bl-priorities: "Вы правы, нам понадобится эта информация."
+j-bl-pno: "Решения, подобные этому, должны передаваться Анану, и уже он решит, что с этим делать."
 
 

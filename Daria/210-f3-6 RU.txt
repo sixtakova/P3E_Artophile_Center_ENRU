@@ -1,19 +1,19 @@
 
-u: That was all.
-u: Well done Didi, you've done a great job on this project.
-i: Thanks for your help, Tiam. I've learned a lot from you.
-u: No problem.
-u: I've learned from you as well.
-i: I'll send you the link to the Health Register to store the results of the peer review.
-u: OK.
-i: By the way, did you know that Berty is retired?!
-u: Yes!
-u: I'm waiting for the next time-travel agent to contact me.
-i: So, no contact yet?
-u: Not yet.
-i: Well... we'll see.
+u: Это все.
+u: Отлично, Диди, вы проделали большую работу над этим проектом.
+i: Спасибо вам за помощь, Тиам. Я многому у вас научилась.
+u: Нет проблем.
+u: Я тоже научился чему-то новому у вас.
+i: Я пришлю вам ссылку на реестр "Здоровье проекта", чтобы сохранить результаты ревью.
+u: Хорошо.
+i: Кстати, вы знали, что Берти вышел на пенсию?!
+u: Да!
+u: Я жду, когда со мной свяжется следующий путешественник во времени.
+i: Пока никто не связывался?
+u: Пока нет.
+i: Что ж... увидим.
 
 
-j-f4-1: Go to F04.
+j-f4-1: Перейти к F04.
 
 

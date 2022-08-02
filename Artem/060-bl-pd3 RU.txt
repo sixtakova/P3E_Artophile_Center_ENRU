@@ -1,33 +1,33 @@
 
-i: OK, Sasha, this is what we've got...
+i: OK, Саша, вот что у нас получилось...
 
 d---
-**Project Description V0.4 (draft)**
-Artophile Center
+**Резюме Проекта V0.4 (черновик)**
+Артофил Центр
 
-**Purpose and expected benefits:**
-░░░░██████ Promoting the company
-░░░░░░░░██ Helping the community
-░░░░░░░░░█ Earning money (directly)
-░░░░░░░░░█ Having a convenient place for our own events
+**Цель и ожидаемые выгоды:**
+░░░░██████ Продвижение компании
+░░░░░░░░██ Помощь сообществу
+░░░░░░░░░█ Зарабатывание денег (непосредственно)
+░░░░░░░░░█ Наличие удобного помещения для наших собственных мероприятий
 
-**Expected cost and duration:**
-* 12 months
-* 800 artopools (+200 artopools as management reserve)
+**Ожидаемые затраты и продолжительность:**
+* 12 месяцев
+* 800 артопулов (+200 артопулов в качестве управленческого резерва)
 
-**Requirements and quality expectations:**
-* (to be defined)
+**Требования и ожидания по качеству:**
+* (должны быть определены)
 
-**Stakeholders:**
-* Eris: CEO
-* Anan: project sponsor, director of the sales and marketing department
-* Didi: project manager
-* Imani: director of the design department
-* Sasha: team member, sales and marketing department staff
+**Стекхолдеры:**
+* Эрис: CEO
+* Анан: спонсор проекта, директор отдела продаж и маркетинга
+* Диди: менеджер проекта
+* Имани: директор отдела дизайна
+* Саша: член команды, сотрудник отдела продаж и маркетинга
 ---d
 
 
-j-bl-check: "So, please check it with Anan and the other decision makers and let me know."
-j-bl-check: "I'm looking forward to knowing what Anan thinks about it."
+j-bl-check: "Пожалуйста, проверьте это с Ананом и другими лицами, принимающими решения, и дайте мне знать."
+j-bl-check: "Буду с нетерпением ждать, чтобы узнать, что об этом думает Анан."
 
 

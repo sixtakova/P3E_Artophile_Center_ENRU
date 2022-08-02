@@ -1,9 +1,9 @@
 
-u: Sure.
-u: I'll do that.
+u: Конечно.
+u: Я сделаю это.
 
 
-j-back1: "OK, it was nice meeting you, Sasha. Talk to you soon."
-j-back1: "I have to go now. Talk to you soon."
+j-back1: "Отлично, было приятно познакомиться, Саша. До скорого."
+j-back1: "Мне пора идти. До скорого."
 
 

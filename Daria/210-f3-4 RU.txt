@@ -1,25 +1,25 @@
 
-s: The next day
-u: So, Didi, everything seems fine to me.
-u: Your documents are very well structured, and I like the way you managed the trends in your project's health.
-i: Thanks.
-u: I assume you've handed over the product already, haven't you?
-i: Yes, I have.
-i: They appointed Kyung, and we spent 5 days on the hand-over.
-i: It's all done without any issues.
-u: So, has the whole product been accepted?
-i: Yes.
-u: Where are the hand-over and acceptance documented?
-i: Hmm...
-i: We did it orally.
-u: You need to ask for written approval.
-u: Think of it like this: What if something goes wrong in 5 years, and Kyung is long retired and uncontactable.
-u: How would you show that you've done your work properly?
-i: You're right.
-i: I'll do that.
+s: На следующий день
+u: Итак, Диди, мне кажется все в порядке.
+u: Ваши документы очень хорошо структурированы, и мне нравится, как вы управляли тенденциями в реестре "Здоровье проекта".
+i: Спасибо.
+u: Я полагаю, вы уже передали продукт, верно?
+i: Да, передала.
+i: На эту роль был назначен Кьюнг, и мы потратили 5 дней на передачу продукта.
+i: Все прошло без проблем.
+u: Получается, продукт был полностью принят?
+i: Да.
+u: Где зафискированы процессы передачи и принятия?
+i: Хмм...
+i: Мы зафиксировали это устно.
+u: Вам необходимо запросить письменное подтверждение.
+u: Подумайте об этом с такой точки зрения: что, если через 5 лет что-то пойдет не так, и окажется, что Кьюнг давно оставил работу и недоступен для связи?
+u: Как вы докажете, что вы выполнили свою работу должным образом?
+i: Вы правы.
+i: Я так и сделаю.
 
 
-j-f3-5: "Any other comments?"
-j-f3-5: "Anything else?"
+j-f3-5: "Есть еще комментарии?"
+j-f3-5: "Что-нибудь еще?"
 
 

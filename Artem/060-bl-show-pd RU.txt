@@ -1,32 +1,32 @@
 
-i: Here it is...
+i: Вот оно...
 
 d---
-**Project Description V0.2 (draft)**
-Artophile Center
+**Резюме Проекта V0.2 (черновик)**
+Артофил Центр
 
-**Purpose and expected benefits:**
-* Promoting the company
-* Helping the community
-* Earning money (directly)
-* Having a convenient place for our own events
+**Цель и ожидаемые выгоды:**
+* Продвижение компании
+* Помощь сообществу
+* Зарабатывание денег (непосредственно)
+* Наличие удобного помещения для наших собственных мероприятий
 
-**Expected cost and duration:**
-* 12 months
-* 1,000 artopools
+**Ожидаемые затраты и продолжительность:**
+* 12 месяцев
+* 1.000 артопулов
 
-**Requirements and quality expectations:**
-* (to be defined)
+**Требования и ожидания по качеству:**
+* (должны быть определены)
 
-**Stakeholders:**
-* Eris: CEO
-* Anan: project sponsor, director of the sales and marketing department
-* Didi: project manager
-* Imani: director of the design department
+**Стекхолдеры:**
+* Эрис: CEO
+* Анан: спонсор проекта, директор отдела продаж и маркетинга
+* Диди: менеджер проекта
+* Имани: директор отдела дизайна
 ---d
 
 
-j-bl-comm: "What do you think about it?"
-j-bl-comm: "Do you have any comments?"
+j-bl-comm: "Что вы об этом думаете?"
+j-bl-comm: "У вас есть какие-либо комментарии?"
 
 

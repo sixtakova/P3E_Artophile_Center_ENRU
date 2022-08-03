@@ -1,15 +1,15 @@
 
-q: Let's send a copy to Anan as well!
+q: Давайте также отправим копию Анану!
 
 e---
-Hi Anan,
-We're done preparing the initial Deliverables Map of the project. It's attached for your information.
+Добрый день, Анан,
+Мы закончили с подготовкой первоначальной Карты результатов проекта. Для вашего сведения она находится во вложении.
 
-Regards,
-Didi
+С уважением,
+Диди
 ---e
 
 
-j-dmc3-3: Send
+j-dmc3-3: Отправить
 
 

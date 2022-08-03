@@ -1,9 +1,9 @@
 
-q: OK, I should think of a place, set an agenda, arrange a proper time when everyone can attend, and make sure they remember to attend the meeting.
-q: Wow, that's a lot of work!
-q: I really don't have to do it alone...
+q: Итак, мне стоит подумать о месте проведения, программе, выбрать оптимальное время, чтобы все могли принять участие, и напомнить всем приглашённым о встрече.
+q: Ого, это куча работы!
+q: И я не обязана делать это самостоятельно...
 
 
-j-a09-2-mirai: Ask Mirai for help.
+j-a09-2-mirai: Попросить Мирая о помощи.
 
 

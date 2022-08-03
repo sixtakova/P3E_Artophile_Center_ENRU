@@ -1,45 +1,45 @@
 
-q: OK, here's the updated version...
+q: OK, вот обновленная версия...
 
 d---
-**Project Description V2**
-Artophile Center
-**Purpose and expected benefits:**
-░░░░░█████ Promoting the company
-░░░░░░░███ Helping the community
-░░░░░░░░░█ Earning money (directly)
-░░░░░░░░░█ Having a convenient place for our own events
+**Описание проекта V2**
+Артофил Центр
+**Цель и ожидаемые выгоды:**
+░░░░░█████ Продвижение компании
+░░░░░░░███ Помощь сообществу
+░░░░░░░░░█ Зарабатывание денег (напрямую)
+░░░░░░░░░█ Наличие удобного места для наших собственных мероприятий
 
-**Expected cost and duration:**
-* 17 months
-* 965 artopools
+**Ожидаемые стоимость и срок реализации:**
+* 17 месяцев
+* 965 артопулов
 
-**Requirements and quality expectations:**
-* Have capacity for 600 attendees.
-* Have an exceptional exterior that will turn it into a landmark building.
-* Be suitable for both business and artistic/cultural events.
-* Have a simple interior that can be adapted for various events.
-* (more...)
+**Требования и ожидания по качеству:**
+* Вмещает 600 посетителей.
+* Имеет исключительный внешний вид, который превратит его в знаковое здание.
+* Подходит как для бизнеса, так и для художественных/культурных мероприятий.
+* Имеет простой интерьер, который может быть адаптирован под различные мероприятия.
+* (еще...)
 
-**Stakeholders:**
-* Eris: CEO
-* Anan: project sponsor, director of the sales and marketing department
-* Didi: project manager
-* Imani: director of the design department
-* Sasha: team member, sales and marketing department staff
-* Azar: team member, design department staff
-* Eka: director of the mechanical engineering department
-* Darci: director of the electrical engineering department
-* Kim: team member, mechanical engineer
-* Monet: team member, electrical engineer
-* Mirai: team member (intern), project management team
-* Tiam: peer-reviewer for project initiation
+**Стейкхолдеры:**
+* Эрис: CEO
+* Анан: спонсор проекта, директор отдела продаж и маркетинга
+* Диди: менеджер проекта
+* Имани: директор отдела проектирования
+* Саша: член команды, сотрудник отдела продаж и маркетинга
+* Азар: член команды, сотрудник отдела проектирования
+* Эка: директор конструкторского отдела
+* Дарси: директор электротехнического отдела
+* Ким: член команды, инженер-конструктор
+* Монет: член команды, инженер-электротехник
+* Мирай: член команды (стажер), команда управления проектом
+* Тиам: ревьюер запуска проекта
 ---d
 
-q: Should I ask Anan for approval?
+q: Должен ли я спросить одобрение Анана?
 
 
-j-a08-5yy: Yes
-j-a08-5yn: No
+j-a08-5yy: Да
+j-a08-5yn: НЕт
 
 

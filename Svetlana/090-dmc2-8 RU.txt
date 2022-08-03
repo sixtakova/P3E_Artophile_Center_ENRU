@@ -1,53 +1,53 @@
 
-i: It's a hierarchical map of the deliverables in the project.
-i: We usually use a mind map to visualize it, because that makes it easier.
-i: See, this is what we have at the moment for this project...
+i: Это иерархическая карта результатов проекта.
+i: Мы обычно используем диаграмму связей для визуализации, потому что это облегчает задачу. 
+i: Посмотрите, это то, что у нас есть по этому проекту на данный момент... 
 
 t---
 start-textree
-= Artophile Center
-== Site mobilization
-== Demolition of the warehouse
-== The building
-=== Main hall
-==== Floor …
-==== Walls …
-==== Ceiling
-==== Furniture
-=== Information room
-=== Storage room
-=== Conference room #3
+= Артофил Центр
+== Подготовка строительной площадки
+== Снос склада
+== Здание
+=== Главный холл
+==== Пол …
+==== Стены …
+==== Перекрытие
+==== Мебель
+=== Справочная
+=== Кладовка
+=== Конференц-зал #3
 === WC #2
-=== Utility room
-=== IT room
-=== Conference room #2
-=== Administration room
-=== Conference room #1
+=== Подсобное помещение
+=== Серверная
+=== Конференц-зал #2
+=== Комната администрации
+=== Конференц-зал #1
 === WC #1
-=== Meeting room #1
-=== Meeting room #2
-=== Security room
-== Surroundings
-=== Parking lot
-=== Driveways and walkways
-=== Gardens
+=== Переговорная #1
+=== Переговорная #2
+=== Комната охраны
+== Прилегающая территория
+=== Парковка
+=== Проезды и тротуары
+=== Скверы
 end-textree
 ---t
 
-i: It means that we have 4 major deliverables for the project, although they don't all have the same size and level of importance.
-i: Then, 'the building' and the 'surroundings' are broken down into smaller deliverables, and each of those into smaller ones.
-i: This gives us an understanding of what is needed in the project.
-u: I understand, Didi.
-u: I've seen a similar thing, but it had a different name...
-u: I think they used to call it a Work Breakdown Structure.
-i: Correct, that's practically the same thing.
-i: Although most people use activities, disciplines, and other things in their Work Breakdown Structure instead of deliverables, even though it's necessary for a Work Breakdown Structure to be deliverable-based.
-i: That's why we use the name Deliverables Map to avoid that confusion.
-u: I see.
-u: Good choice.
+i: Это означает, что у нас есть 4 основных результата в проекте, хотя, они не все имеют одинаковый размер и уровень важности.
+i: Затем, 'здание' и 'прилегающая территория' разбиваются на более мелкие результаты, и каждый из них еще на более мелкие.
+i: Это дает нам понимание, что необходимо в этом проекте. 
+u: Я понимаю, Диди.
+u: Я видела похожее, но оно называлось по-другому...
+u: Мне кажется, это называлось Иерархическая структура работ.
+i: Правильно, это практически одно и то же. 
+i: Хотя большинство людей используют мероприятия, предметы и другие элементы в своих Иерархических структурах работ вместо результатов, не смотря на то, что Иерархическая структура работ должна основываться на результатах. 
+i: Поэтому мы используем название - Карта результатов, чтобы избежать путаницы. 
+u: Я понимаю.
+u: Хороший выбор.
 
 
-j-dmc2-9: "So, what electrical deliverables do we have in this project?"
-j-dmc2-9: "Can you tell me about the electrical aspects of the project?"
+j-dmc2-9: "Итак, какие результаты по электротехнике у нас в этом проекте?"
+j-dmc2-9: "Не могли бы вы рассказать об электротехнических аспектах проекта? "
 
 

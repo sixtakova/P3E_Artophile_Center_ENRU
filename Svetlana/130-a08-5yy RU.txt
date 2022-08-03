@@ -1,10 +1,10 @@
 
-q: Well, Project Description is important and high-level, and the sponsor should approve it.
-q: Although... now that I think about it, Anan already approved these changes when approving the project!
-q: I don't need to ask for approval again.
+q: Что ж, Описание проекта важно и на высоком уровне, и спонсор должен одобрить его. 
+q: Хотя... сейчас, когда я думаю об этом, Анан уже одобрил эти изменения, когда одобрил проект!
+q: Мне не нужно снова просить одобрения.
 
 
-j-a09-1-close: Let's close project initiation.
-j-a09-1-kickoff: Let's plan the kick off meeting.
+j-a09-1-close: Давайте завершим запуск проекта.
+j-a09-1-kickoff: Давайте запланируем стартовую встречу проекта.
 
 

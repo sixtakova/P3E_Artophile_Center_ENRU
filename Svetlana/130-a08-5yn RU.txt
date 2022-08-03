@@ -1,9 +1,9 @@
 
-q: Of course I don't!
-q: Anan has already approved the project with these changes. I'm just updating the document with the approved changes.
+q: Конечно я не должен!
+q: Анан уже одобрил проект с этими изменениями. Я просто обновляю документ с уже одобренными изменениями.
 
 
-j-a09-1-close: Let's close project initiation.
-j-a09-1-kickoff: Let's plan the kick off meeting.
+j-a09-1-close: Давайте завершим запуск проекта. 
+j-a09-1-kickoff: Давайте запланируем стартовую встречу проекта. 
 
 

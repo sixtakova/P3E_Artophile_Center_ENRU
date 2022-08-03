@@ -1,14 +1,14 @@
 
-q: OK, my first meeting is with Monet, and it's... oh, time passes so quickly - it's in a few minutes from now!
-s: Meeting with Monet
-u: Hi Didi!
-i: Hi Monet, how are you?
-u: Fine, fine.
-u: So, I read the Project Description. 
-u: How can I help you with the Deliverables Map; and more importantly, what is a Deliverables Map?!
+q: OK, моя первая встреча с Монет, и она... о, время бежит так быстро - уже через несколько минут!
+s: Встреча с Монет
+u: Добрый день, Диди!
+i: Добрый день, Монет, как вы?
+u: Хорошо, хорошо.
+u: Итак, я прочитала Описание проекта. 
+u: Как я могу помочь с Картой результатов; и что более важно, что такое Карта результатов?! 
 
 
-j-dmc2-8: Give a short explanation.
-j-dmc2-8: Give a long explanation.
+j-dmc2-8: Дать краткое объяснение.
+j-dmc2-8: Дать длинное объяснение.
 
 

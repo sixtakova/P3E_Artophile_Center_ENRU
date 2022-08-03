@@ -1,10 +1,10 @@
 
-q: So, the Project Description has already been finalized, and therefore I shouldn't change it!
-q: Ha... that was funny :>
-q: Of course I can change it...
-q: I should change it, otherwise it won't be useful anymore.
+q: Итак, Описание проекта уже было завершено, поэтому мне не следует менять его!
+q: Ха... Это было забавно :>
+q: Конечно я могу его менять...
+q: Я должен изменить его, иначе, он будет бесполезен. 
 
 
-j-a08-5y: Update the Project Description.
+j-a08-5y: Обновить Описание проекта.
 
 

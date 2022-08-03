@@ -1,27 +1,26 @@
 
-s: A little later in front of Eka's office
-q: Alright, that should be Eka's office...
-i: Hi Eka!
-u: Didi, how can I help you?
-i: We just talked, and you told me I could come here if I needed help with the mechanical aspects of the project.
-u: Yes, but I didn't mean right now.
-u: Everyone is busy at the moment.
-i: When is a good time?
-u: We have a deadline in 3 weeks.
-u: It will be fine after that.
-i: But that's too long.
-i: Could we make it sooner?
-u: As I told you, we're busy with serious projects, and I can't spend my resources on a project that is not even approved and may never happen.
-u: Now, if you don't mind, I have to get back to work.
-q: What a nice person!
-q: I'll just leave...
-q: I don't know what to do about it.
-q: I can proceed with the electrical engineering part, but 3 weeks is a long time.
-q: I can't hold everything until then.
-q: If only I had more power to *encourage* Eka to help me!
+s: Чуть позже, перед офисом Эки
+q: Хорошо, это, должно быть, офис Эки... 
+i: Добрый день, Эка!
+u: Диди, чем могу помочь?
+i: Мы только что разговаривали, и вы сказали мне, что я могу подойти, если мне нужная помощь с конструкторскими аспектами проекта.
+u: Да, но я не имела в виду прямо сейчас.
+u: В данный момент все заняты.
+i: А когда будет удобно?
+u: У нас дедлайн через 3 недели.
+u: Лучше всего - после него.
+i: Но это слишком долго.
+i: Можем ли мы сделать это раньше?
+u: Как я вам говорила, мы заняты серьезными проектами, и я не могу тратить свои ресурсы на проект, который даже не утвержден и может никогда не состояться.
+u: А сейчас, если вы не против, мне нужно вернуться к работе. 
+q: Я просто уйду... 
+q: Я не знаю, что с этим делать.
+q: Я могу продолжать с электротехнической частью, но 3 недели - это долгий срок.
+q: Я не могу задержать все на это время.
+q: Если бы тольуо у меня было больше сил *побудить* Эку помочь мне!
 
 
-j-dmc2-direct-nos-eris: Call Eris and ask for help.
-j-dmc2-anan: Call Anan and ask for help.
+j-dmc2-direct-nos-eris: Позвонить Эрис и попросить о помощи.
+j-dmc2-anan: Позвонить Анану и попросить о помощи.
 
 

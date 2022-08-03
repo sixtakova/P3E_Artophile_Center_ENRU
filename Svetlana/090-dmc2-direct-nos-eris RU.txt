@@ -1,20 +1,20 @@
 
-s: On the phone
-u: Hello, Eris speaking.
-i: Hi Eris, this is Didi.
-u: Hi Didi, how's it going?
-i: Fine, thanks. We're working on the project.
-i: In the meanwhile, I need a mechanical engineer for the project, and Eka doesn't seem at all cooperative.
-i: Is there anything you can do about it?
-u: Wasn't it you who told me that each project should have a sponsor and that one of the sponsor's responsibilities is to get resources for the project?
-i: Yes!
-u: And I found you a sponsor.
-u: So, why are you calling me for this?
+s: По телефону
+u: Добрый день, говорит Эрис.
+i: Добрый день, Эрис, это - Диди.
+u: Добрый день, Диди, Как все идет?
+i: Спасибо, хорошо. Мы работаем над этим проектом.
+i: Тем временем, мне нужен инженер-конструктор для проекта, а Эка, похоже, совсем не хочет сотрудничать.
+i: Вы можете с этим что-то с этим сделать?
+u: Не вы ли говорили мне, что у каждого проекта должен быть спонсор, и что одна из обязанностей спонсора - получить ресурсы для проекта?
+i: Да!
+u: И я нашла вам спонсора.
+u: Итак, почему же вы звоните?
 
 
-j-dmc2-direct-nos-eris-2: "Sorry, wrong number!"
-j-dmc2-direct-nos-eris-2: "There are too many names and I sometimes mix them up. I really meant to call the sponsor, Anan."
-j-dmc2-direct-nos-eris-2: "Sure, I'll call Anan right away."
-j-dmc2-direct-nos-eris-2: "You're right. I think I may be too tired right now. Sorry for bothering you."
+j-dmc2-direct-nos-eris-2: "Извините, ошиблась номером!"
+j-dmc2-direct-nos-eris-2: "Слишком много имен, и я иногда путаю их. Я правда собиралась позвонить спонсору, Анану."
+j-dmc2-direct-nos-eris-2: "Конечно, я позвоню Анану прямо сейчас."
+j-dmc2-direct-nos-eris-2: "Вы правы. Я думаю, что возможно сейчас я слишком устала. Простите за беспокойство."
 
 

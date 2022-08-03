@@ -1,10 +1,10 @@
 
-q: OK, now the team members know the good news.
-q: I wonder how many people there will be in the final team!
-q: By the way, I just remembered the new time and duration we've set for the project...
+q: OK, теперь все члены команды знают хорошие новости.
+q: Интересно, сколько человек будет в финальной команде!
+q: Кстати, я только что вспомнила новом сроке реализации, которые мы установили для проекта... 
 
 
-j-a08-5n: Update the Project Description. 
-j-a08-5n: Don't update the Project Description because it has been finalized.
+j-a08-5n: Обновить Описание проекта.
+j-a08-5n: Не обновлять Описание проекта, потому что оно уже было завершено.
 
 

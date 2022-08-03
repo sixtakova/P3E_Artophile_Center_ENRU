@@ -1,12 +1,12 @@
 
-u: Yes, Didi, how can I help you?
-i: It's time to plan our kick-off meeting, Mirai.
-u: Great!
-i: We need to arrange a date, think of a place, set an agenda, invite everyone, and make sure they can attend.
-u: Who should attend it?
+u: Да, Диди, как я могу помочь?
+i: Мирай, пришло время подготовить стартовую встречу проекта.
+u: Отлично!
+i: Нам нужно выбрать день, подумать о месте проведения, программе, пригласить всех и убедиться, что все могут принять участие.
+u: Кто должен присутствовать?
 
 
-j-a09-3-team: The team members
-j-a09-3-all: The team members and the executives/managers
+j-a09-3-team: Участники команды проекта
+j-a09-3-all: Участники команды проекта и менеджмент / руководство
 
 

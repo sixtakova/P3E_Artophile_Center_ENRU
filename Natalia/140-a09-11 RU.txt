@@ -1,17 +1,17 @@
 
-s: The day after the kick-off meeting
+s: День после стартовой встречи проекта
 
 e---
-Hi Didi,
-Well done with the kick-off meeting. I've never been to such a kick-off meeting before - both pleasant and effective. Having a barbeque was a wild idea that I could never have imagined would work so well!
-You really improved our image among the board. It will be easier to get their support in the future.
+Добрый день, Диди,
+Поздравляю с удачным стартом проекта! Мне никогда не приходилось раньше бывать на подобной стартовой встрече проекта - одновременно приятной и эффективной. Шашлыки - сумасшедшая идея, я и представить не мог, что она сработает так хорошо!
+Вам удалось существенно укрепить репутацию в совете директоров. Теперь будет проще получить их поддержку в будущем.
 
-Regards,
-Anan
+С уважением,
+Анан
 ---e
 
 
-j-a09-12-self: Thank Anan.
-j-a09-12-mirai: Thank Anan and give credit to Mirai.
+j-a09-12-self: Поблагодарить Анана.
+j-a09-12-mirai: Поблагодарить Анана и сообщить о роли Мирая.
 
 

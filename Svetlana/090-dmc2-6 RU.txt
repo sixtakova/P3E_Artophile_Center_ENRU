@@ -1,26 +1,26 @@
 
 e---
-Hi Didi,
-I'm glad to be part of this project. I don't have a busy day today, so we can meet any time you like.
+Добрый день, Диди,
+Я рада быть частью этого проекта. У меня сегодня не очень загруженный день, поэтому мы можем встретиться в любое удобное для вас время.
 
-Regards,
-Monet
+С уважением,
+Монет
 ---e
 
-q: Good... that makes it easy.
-q: Oh, here's Kim...
+q: Хорошо... это упрощает задачу.
+q: О, а вот и Ким...
 
 e---
-Hi Didi,
-It's a little hectic in our department these days, but I think I can open up an hour at the end of today.
+Добрый день, Диди,
+В настоящее время у нас в отделе немного неспокойно, но я думаю, в конце дня смогу освободить час.
 
-Regards,
-Kim
+С уважением,
+Ким
 ---e
 
-q: Alright, I can meet both of them today.
+q: Хорошо, я могу встретиться с ними обоими сегодня.
 
 
-j-dmc2-7: Reply to both emails.
+j-dmc2-7: Ответить на оба письма.
 
 

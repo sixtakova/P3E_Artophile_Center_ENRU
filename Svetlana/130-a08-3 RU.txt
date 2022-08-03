@@ -1,20 +1,20 @@
 
-s: The next day
+s: На следующий день
 
 e---
-Hi Didi,
-Congratulations, the project is approved and you can proceed.
-The selected option is self-colored concrete (965 artopools) and 17 months.
-Good luck!
+Добрый день, Диди,
+Поздравляю, проект одобрен и вы можете приступать к работе.
+Выбрали вариант - с окрашенным в массе бетоном (965 артопулов) и 17 месяцев. 
+Удачи!
 
-Regards,
-Anan
+С уважением,
+Анан
 ---e
 
-q: Wow, great!
+q: Вау, здорово!
 
 
-j-a08-4: Send an email to all the team members to tell them the news!
-j-a08-4: Call each team member to share the news!
+j-a08-4: Отправить письмо всем членам команды, чтобы сообщить новости!
+j-a08-4: Позвонить каждому члену команды, чтобы поделиться новостями! 
 
 

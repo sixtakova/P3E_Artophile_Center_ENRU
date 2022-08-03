@@ -1,16 +1,16 @@
 
-u: I presume you don't ask Anan to make every decision for you.
-u: How do you decide when to escalate them?
-i: You're right.
-i: Only the important decisions, and especially those that have an impact on benefits, will be escalated to the sponsor.
-u: So, if there's a decision with a limited impact on a low-priority benefit, you may not escalate it, but if it has a limited impact on a sensitive expected benefit, you will.
-u: Is that correct?
-i: I see what you mean.
-i: That's correct.
-i: We need to know the priorities to understand when something is important enough to be escalated.
+u: Я полагаю, что вы не будете просить Анана принимать каждое решение за вас.
+u: Тогда как вы будете определять, какие решения передавать наверх, а какие нет?
+i: Вы правы.
+i: Спонсору необходимо передавать только важные решения, и в особенности те, что непосредственно влияют на выгоды.
+u: Таким образом, если есть решения, влияющие на выгоду с низким приоритетом, вы вполне можете принять их сами. Но если решения имеют определенное воздействие на чувствительную и ожидаемую выгоду, то вы должны передать их наверх.
+u: Это правильно?
+i: Я понимаю, что вы имеете ввиду.
+i: Да, это правильно.
+i: Нам необходимо знать приоритеты, чтобы понимать, когда появляется нечто достаточно важное для передачи наверх.
 
 
-j-bl-priorities: "Can you tell me about the priorities?"
-j-bl-priorities: "What do you think about the priorities, then?"
+j-bl-priorities: "Могли бы вы рассказать мне о приоритетах?"
+j-bl-priorities: "В таком случае, что вы думаете о приоритетах?"
 
 

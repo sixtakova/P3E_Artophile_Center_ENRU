@@ -1,20 +1,19 @@
 
-i: Only the team, Mirai.
-u: Didi, I just remembered this item from the Follow-Up Register...
+i: Только участники команды проекта, Мирай.
+u: Диди, мне пришёл в голову один пункт из реестра последующих действий...
 
 f---
-**Cause:**      This project doesn't have an external customer.
-**Effect:**     Internal departments may give priority to projects with external customers (to keep the customers satisfied), and as a result, ignore this project.
-**Impact:**     The project may be finished a lot later than expected and be of low quality.
-**Response:**   Strong sponsorship / continuous monitoring of the situation / getting all executives involved in the project
-**Custodian:**  Anan
-**Status:**     open
+**Причина:**      У проекта нет внешнего заказчика.
+**Следствие:**     Внутренние отделы могут отдать предпочтение проектам для внешних заказчиков (чтобы заказчики были довольны), следовательно, игнорировать задачи этого проекта.
+**Влияние:**     Проект может быть завершён существенно позже ожидаемого срока или выполнен с низким качеством.
+**Действие:**   Сильное спонсорство / непрерывный мониторинг ситуации / вовлечение всех руководителей в выполнение проекта
+**Ответственный:**  Анан
+**Статус:**     открыт
 ---f
 
-u: Wouldn't it contribute to the mitigation of this risk if we invited all executives and managers to the meeting, Didi?
+u: Не позволит ли приглашение всех менеджеров и руководителей на стартовйю встречу проекта снизить этот риск, Диди?
 
-
-j-a09-4-team: Yes
-j-a09-4-team: Maybe
+j-a09-4-team: Да
+j-a09-4-team: Возможно
 
 

@@ -1,23 +1,23 @@
 
-i: The team members, obviously, and also as many executives and managers as possible.
-u: I thought it was only for the internal team, Didi.
-i: It's about the stakeholders, which goes beyond the internal stakeholders.
-i: It's about creating understanding and gaining support; we'll need most of those executives and managers to help us later on.
-u: Now that you mention it, Didi, I've remembered this item from the Follow-Up Register...
+i: Участики команды проекта, очевидно, и также все руководители, которые смогут присутствовать.
+u: Мне казалось, что в число участников входит только проектная команда, Диди.
+i: Речь о стейкхолдерах, которые не ограничиваются внутренними стейкхолдерами.
+i: Речь о формировании общего понимания и получении поддержки; в дальнейшем нам потребуется помощь большинства руководителей.
+u: Теперь, когда вы об этом говорите, Диди, я вспоминаю о реестре последующих действий...
 
 f---
-**Cause:**      This project doesn't have an external customer.
-**Effect:**     Internal departments may give priority to projects with external customers (to keep the customers satisfied), and as a result, ignore this project.
-**Impact:**     The project may be finished a lot later than expected and be of low quality.
-**Response:**   Strong sponsorship / continuous monitoring of the situation / getting all executives involved in the project
-**Custodian:**  Anan
-**Status:**     open
+**Причина:**      У проекта нет внешнего заказчика.
+**Следствие:**     Внутренние отделы могут отдать предпочтение проектам для внешних заказчиков (чтобы заказчики были довольны), следовательно, игнорировать задачи этого проекта.
+**Влияние:**     Проект может быть завершён существенно позже ожидаемого срока или выполнен с низким качеством.
+**Действие:**   Сильное спонсорство / непрерывный мониторинг ситуации / вовлечение всех руководителей в выполнение проекта
+**Ответственный:**  Анан
+**Статус:**     открыт
 ---f
 
-u: Didi, wouldn't you say that our strategy for the kick-off meeting will contribute to the mitigation of this risk?
+u: Диди, можно ли тогда сказать, что наша стратегия стартовой встречи проекта должна также способствовать снижению этого риска?
 
 
-j-a09-4-all: Yes
-j-a09-4-all: Maybe
+j-a09-4-all: Да
+j-a09-4-all: Возможно
 
 

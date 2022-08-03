@@ -1,10 +1,10 @@
 
-q: We have two more activities left from project initiation; A09 and A10.
-q: Let's start with A09, the project kick-off meeting.
+q: Осталось два шага стадии инициации проекта; A09 и A10.
+q: Начнём с шагом А09, стартовой встречи проекта.
 
 
-j-a09-2-mirai: Ask Mirai for help.
-j-a09-2-alone: Do it alone.
+j-a09-2-mirai: Попросить Мирая о помощи.
+j-a09-2-alone: Сделать самостоятельно.
 
 
 #%75

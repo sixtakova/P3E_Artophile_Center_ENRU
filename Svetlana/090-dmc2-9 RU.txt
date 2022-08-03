@@ -1,15 +1,15 @@
 
-u: Sure, Didi.
-u: I've seen the building's design, but it would be helpful to have a copy of it here...
-i: I have a copy; here you are...
+u: Конечно, Диди.
+u: Я посмотрела проект здания, но было бы полезно получить его копию... 
+i: У меня есть копия; вот она... 
 
 svg: building-plan
 
-u: Good, thanks.
-u: So, they may need special things in this project later, but what we typically need to have is lighting, a computer network, and an audio system for the music and public address systems.
+u: Хорошо, спасибо.
+u: Итак, позже могут потребоваться какие-то специальные предметы на проекте, но то, что обычно необходимо - это освещение, компьютерные сети, аудиосистема для музыки и системы громкой связи.
 
 
-j-dmc2-10: Add them to the map.
+j-dmc2-10: Добавить их на карту.
 
 
 #%55

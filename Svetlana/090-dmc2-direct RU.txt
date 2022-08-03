@@ -1,18 +1,18 @@
 
-q: Alright, let's start with the mechanical department.
-q: I'll call the director.
-u: Hello, Eka speaking.
-i: Hello Eka, this is Didi, calling about the Artophile Center project.
-u: Hi Didi.
-u: How can I help?
-i: We need to have a team member from your department.
-i: Can I ask you to appoint someone?
-i: It doesn't have to be a full-time appointment at this stage.
-u: This project is not approved yet, and so I can't appoint anyone to it.
-u: If you have any questions, you can come here and I'll ask one of our staff to help you.
+q: Хорошо, давайте начнем с конструкторского отдела. 
+q: Я позвоню директору.
+u: Добрый день, говорит Эка.
+i: Добрый день, Эка, это Диди, звоню по поводу проекта Артофил Центр.
+u: Добрый день, Диди.
+u: Как я могу помочь?
+i: Нам нужен человек в команду из вашего отдела.
+i: Могу ли я попросить вас назначить кого-нибудь?
+i: На данном этапе не требуется назначенный на полный рабочий день.
+u: Этот проект еще не утвержден, поэму я не могу никого назначить на него.
+u: Если у вас есть какие-либо вопросы, вы можете подойти сюда, и я попрошу одного из наших сотрудников помочь вам. 
 
 
-j-dmc2-direct-nos: Thank Eka and go there immediately.
-j-dmc2-direct-ss: Explain that the resource appointment should be made now.
+j-dmc2-direct-nos: Поблагодарить Эку и пойти туда немедленно. 
+j-dmc2-direct-ss: Объяснить, что сотрудник должен быть назначен сейчас. 
 
 

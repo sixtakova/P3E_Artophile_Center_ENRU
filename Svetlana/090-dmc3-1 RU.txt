@@ -1,15 +1,15 @@
 
 
 e---
-Hello everyone,
-Attached you can find a copy of the project's Deliverables Map. You're already familiar with it because of your contributions, but having the final copy will be helpful to you.
-We will refine and revise it throughout the project, at least once a month. However, whenever you come up with a potential adjustment or find a problem in it, feel free to let me know immediately.
+Приветствую всех,
+Во вложении вы можете найти копию Карты результатов проекта. Вы уже знакомы с ней, благодаря вашему содействию, но вам будет полезно иметь окончательную копию.
+Мы будем уточнять и пересматривать ее на протяжении всего проекта, по крайней мере, один раз в месяц. Однако, всякий раз, когда вы столкнетесь с потенциальной корректировкой или обнаружите проблему, не стесняйтесь немедленно сообщить мне об этом.
 
-Regards,
-Didi
+С уважением,
+Диди
 ---e
 
 
-j-dmc3-2: Send
+j-dmc3-2: Отправить
 
 

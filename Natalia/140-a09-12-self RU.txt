@@ -1,20 +1,20 @@
 
 ---e
-Hi Anan,
-Thanks for the feedback.
-I'll do my best for the project.
+Добрый день, Анан,
+Спасибо за обратную связь.
+Я сделаю для проекта всё, что в моих силах.
 
-Regards,
-Didi
+С уважением,
+Диди
 ---e
 
-s: The email has been sent.
-q: I don't feel good about my answer.
-q: I implied that it was all my idea, while it was really Mirai's.
-q: Of course, I was the one who wanted to have an outdoor program, and I was the one who...
-q: Oh, who am I kidding! It wasn't the right thing to do. I should have given Mirai credit.
+s: Письмо отправлено.
+q: Теперь мой ответ не кажется мне удачным.
+q: Я подразумеваю, что всё это было моей идеей, хотя реально всё придумал Мирай.
+q: Конечно, это мне пришло в голову провести встречу на свежем воздухе, и это я придумала, что...
+q: Да кого я обманываю! Это был не лучший ответ. Мне следовало рассказать о роли Мирая..
 
 
-j-a10-1: Think about the next step.
+j-a10-1: Подумать о следующем шаге.
 
 

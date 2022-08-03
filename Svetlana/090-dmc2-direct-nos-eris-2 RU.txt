@@ -1,8 +1,8 @@
 
-q: I don't know why I called Eris instead of Anan!
-q: I feel a little embarrassed... but never mind.
+q: Я не знаю, почему я позвонила Эрис вместо Анана!
+q: Чувствую себя немного неловко... но неважно.
 
 
-j-dmc2-anan: Contact Anan.
+j-dmc2-anan: Связаться с Ананом.
 
 

@@ -1,15 +1,15 @@
 
-q: Let's send Anan an email about it...
+q: Давайте отправим Анану письмо об этом... 
 
 e---
-Hi Anan,
-We seem to be at the point where I need to have mechanical and electrical engineers on the team. Could you help with that?
+Добрый день, Анан,
+Похоже, что мы находимся в точке, когда в команде нужны инженер-электротехник и инженер-конструктор. Не могли бы вы помочь с этим? 
 
-Regards,
-Didi
+С уважением,
+Диди
 ---e
 
 
-j-dmc2-2: Send
+j-dmc2-2: Отправить
 
 

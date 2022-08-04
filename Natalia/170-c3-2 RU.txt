@@ -1,7 +1,7 @@
 
-s: The kick-off meeting
-i: Thanks everyone for coming to the meeting.
-i: Here's our schedule, although, note that it's collapsed to show only the current cycle...
+s: Стартовая встреча проекта
+i: Спасибо всем, что нашли время и пришли на встречу.
+i: Вот график проекта, но обратите внимание, пожалуйста, что он сейчас свёрнут и в полной мере отображает только текущий цикл...
 
 g---
 start-ganttext
@@ -9,22 +9,21 @@ O-18
 o100
 m400
 M4000
-= Artophile Center ---
-== Site preparation ---
-=== Insurance                   @20-23
-=== Permissions                 @20-25
-=== Mobilization contract       @21-26
-=== Mobilization                @27-40
-== Demolition of the warehouse ---
-=== Demolition contract         @27-32
-=== Demolition                  @41-70
+= Артофил Центр ---
+== Подготовка площадки ---
+=== Страхование                   @20-23
+=== Разрешения                 @20-25
+=== Контракт на подготовку строительной площадки       @21-26
+=== Подготовка строительной площадки                @27-40
+== Снос склада ---
+=== Контракт на снос        @27-32
+=== Снос                  @41-70
 end-ganttext
 ---g
 
-i: Based on this, we need to be working on the insurance, permissions, and mobilization contract this week.
-i: As I have it here, I'm the custodian for insurance... Azar is the custodian for permissions, and Zia is the custodian for the mobilization contract.
+i: Исходя из этого, на этой неделе нам следует сосредоточиться на страховании, получении разрешений и подготовке контракта на подготовку строительной площадки.
+i: Согласно плану, я отвечаю за страхование... Азар - за получение разрешений, Зиа - за контракт на подготовку площадки.
 
-
-j-c3-3: "Azar, would you like to start?"
+j-c3-3: "Азар, не хотели бы вы начать?"
 
 

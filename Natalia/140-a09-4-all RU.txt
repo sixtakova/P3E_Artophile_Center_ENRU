@@ -1,10 +1,10 @@
 
-i: Yes, Mirai, it does.
-u: Didi, what do you think about making me the custodian of this item instead of Anan? 
-u: Then I can follow it up all the time; after all, Anan is not involved in the day-to-day work of the project.
+i: Да, Мирай, это будет полезно.
+u: Диди, что вы думаете насчёт того, чтобы сделать меня ответственным за это мероприятие вместо Анана?
+u: Я мог бы постоянно держать этот вопрос в фокусе внимания; кроме того, Анан не вовлечён в ежедневную работу по проекту.
 
 
-j-a09-5-yes: Yes
-j-a09-5-no: No
+j-a09-5-yes: Да
+j-a09-5-no: Нет
 
 

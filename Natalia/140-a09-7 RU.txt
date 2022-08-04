@@ -1,11 +1,11 @@
 
-u: So, Didi, I know who we should invite.
-u: I can send them a planner link to select their availabilities.
-i: Good.
-u: Should I also book a meeting room when the date is decided?
+u: Итак, Диди, я знаю, кого нам следует пригласить.
+u: Я могу отправить им ссылку для планирования, чтобы каждый мог выбрать возможное время.
+i: Хорошо.
+u: Стоит ли мне также забронировать переговорную, когда дата будет определена?
 
 
-j-a09-8-meetingroom: "Yes."
-j-a09-8-outdoors: "No!"
+j-a09-8-meetingroom: "Да."
+j-a09-8-outdoors: "Нет!"
 
 

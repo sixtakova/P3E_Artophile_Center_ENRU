@@ -1,17 +1,17 @@
 
-i: I'm not sure...
-i: This risk is really important for Anan.
-i: That's why Anan wanted to be the custodian.
-i: Changing the custodian won't be OK.
-u: But I can keep Anan constantly updated about it, and commit to following up on it every day.
-i: Hmm...
-i: OK, that doesn't sound at all bad.
-i: Contact Anan, say what you just said to me, and see if it's OK to change it.
-u: Great, thanks, Didi.
+i: Что-то у меня нет уверенности...
+i: Этот риск очень важен для Анана.
+i: Поэтому Анан хотел видеть себя ответственным.
+i: И менять ответственного просто так не стоит.
+u: Но я могу держать Анана в курсе происходящего и договориться о ежедневных обновлениях статуса.
+i: Хммм...
+i: OK, это звучит неплохо.
+i: Свяжитесь с Ананом, скажите то же, что сказали мне, и посмотрим, согласен ли он сменить ответственного.
+u: Отлично, спасибо, Диди.
 
 
-j-a09-6: "No problem."
-j-a09-6: "You're welcome."
-j-a09-6: "No, thank *you*!"
+j-a09-6: "Нет проблем."
+j-a09-6: "Пожалуйста."
+j-a09-6: "Нет, спасибо *вам*!"
 
 

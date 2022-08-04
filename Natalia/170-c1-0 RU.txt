@@ -1,21 +1,21 @@
 
-u: Didi?
-i: Yes, Mirai?
-u: Are we going to start the weekly cycles?
-i: Yes.
-u: So, it's a Tuesday today.
-u: Should we start all weekly cycles on Tuesdays, or should we start them at the beginning of calendar weeks?
-u: And if so, what do we do with partial weeks?
-i: Do you remember the similar conversation we had about the monthly cycles?
-u: Yes.
-i: It's the same.
-i: So, normally, we prefer to start all weekly cycles at the beginning of the week, but it can be any other day as well, especially if the project shares resources with other projects and they have to be on different days.
-i: And for the partial weeks, we can either have a small, partial cycle, or just merge them into the next one.
-u: I understand.
-u: Thanks.
+u: Диди?
+i: Да, Мирай?
+u: Мы начинаем еженедельные циклы?
+i: Да.
+u: Ага, и сегодня вторник.
+u: Как правильнее, стартовать все еженедельные циклы по вторникам или в начале календарных недель?
+u: И если следовать второму варианту, как поступать с неполными неделями?
+i: Вы помните, мы обсуждали аналогичный вопрос о ежемесячных циклах?
+u: Да.
+i: Здесь то же самое.
+i: Другими словами, еженедельные циклы обычно предпочитают начинать в начале недели, но можно выбрать и любой другой день недели, особенно если ресурсы проекта используются совместно с другими проектами и переключение ресурсов происходит в другие дни.
+i: Что касается неполных недель, можно выделить укороченный, неполный цикл или просто объединить их с последующим.
+u: Понятно.
+u: Спасибо.
 
 
-j-c1: "Any other questions?"
-j-c1: "Shall we move on?"
+j-c1: "Ещэ вопросы?"
+j-c1: "Можем двигаться дальше?"
 
 

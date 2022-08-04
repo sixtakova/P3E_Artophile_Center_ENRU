@@ -1,14 +1,14 @@
 
-i: Does anyone have any comments or issues?
-i: Can anyone think of any new risks?
-u: I do, Didi.
-i: What is it, Celes?
-u: How sure are we about the duration of mobilization?
-u: Have we finalized it with the selected contractor?
-u: I'm asking because we can't start demolishing the old warehouse until we've mobilized the site, and any delay in either of these two would impact the whole project.
+i: У кого-то есть дополнительные комментарии или известные проблемы?
+i: Появились ли какие-то новые риски?
+u: Я вижу новый риск, Диди.
+i: Что это, Селис?
+u: Насколько мы уверены в оценке продолжительности подготовки строительной площадки?
+u: Согласовали мы эту оценку с выбранным исполнителем?
+u: Я спрашиваю, поскольку мы не можем начать снос старого склада до того, как площадка будет подготовлена, и любая задержка любого их этих шагов будет иметь влияние на проект в целом.
 
 
-j-c3-7-self: Answer Celes.
-j-c3-7-cus: Ask the custodian of the mobilization contract to answer Celes.
+j-c3-7-self: Ответить Селис.
+j-c3-7-cus: Попросить ответственного за контракт на подготовку площадки ответить Селис.
 
 

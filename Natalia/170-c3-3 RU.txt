@@ -1,14 +1,14 @@
 
-u: Sure.
-u: We need to get permission from the city, which I've already started working on.
-u: In the past 2 years, almost everything has been automated and online, so it's all become much easier and faster.
-u: I think we'll have the permission in less than 48 hours.
-i: Great.
-i: Any risks?
-u: I can't think of any.
-i: Thanks.
+u: Конечно.
+u: Необходимо получить разрешение от города, я уже начал над этим работать.
+u: За полследние пару лет практически всё было автоматизировано и переведено в онлайн, поэтому получение разрешений будет проще и быстрее.
+u: Полагаю, мы получим разрешение быстрее, чем за 48 часов.
+i: Отлично.
+i: Какие-то риски?
+u: Я таких не вижу.
+i: Спасибо.
 
 
-j-c3-4: "Zia, could you tell us about your deliverable?"
+j-c3-4: "Зиа, не могли бы вы рассказать вам о вашей задаче?"
 
 

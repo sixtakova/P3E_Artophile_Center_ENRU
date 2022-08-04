@@ -1,14 +1,14 @@
 
-i: That's not a bad idea.
-i: Although this risk is important for Anan...
-u: I can keep Anan constantly up to date about its status!
-i: Yeah... that's a good idea.
-i: Ask Anan if it's OK, and if so, we'll make you the custodian of this item.
-u: Great, thanks, Didi.
+i: Неплохая идея.
+i: Хотя этот риск очень важен для Анана...
+u: Я буду держать Анана в курсе статуса!
+i: Ага... это хорошая идея.
+i: Спросите Анана о его мнении, и если такой вариант подходит, сделаем вас ответственным за этот пункт.
+u: Отлично, спасибо, Диди.
 
 
-j-a09-6: "No problem."
-j-a09-6: "You're welcome."
-j-a09-6: "No, thank you!"
+j-a09-6: "Нет проблем."
+j-a09-6: "Пожалуйста."
+j-a09-6: "Нет, спасибо вам!"
 
 

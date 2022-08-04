@@ -1,17 +1,16 @@
 
-i: I think so...
-u: It's a great opportunity.
-u: Also, I've read in the P3.express manual that it's best to invite as many stakeholders as possible to the project kick-off meeting.
-i: OK, now you're showing off a little ;)
-u: Sorry :')
-i: I'm kidding; thanks for the input.
-i: Yes, let's invite everyone.
-u: Something else, Didi.
-u: Would it be a good idea to make me the custodian of this risk, instead of Anan?
-u: After all, Anan isn't involved in the day-to-day work of the project.
+i: Думаю, да...
+u: Это отличная возможность.
+u: Кроме того, согласно руководству P3.express лучше пригласить на стартовую встречу проекта так много стейкхолдеров, как возможно.
+i: OK, вы немного красуетесь ;)
+u: Прошу прощения :')
+i: Шучу; спасибо за дополнительный аргумент.
+i: Да, давайте пригласим всех.
+u: Кое-что ещё, Диди.
+u: Может быть, стоит сделать меня ответственным за этот риск вместо Анана?
+u: В конце концов, Анан не вовлечён в ежедневную проектную работу.
 
-
-j-a09-5-yes: Yes
-j-a09-5-no: No
+j-a09-5-yes: Да
+j-a09-5-no: Нет
 
 

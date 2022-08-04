@@ -1,16 +1,16 @@
 
-i: Yes, Mirai, the very first C01 doesn't apply.
-i: We can either skip it, or use it to prepare for measuring and reporting in future C01s.
-u: I'm already prepared.
-i: Good, then there's nothing else we need to do for this C01.
-u: How about C02?
-i: Do we have any deviations?
-u: Of course not; we've just started.
-i: So, there's nothing to do for C02 this time.
-u: Do we need C03?
+i: Да, Мирвй, самый первый шаг C01 не выполняется.
+i: Можно либо пропустить его, либо использовать для подготовки метрик и форм отчётности для C01 на будущих итерациях.
+u: Всё уже подготовлено.
+i: Хорошо, тогда ничего дополнительно для этой итерации C01 делать не нужно.
+u: Что насчёт C02?
+i: У нас уже есть какие-то отклонения от плана?
+u: Конечно, нет; мы только начали.
+i: Тогда в этот раз у нас нет задач в рамках C02.
+u: Нужно ли нам что-то делать в рамках C03?
 
 
-j-c3-yes: Yes
-j-c3-no: No
+j-c3-yes: Да
+j-c3-no: Нет
 
 

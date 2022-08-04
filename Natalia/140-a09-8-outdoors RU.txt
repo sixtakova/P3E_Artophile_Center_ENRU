@@ -1,18 +1,18 @@
 
-i: No, Mirai... 
-i: We don't want it to be a boring, corporate meeting. 
-i: After all, we'll be more focused on team-building and on mitigating that risk you mentioned before. Let's do something more interesting.
-u: Such as?
-i: Do you have any ideas?
-u: Well...
-u: It's good weather these days, so, how about setting up a marquee in front of the old warehouse, which is where we'll be building the convention center, and have a barbeque?!
-i: That's...
-i: That's crazy...
-i: I love it!
-u: Oh, great :)
-u: Anything else?
+i: Нет, Мирай... 
+i: Мы не хотим устраивать очередную скучную корпоративную встречу. 
+i: В конце концов, было бы лучше сосредоточиться на формировании команды и снижении риска, который мы выделили ранее. Давайте придумаем что-то поинтереснее.
+u: Например?
+i: У вас есть идеи?
+u: Ну...
+u: Сейчас отличная погода, что если установить шатёр перед старым складом, на месте которого мы планируем построить конференц-центр, и устроить шашлыки?!
+i: Это...
+i: Это сумасшедшая идея...
+i: Мне нравится!
+u: Превосходно :)
+u: Что-нибудь ещё?
 
 
-j-a09-9: Yes!
+j-a09-9: Да!
 
 

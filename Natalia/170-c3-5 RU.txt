@@ -1,18 +1,18 @@
 
-i: OK, and for my own deliverable, insurance...
-i: I've checked with 4 insurance companies.
-i: It was a little difficult because they offer too many options.
-i: In the end,
-i: I picked two options from two different insurance companies.
-i: Both of them seem fine to me,
-i: and Zia is checking them right now.
-i: We'll have one selected and signed by the end of the week.
-i: The biggest risk for someone like me in a case like this is to have something seemingly harmless in the agreement that turns out to be a big problem, because these are really complicated documents.
-i: However, I'm not that worried, because Zia and the others in the procurement department take care of that.
+i: OK, теперь к моему результату, страхованию...
+i: Мне удалось сопоставить варианты от 4 страховых компаний.
+i: Это не было самой простой задачей, потому что они предлагают слишком много разных вариантов.
+i: В конце концов,
+i: были выбраны два варианта от двух разных страховщиков.
+i: Меня устроит любой из них,
+i: и Зиа прямо сейчас занимается их сопоставлением.
+i: К концу недели у нас будет единственный выбранный и закреплённый в контракте вариант.
+i: Наибольший риск для таких, как я, в подобных ситуациях - включить в контракт какой-то внешне безобидный пункт, который может вылиться в большую проблему из-за сложности документа.
+i: В то же время, я не слишком беспокоюсь об этом, поскольку Зиа и другие коллеги из департамента закупок позаботятся об этом.
 
 
-j-c3-6-nocomm: End the meeting.
-j-c3-6-comm: Ask whether anyone has any issues, risks, or comments.
+j-c3-6-nocomm: Завершить встречу.
+j-c3-6-comm: Спросить, хочет ли кто-то взять слово для комментария или сообщить о проблемах или рисках.
 
 
 #%90

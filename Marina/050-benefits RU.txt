@@ -1,11 +1,11 @@
 
-q: OK, I think I've changed my mind about a few of them!
-q: Creating a monumental work of art may be a good idea because it will help promote the company's future, but it's not a benefit - it's just one way of achieving a benefit. So, that one is out.
-q: Using internal resources: I don't know why I added it to my list; it's not a benefit, but just the way we want to work. I mean, we don't really run the project as a way of using up internal resources, do we?
-q: The other four are all benefits. We want to have this convention center to use for our events and also to rent it out to other businesses, which generates direct money and also helps promote our name. We also want to make it available to artistic, cultural, and not-for-profit events for free, which benefits the community and promotes our company.
+q: Так, кажется я передумала насчет нескольких из них!
+q: Создание монументального произведения искусства может и неплохая идея так как поможет продвигать компанию в будущем, но это не выгода - это только способ ее достижения. Так что это вычеркиваем.
+q: Использование внутренних ресурсов: я вообще не знаю почему добавила это в мой список, это не выгода, а просто способ, каким мы собираемся работать. В том смысле, что мы запускаем проект не для того, чтобы использовать внутренние ресурсы, не так ли?
+q: Остальные четыре являются выгодами. Мы хотим иметь конференц-центр, чтобы использовать его для собственных мероприятий, а также сдавать его в аренду другим предприятиям, что позволит зарабатывать деньги напрямую, а также поможет продвигать нас. Мы также хотим предоставлять его для художественных, культурных и некоммерческих мероприятий бесплатно, что помогает сообществу и продвигает нашу компанию.
 
 
-j-benefits-2: OK, I guess we're done with the benefits.
-j-benefits-2: What else should I do with the expected benefits?
+j-benefits-2: ОК, кажется мы закончили с выгодами.
+j-benefits-2: Что еще мне следует сделать с ожидаемыми выгодами?
 
 

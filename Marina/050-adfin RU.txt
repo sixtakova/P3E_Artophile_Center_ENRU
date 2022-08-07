@@ -1,9 +1,9 @@
 
 s: Снова в офисе Диди
-q: OK, while I'm waiting for the initial team members, maybe I can start preparing a draft of the Project Description. !Хорошо, пока я жду первых членов команды, начну наверное подготовку черновика Резюме проекта
-q: When they join, we can refine it together. !Когда они присоединятся, мы сможем детализировать его вместе
-q: So, according to A04, the first element in the Project Description is the purpose and expected benefits. !Итак, согласно шагу А04, первым пунктом Резюме проекта должны быть его цели и ожидаемые выгоды
-q: OK, that's everything I can think of... !ОК, пока это все, что я могу придумать
+q: Хорошо, пока я жду первых членов команды, начну наверное подготовку черновика Резюме проекта
+q: Когда они присоединятся, мы сможем детализировать его вместе
+q: Итак, согласно шагу А04, первым пунктом Резюме проекта должны быть его цели и ожидаемые выгоды
+q: ОК, пока это все, что я могу придумать
 
 n---
 **Benefits:** !**Выгоды:**

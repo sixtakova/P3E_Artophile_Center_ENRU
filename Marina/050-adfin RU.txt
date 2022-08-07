@@ -1,6 +1,6 @@
 
-s: Back in Didi's office
-q: OK, while I'm waiting for the initial team members, maybe I can start preparing a draft of the Project Description.
+s: Снова в офисе Диди
+q: Хорошо, пока я жду первых членов команды, начну наверное подготовку черновика Резюме проекта.
 q: When they join, we can refine it together.
 q: So, according to A04, the first element in the Project Description is the purpose and expected benefits.
 q: OK, that's everything I can think of...

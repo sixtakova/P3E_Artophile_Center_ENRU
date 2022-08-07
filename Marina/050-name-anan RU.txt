@@ -1,15 +1,15 @@
 
-q: I'll send Anan an email...
+q: Отправлю Анану письмо...
 
 e---
-Hi Anan,
-Do we already have a name or a codename for the project?
-If not, shall we come up with one?
+Привет, Анан,
+У нас уже есть название или кодовое имя для проекта?
+Если нет, то может нам стоит его придумать?
 
-Regards,
-Didi
+С уважением,
+Диди
 ---e
 
 
-j-send-email-1: Send
+j-send-email-1: Отправить
 

@@ -1,9 +1,7 @@
 
-i: OK, as I remember, we're relatively confident about the duration.
-i: At least, that's what I asked Zia to check with them.
-i: Maybe I should ask Zia to explain; after all, Zia is the custodian of this deliverable.
+i: OK, насколько я помню, мы достаточно уверены в оценке продолжительности.
+i: По крайней мере, я просила Зиа получить подтверждение команд.
+i: Возможно, мне стоит попросить Зиа объяснить; в конце концов, Зиа отвечает за этот результат.
 
 
-j-c3-7-cus: Ask Zia to answer Celes.
-
-
+j-c3-7-cus: Прпросить Зиа ответить Селис.

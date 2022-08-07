@@ -1,11 +1,9 @@
 
-i: Zia, you're the custodian of the mobilization contract.
-i: What do you think about Celes' concern?
-u: Well, we have the agreed duration in the contract, and there's a provision for damages if they finish late, so I'd say we can be reasonably sure that they'll finish it on time.
-i: Thanks, Zia.
+i: Зиа, вы отвечаете за контракт по подготовке площадки.
+i: Что скажете об опасениях Селис?
+u: Хорошо, мы согласовали продолжительность работ в контракте, также предусмотрена компенсация убытков, если работы будут завершены с опозданием. Поэтому я считаю, что с большой вероятностью работы будут выполнены в срок.
+i: Спасибо, Зиа.
 
 
-j-c3-8-comm: "Any other comments or questions?"
-j-c3-8-nocomm: End the meeting.
-
-
+j-c3-8-comm: "Какие-то ещё вопросы или комментарии?"
+j-c3-8-nocomm: Завершить встречу.

@@ -1,9 +1,7 @@
 
-i: OK, seems like no one else has any comments or questions.
-i: Thanks everyone for coming.
-i: Let's stay in touch, and see you all next time.
+i: OK, кажется, ни у кого нет вопросов или комментариев.
+i: Спасибо всем за участие.
+i: Давайте оставаться на связи, и до следующей встречи!
 
 
-j-c4-1: Go back to the office.
-
-
+j-c4-1: Вернуться в офис.

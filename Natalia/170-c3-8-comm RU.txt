@@ -1,10 +1,8 @@
 
-i: Does anyone else have any questions or comments?
-s: Silence
-i: OK, we're done then!
-i: Thanks for coming... stay in touch, and see you here next week at the same time.
+i: Есть у кого-нибудь вопрос или комментарии?
+s: Тишина
+i: OK, тогда мы закончили!
+i: Спасибо всем за участие... остаёмся на связи и увидимся здесь же в это же время через неделю.
 
 
-j-c4-1: Go back to the office.
-
-
+j-c4-1: Вернуться в офис.

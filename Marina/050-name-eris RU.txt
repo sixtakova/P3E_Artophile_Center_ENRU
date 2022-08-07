@@ -1,9 +1,9 @@
 
-q: I'll just ask Eris.
-q: Although...
-q: going directly to the CEO instead of the sponsor may undermine the sponsor's authority and harm our relationship.
+q: Я просто спрошу Эрис.
+q: Хотя...
+q: Обращение напрямую к CEO вместо спонсора может подорвать авторитет спонсора и навредить нашим отношениям.
 
 
-j-name-Anan: Ask Anan whether the project already has a name.
+j-name-Anan: Ask Anan whether the project already has a name. !Спросить Анана есть ли уже у проекта имя.
 
 

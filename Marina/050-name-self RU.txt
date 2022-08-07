@@ -1,10 +1,10 @@
 
-q: Let me think of a cool name for the project...
-q: Oh, wait, though - what if they've already selected a name for it?
-q: I should ask them first.
+q: Мне нужно придумать крутое название для проекта.....
+q: А хотя подождите, что если для него уже выбрано название?
+q: Лучше сначала спросить
 
 
-j-name-Eris: Ask Eris whether the project already has a name.
-j-name-Anan: Ask Anan whether the project already has a name.
+j-name-Eris: Спросить Эрис, есть ли уже у проекта название
+j-name-Anan: Спросить Анана, есть ли уже у проекта название
 
 

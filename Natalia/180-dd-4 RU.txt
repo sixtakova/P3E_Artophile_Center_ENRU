@@ -1,19 +1,17 @@
 
-s: In the cafeteria
-u: Hi Didi!
-i: Hi Mirai.
-u: I meant to ask you...
-u: What should we do during the week?
-i: Well, it's basically D01 and D02, which are about managing risks, issues, and change requests, and also about accepting completed deliverables.
-u: How does it work?
-i: Well, there was in fact a completed deliverable a few hours ago: our construction permit.
-i: I checked and 'accepted' it from Azar.
-i: While doing that, I found two new follow-up actions that are now stored in the register.
-u: I see.
-u: So, we should basically wait to see what happens?
+s: В кафетерии
+u: Добрый день, Диди!
+i: Добрый день, Мирай.
+u: У меня возник вопрос...
+u: Чем мы будем заниматься в течение недели?
+i: В целом мы будем заниматься шагами D01 and D02, которые предполагают управление рисками, проблемами и запросами на изменения, а также о приёмке результатов работы.
+u: Как это работает?
+i: Ну, по сути несколько часов назад мы получили достигнутый результат: наше разрешение на строительство.
+i: Я проверила его и "приняла" от Азара.
+i: Во время приёмки были выявлены две новых меры реагирования, которые теперь добавлены в реестр.
+u: Понятно.
+u: То есть теперь мы просто ждём, что произойдёт?
 
 
-j-dd-5-yes: Yes
-j-dd-5-no: No
-
-
+j-dd-5-yes: Да
+j-dd-5-no: Нет

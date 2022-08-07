@@ -1,16 +1,14 @@
 
-s: Two days later
+s: Два дня спустя
 
 e---
-Hi Didi,
-We've got the permit from the city. We're allowed to do construction work on the site now.
+Добрый день Диди,
+Мы получили разрешение от города. Теперь мы можем выполнять строительные работы на площадке.
 
-Regards,
-Azar
+С уважением,
+Азар
 ---e
 
 
-j-dd-2-nocopy: Thank Azar.
-j-dd-2-copy: Ask Azar for a copy of the permit.
-
-
+j-dd-2-nocopy: Поблагодарить Азара.
+j-dd-2-copy: Попросить Азара прислать копию разрешения.

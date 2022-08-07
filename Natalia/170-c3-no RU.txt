@@ -1,11 +1,9 @@
 
-q: Hmm...
-q: let me think...
-q: Do we need C03?
-q: Do we need to have a weekly kick-off meeting when we didn't have anything to do with C01 and C02?
-q: I was about to say no, but now that I think about it, it always makes sense to have it.
+q: Хммм...
+q: дайте мне подумать...
+q: Нужен ли нам шаг C03?
+q: Нужна ли нам еженедельная встреча по проекту, если в рамках C01 и C02 не было никаких активностей?
+q: Мне уже хотелось ответить нет, но сейчас я понимаю, что в проведении такой встречи всегда есть смысл.
 
 
-j-c3-yes: Yes!
-
-
+j-c3-yes: Да!

@@ -1,13 +1,11 @@
 
-u: So, Didi, time for C04?
-i: Yes, Mirai.
-u: I don't understand, though...
-u: Why do we need to send an email when we've just finished the meeting with the same topics as the email?
-i: To be sure that there's no misunderstanding, and also in case someone couldn't attend the meeting.
-i: Don't forget that our team is still very small, but that will change very soon.
-u: I see.
+u: Итак, Диди, время для C04?
+i: Да, Мирай.
+u: Хотя я не понимаю...
+u: Зачем нужно отправлять письмо, если мы только что завершили тему по тем же вопросам, что отражены в нём?
+i: Чтобы убедиться, что нет каких-то недопониманий и на тот случай, если кто-то не смог присутствовать.
+i: Не забывайте, что это сейчас наша команда всё ещё очень мала, но это скоро изменится.
+u: Понятно.
 
 
-j-c4-2: Start working on the email.
-
-
+j-c4-2: Приступить к работе над письмом.

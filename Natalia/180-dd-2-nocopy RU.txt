@@ -1,10 +1,8 @@
 
-q: I don't need a copy of the permit... Azar knows a lot more about these things than I do.
-q: Although...
-q: It's a project document, and I should have a copy of every document!
-q: Also, I'm not a legal expert, but I think I should still read the permit and make sure it's what we expect it to be.
+q: Мне не нужна копия разрешения... Азар знает о подобном регулировании гораздо больше меня.
+q: Хотя...
+q: Это проектный документ, и у меня должны быть копии всех документов!
+q: Кроме этого, я не юрист, но, думаю, мне всё же следует ознакомиться с этим разрешением и убедиться, что оно соответствует нашим ожиданиям.
 
 
-j-dd-2-copy: Ask Azar for a copy of the permit.
-
-
+j-dd-2-copy: Попросить Азара прислать копию разрешения.

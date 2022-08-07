@@ -1,20 +1,19 @@
 
 e---
-Hi everyone,
-Thanks for coming to the weekly kick-off meeting.
-As we discussed, we will be working on these items this week:
+Всем добрый день,
+Спасибо, что приняли участие в еженедельной встрече по проекту.
+Как обсудили, на этой неделе будем работать над следующими задачами:
 
-- Insurance
-- Permissions
-- Mobilization contract
+- Страхование
+- Разрешение на строительство
+- Контракт на подготовку площадки
 
-We didn't identify any new risks this time, but let me know if you came up with anything later, or if you have any issues.
+В этот раз мы не выявили никаких новых рисков, но если вы вспомните о чём-то или столкнётесь с какими-либо проблемами, сообщите мне, пожалуйста.
 
-Regards,
-Didi
+
+С уважением,
+Диди
 ---e
 
 
-j-dd-1: Send.
-
-
+j-dd-1: Отправить.

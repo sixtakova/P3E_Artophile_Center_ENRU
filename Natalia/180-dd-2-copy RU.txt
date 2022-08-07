@@ -1,12 +1,10 @@
 
 e---
-Hi Azar,Thanks. Please send me a copy of the permit to store in our file. I'd also like to read it and understand the details as much as possible.
+Добрый день Азар, Спасибо. Пришлите мне, пожалуйста, копию разрешения для размещения на ресурсе проекта. Также мне хотелось бы ознакомиться с документом во всех возможных нюансах.
 
-Regards,
-Didi
+С уважением,
+Диди
 ---e
 
 
-j-dd-3: Send
-
-
+j-dd-3: Отправить

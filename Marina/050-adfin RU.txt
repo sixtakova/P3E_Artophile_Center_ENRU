@@ -1,21 +1,21 @@
 
-s: Back in Didi's office
-q: OK, while I'm waiting for the initial team members, maybe I can start preparing a draft of the Project Description.
-q: When they join, we can refine it together.
-q: So, according to A04, the first element in the Project Description is the purpose and expected benefits.
-q: OK, that's everything I can think of...
+s: Снова в офисе Диди
+q: OK, while I'm waiting for the initial team members, maybe I can start preparing a draft of the Project Description. !Хорошо, пока я жду первых членов команды, начну наверное подготовку черновика Резюме проекта
+q: When they join, we can refine it together. !Когда они присоединятся, мы сможем детализировать его вместе
+q: So, according to A04, the first element in the Project Description is the purpose and expected benefits. !Итак, согласно шагу А04, первым пунктом Резюме проекта должны быть его цели и ожидаемые выгоды
+q: OK, that's everything I can think of... !ОК, пока это все, что я могу придумать
 
 n---
-**Benefits:**
-1. Promoting the company
-2. Helping the community
-3. Creating a monumental work of art
-4. Earning money (directly)
-5. Using internal resources
-6. Having a convenient place for our own events
+**Benefits:** !**Выгоды:**
+1. Promoting the company !1. Продвижение компании
+2. Helping the community !2. Помощь сообществу
+3. Creating a monumental work of art !3. Создание монументального произведения искусства
+4. Earning money (directly) !4. Прямое зарабатывание денег
+5. Using internal resources !5. Использование внутренних ресурсов
+6. Having a convenient place for our own events !6. Приобретение удобного места для проведения наших собственных мероприятий
 ---n
 
-q: Which ones are the real benefits in our project?
+q: Which ones are the real benefits in our project? !Что из списка действительно является выгодами нашего проекта?
 
 
 j-benefits: 4
@@ -23,7 +23,7 @@ j-benefits: 4,1
 j-benefits: 1
 j-benefits: 1,3,5
 j-benefits: 1,2,4,6
-j-benefits: All
+j-benefits: All !Всё
 j-benefits: ?
 
 

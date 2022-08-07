@@ -1,19 +1,19 @@
 
-q: So, I have a list of four expected benefits for the project.
+q: Итак, в моем списке четыре ожидаемых выгоды от проекта.
 
 d---
-**Benefits:**
-* Promoting the company
-* Helping the community
-* Earning money (directly)
-* Having a convenient place for our own events
+**Выгоды:**
+* Продвижение компании
+* Помощь сообществу
+* Прямое зарабатывание денег
+* Создание монументального произведения искусства
 ---d
 
-q: I'm almost done for now.
-q: When the Project Description is ready, I'll ask Anan to check it and discuss it with the board to check that it's OK.
-q: What's next for the Project Description?
+q: Теперь почти все
+q: Когда описание проекта будет готово, я попрошу Анана проверить его и обсудить с советом директоров, чтобы убедиться, что с ним все в порядке.
+q: Что в Резюме проекта идет дальше?
 
 
-j-pd-s2: Expected cost and duration
+j-pd-s2: Ожидаемые стоимость и срок реализации
 
 

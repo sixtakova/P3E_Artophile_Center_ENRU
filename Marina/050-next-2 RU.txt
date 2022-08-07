@@ -1,18 +1,17 @@
 
-s: 15 minutes later
-q: Oh, here's the email!
+s: 15 минут спустя
+q: О, а вот и письмо!
 
 e---
-Hi Didi,
-Because of its promotional capacity, we want the center to be called after the company: the Artophile Center
+Привет, Диди,
+В связи с его потенциалом для продвижения, мы бы хотели, чтобы центр назывался в честь компании: Артофил Центр
 
-Regards,
-Anan
+С уважением,
+Анан
 ---e
 
-q: OK, that's taken care of.
+q: Хорошо, об этом позаботились.
 
 
-j-next-3: Update the Project Description and add the name.
-
+j-next-3: Обновить Резюме проекта и добавить название.
 
